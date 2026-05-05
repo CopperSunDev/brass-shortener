@@ -1,4 +1,9 @@
 {
+  "118e": {
+    "project": "brasstranscripts",
+    "slug": "brazilian-portuguese-transcription-guide",
+    "url": "https://brasstranscripts.com/blog/brazilian-portuguese-transcription-guide"
+  },
   "15tt": {
     "project": "brasstranscripts",
     "slug": "transcribe-whatsapp-voice-notes",
@@ -28,5 +33,10 @@
     "project": "brasstranscripts",
     "slug": "transcribe-my-audio",
     "url": "https://brasstranscripts.com/blog/transcribe-my-audio"
+  },
+  "gnvn": {
+    "project": "brasstranscripts",
+    "slug": "arabic-audio-transcription-guide",
+    "url": "https://brasstranscripts.com/blog/arabic-audio-transcription-guide"
   }
 }
