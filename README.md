@@ -3,14 +3,14 @@
 Tiny URL shortener serving Brass-SEO, BrassTranscripts, and CopperSun.io social posts.
 
 - **Live:** https://brss.fyi/{code}
-- **Stack:** single Vercel Edge Function + a JSON mapping table. No database, no Next.js, no dependencies.
+- **Stack:** single Vercel Node.js Function (Fluid Compute) + a JSON mapping table. No database, no Next.js, no dependencies.
 
 ## How it works
 
 1. Generation pipeline (in `19-Brass-SEO/scripts/generate-social-draft.mjs`) computes a deterministic 4-char base36 code for each `(project, slug)` pair.
 2. The pipeline writes the mapping into `shortlinks.json` in this repo and commits it.
-3. This deployment serves `https://brss.fyi/{code}` — reads the JSON at build time, 301-redirects to the long URL.
-4. Cache headers: `public, max-age=300, s-maxage=300` (5 min) — short links are stable, but new entries roll out within 5 minutes of deploy.
+3. This deployment serves `https://brss.fyi/{code}` — loads the JSON at module init, 302-redirects to the long URL.
+4. Cache headers: `public, max-age=300, s-maxage=300` (5 min). 302 (not 301) is intentional — 301s are browser-cached indefinitely, making typo'd shortlinks impossible to repoint. Use 302 to keep mappings updatable.
 
 ## Files
 
