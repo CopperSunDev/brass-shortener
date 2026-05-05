@@ -1,0 +1,10 @@
+{
+  "name": "brass-shortener",
+  "version": "1.0.0",
+  "description": "Tiny URL shortener at brss.fyi serving Brass-SEO, BrassTranscripts, and CopperSun.io.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  }
+}
