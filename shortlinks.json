@@ -83,5 +83,10 @@
     "project": "brasstranscripts",
     "slug": "transcribe-audio-from-google-drive",
     "url": "https://brasstranscripts.com/blog/transcribe-audio-from-google-drive"
+  },
+  "vqzn": {
+    "project": "brasstranscripts",
+    "slug": "assemblyai-vs-deepgram-pricing-high-volume-comparison",
+    "url": "https://brasstranscripts.com/blog/assemblyai-vs-deepgram-pricing-high-volume-comparison"
   }
 }
