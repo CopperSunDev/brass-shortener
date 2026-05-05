@@ -2,5 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     { "source": "/:code", "destination": "/api/:code" }
-  ]
+  ],
+  "functions": {
+    "api/[code].js": {
+      "includeFiles": "shortlinks.json"
+    }
+  }
 }

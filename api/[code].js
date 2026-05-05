@@ -1,6 +1,11 @@
-import shortlinks from '../shortlinks.json' with { type: 'json' };
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
 
-export const config = { runtime: 'edge' };
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const shortlinks = JSON.parse(
+  readFileSync(join(__dirname, '..', 'shortlinks.json'), 'utf8')
+);
 
 export function GET(request) {
   const url = new URL(request.url);
