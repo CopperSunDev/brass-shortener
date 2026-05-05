@@ -73,5 +73,10 @@
     "project": "brasstranscripts",
     "slug": "arabic-audio-transcription-guide",
     "url": "https://brasstranscripts.com/blog/arabic-audio-transcription-guide"
+  },
+  "m698": {
+    "project": "brasstranscripts",
+    "slug": "transcribe-audio-from-google-drive",
+    "url": "https://brasstranscripts.com/blog/transcribe-audio-from-google-drive"
   }
 }
