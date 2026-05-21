@@ -29,6 +29,11 @@
     "slug": "seo-article-series-transcript-ai-prompt",
     "url": "https://brasstranscripts.com/blog/seo-article-series-transcript-ai-prompt"
   },
+  "10vg": {
+    "project": "brasstranscripts",
+    "slug": "professional-audio-transcription-services-guide",
+    "url": "https://brasstranscripts.com/blog/professional-audio-transcription-services-guide"
+  },
   "10zw": {
     "project": "brass-seo",
     "slug": "meta-descriptions-that-sell",
@@ -38,6 +43,11 @@
     "project": "brasstranscripts",
     "slug": "brazilian-portuguese-transcription-guide",
     "url": "https://brasstranscripts.com/blog/brazilian-portuguese-transcription-guide"
+  },
+  "118p": {
+    "project": "brasstranscripts",
+    "slug": "standup-meeting-transcription-agile-teams-guide",
+    "url": "https://brasstranscripts.com/blog/standup-meeting-transcription-agile-teams-guide"
   },
   "11lr": {
     "project": "brasstranscripts",
@@ -114,6 +124,11 @@
     "slug": "sales-call-transcription-ai-analysis-guide-2026",
     "url": "https://brasstranscripts.com/blog/sales-call-transcription-ai-analysis-guide-2026"
   },
+  "15l6": {
+    "project": "brasstranscripts",
+    "slug": "who-said-what-how-to-get-speaker-names-in-transcripts",
+    "url": "https://brasstranscripts.com/blog/who-said-what-how-to-get-speaker-names-in-transcripts"
+  },
   "15tt": {
     "project": "brasstranscripts",
     "slug": "transcribe-whatsapp-voice-notes",
@@ -184,6 +199,11 @@
     "slug": "earn-backlinks-grokipedia-corrections",
     "url": "https://brass-seo.com/blog/earn-backlinks-grokipedia-corrections"
   },
+  "1ai3": {
+    "project": "brasstranscripts",
+    "slug": "how-to-use-brasstranscripts-complete-guide",
+    "url": "https://brasstranscripts.com/blog/how-to-use-brasstranscripts-complete-guide"
+  },
   "1ai6": {
     "project": "brasstranscripts",
     "slug": "ai-transcription-speed-benchmark-productivity-impact",
@@ -208,6 +228,11 @@
     "project": "brass-seo",
     "slug": "topical-authority-why-one-post-isnt-enough",
     "url": "https://brass-seo.com/blog/topical-authority-why-one-post-isnt-enough"
+  },
+  "1awh": {
+    "project": "brasstranscripts",
+    "slug": "microsoft-teams-transcription-complete-guide-2025",
+    "url": "https://brasstranscripts.com/blog/microsoft-teams-transcription-complete-guide-2025"
   },
   "1b0y": {
     "project": "brass-seo",
@@ -263,6 +288,11 @@
     "project": "brass-seo",
     "slug": "audit-your-content-keep-fix-delete",
     "url": "https://brass-seo.com/blog/audit-your-content-keep-fix-delete"
+  },
+  "1dr1": {
+    "project": "brasstranscripts",
+    "slug": "yaml-files-transcription-workflows-configuration",
+    "url": "https://brasstranscripts.com/blog/yaml-files-transcription-workflows-configuration"
   },
   "1dt7": {
     "project": "brass-seo",
@@ -339,6 +369,11 @@
     "slug": "law-firms-bulk-transcription-worth-it-calculator",
     "url": "https://brasstranscripts.com/blog/law-firms-bulk-transcription-worth-it-calculator"
   },
+  "1gcm": {
+    "project": "brasstranscripts",
+    "slug": "brasstranscripts-vs-votars-honest-comparison",
+    "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-votars-honest-comparison"
+  },
   "1gcp": {
     "project": "brasstranscripts",
     "slug": "legal-practice-ai-tools-solo-firm-transcription",
@@ -389,10 +424,20 @@
     "slug": "internal-linking-seo-tactic",
     "url": "https://brass-seo.com/blog/internal-linking-seo-tactic"
   },
+  "1kc0": {
+    "project": "brasstranscripts",
+    "slug": "speaker-diarization-models-comparison",
+    "url": "https://brasstranscripts.com/blog/speaker-diarization-models-comparison"
+  },
   "1l3o": {
     "project": "brass-seo",
     "slug": "what-a-good-seo-audit-actually-tells-you",
     "url": "https://brass-seo.com/blog/what-a-good-seo-audit-actually-tells-you"
+  },
+  "1l6c": {
+    "project": "brasstranscripts",
+    "slug": "brasstranscripts-vs-rev-ai-vs-human-transcription-2025",
+    "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-rev-ai-vs-human-transcription-2025"
   },
   "1l87": {
     "project": "brass-seo",
@@ -509,6 +554,11 @@
     "slug": "powerful-llm-prompts-transcript-optimization",
     "url": "https://brasstranscripts.com/blog/powerful-llm-prompts-transcript-optimization"
   },
+  "1pea": {
+    "project": "brasstranscripts",
+    "slug": "ada-compliance-transcription-accessibility-requirements",
+    "url": "https://brasstranscripts.com/blog/ada-compliance-transcription-accessibility-requirements"
+  },
   "1pxb": {
     "project": "brasstranscripts",
     "slug": "transcript-quality-analyzer-ai-prompt",
@@ -533,6 +583,11 @@
     "project": "brass-seo",
     "slug": "zero-click-searches-explained",
     "url": "https://brass-seo.com/blog/zero-click-searches-explained"
+  },
+  "1qw8": {
+    "project": "brasstranscripts",
+    "slug": "google-meet-transcription-complete-guide-2025",
+    "url": "https://brasstranscripts.com/blog/google-meet-transcription-complete-guide-2025"
   },
   "1qzu": {
     "project": "brasstranscripts",
@@ -564,15 +619,30 @@
     "slug": "mobile-friendly-site-seo",
     "url": "https://brass-seo.com/blog/mobile-friendly-site-seo"
   },
+  "1s64": {
+    "project": "brasstranscripts",
+    "slug": "legal-transcription-law-firms-guide",
+    "url": "https://brasstranscripts.com/blog/legal-transcription-law-firms-guide"
+  },
   "1sc2": {
     "project": "brasstranscripts",
     "slug": "ai-transcription-accuracy-claims-investigation",
     "url": "https://brasstranscripts.com/blog/ai-transcription-accuracy-claims-investigation"
   },
+  "1sf0": {
+    "project": "brasstranscripts",
+    "slug": "why-transcription-services-dont-need-account-creation",
+    "url": "https://brasstranscripts.com/blog/why-transcription-services-dont-need-account-creation"
+  },
   "1sio": {
     "project": "brasstranscripts",
     "slug": "government-meeting-documentation-ai-transcription-minutes",
     "url": "https://brasstranscripts.com/blog/government-meeting-documentation-ai-transcription-minutes"
+  },
+  "1srv": {
+    "project": "brasstranscripts",
+    "slug": "flat-rate-pricing-savings-announcement",
+    "url": "https://brasstranscripts.com/blog/flat-rate-pricing-savings-announcement"
   },
   "1suq": {
     "project": "brasstranscripts",
@@ -598,6 +668,11 @@
     "project": "brasstranscripts",
     "slug": "meeting-transcription-complete-guide",
     "url": "https://brasstranscripts.com/blog/meeting-transcription-complete-guide"
+  },
+  "1tfw": {
+    "project": "brasstranscripts",
+    "slug": "how-to-record-conversations-linux-complete-guide",
+    "url": "https://brasstranscripts.com/blog/how-to-record-conversations-linux-complete-guide"
   },
   "1tru": {
     "project": "brasstranscripts",
@@ -653,6 +728,11 @@
     "project": "brass-seo",
     "slug": "why-we-built-brass-seo",
     "url": "https://brass-seo.com/blog/why-we-built-brass-seo"
+  },
+  "1vvf": {
+    "project": "brasstranscripts",
+    "slug": "how-102-legal-audio-files-built-our-bulk-service",
+    "url": "https://brasstranscripts.com/blog/how-102-legal-audio-files-built-our-bulk-service"
   },
   "1vyr": {
     "project": "brasstranscripts",
@@ -749,10 +829,20 @@
     "slug": "how-long-does-seo-take",
     "url": "https://brass-seo.com/blog/how-long-does-seo-take"
   },
+  "2ynl": {
+    "project": "brasstranscripts",
+    "slug": "ai-transcription-pricing-deals-2025-cost-comparison",
+    "url": "https://brasstranscripts.com/blog/ai-transcription-pricing-deals-2025-cost-comparison"
+  },
   "35k9": {
     "project": "brass-seo",
     "slug": "is-my-website-slow",
     "url": "https://brass-seo.com/blog/is-my-website-slow"
+  },
+  "3eeg": {
+    "project": "brasstranscripts",
+    "slug": "non-english-transcription-99-language-ai-guide",
+    "url": "https://brasstranscripts.com/blog/non-english-transcription-99-language-ai-guide"
   },
   "3mxh": {
     "project": "brass-seo",
@@ -799,6 +889,11 @@
     "slug": "trint-pricing-2025-premium-journalism-media-costs",
     "url": "https://brasstranscripts.com/blog/trint-pricing-2025-premium-journalism-media-costs"
   },
+  "563t": {
+    "project": "brasstranscripts",
+    "slug": "how-to-transcribe-youtube-videos-on-ipad",
+    "url": "https://brasstranscripts.com/blog/how-to-transcribe-youtube-videos-on-ipad"
+  },
   "57qb": {
     "project": "brass-seo",
     "slug": "ecommerce-seo-hidden-products",
@@ -823,6 +918,11 @@
     "project": "brass-seo",
     "slug": "found-seo-problems-under-a-minute",
     "url": "https://brass-seo.com/blog/found-seo-problems-under-a-minute"
+  },
+  "5vy7": {
+    "project": "brasstranscripts",
+    "slug": "aws-transcribe-pricing-per-minute-2025-better-alternative",
+    "url": "https://brasstranscripts.com/blog/aws-transcribe-pricing-per-minute-2025-better-alternative"
   },
   "65yn": {
     "project": "brass-seo",
@@ -1069,6 +1169,11 @@
     "slug": "african-transcription-languages-guide",
     "url": "https://brasstranscripts.com/blog/african-transcription-languages-guide"
   },
+  "hk8j": {
+    "project": "brasstranscripts",
+    "slug": "speaker-identification-complete-guide",
+    "url": "https://brasstranscripts.com/blog/speaker-identification-complete-guide"
+  },
   "hr3e": {
     "project": "brass-seo",
     "slug": "running-grokipedia-playbook-what-we-found",
@@ -1093,6 +1198,11 @@
     "project": "brass-seo",
     "slug": "only-5-ga4-numbers-that-matter",
     "url": "https://brass-seo.com/blog/only-5-ga4-numbers-that-matter"
+  },
+  "j74u": {
+    "project": "brasstranscripts",
+    "slug": "free-zoom-transcription-5-methods-that-work",
+    "url": "https://brasstranscripts.com/blog/free-zoom-transcription-5-methods-that-work"
   },
   "jbn1": {
     "project": "brasstranscripts",
@@ -1128,6 +1238,11 @@
     "project": "brass-seo",
     "slug": "google-updated-algorithm-now-what",
     "url": "https://brass-seo.com/blog/google-updated-algorithm-now-what"
+  },
+  "kwiu": {
+    "project": "brasstranscripts",
+    "slug": "multi-speaker-transcription-identify-who-said-what",
+    "url": "https://brasstranscripts.com/blog/multi-speaker-transcription-identify-who-said-what"
   },
   "kwiz": {
     "project": "brass-seo",
@@ -1234,6 +1349,11 @@
     "slug": "geo-case-study-bounce-rate-post",
     "url": "https://brass-seo.com/blog/geo-case-study-bounce-rate-post"
   },
+  "payk": {
+    "project": "brasstranscripts",
+    "slug": "how-to-transcribe-multiple-speakers-complete-guide",
+    "url": "https://brasstranscripts.com/blog/how-to-transcribe-multiple-speakers-complete-guide"
+  },
   "pncb": {
     "project": "brass-seo",
     "slug": "bounce-rate-is-dead",
@@ -1264,6 +1384,11 @@
     "slug": "seo-numbers-dont-match-google",
     "url": "https://brass-seo.com/blog/seo-numbers-dont-match-google"
   },
+  "qulv": {
+    "project": "brasstranscripts",
+    "slug": "speaker-diarization-questions-answered-expert-guide",
+    "url": "https://brasstranscripts.com/blog/speaker-diarization-questions-answered-expert-guide"
+  },
   "quvl": {
     "project": "brasstranscripts",
     "slug": "sonix-pricing-2025-hybrid-model-complexity",
@@ -1284,10 +1409,20 @@
     "slug": "speaker-identification-issues-causes-solutions",
     "url": "https://brasstranscripts.com/blog/speaker-identification-issues-causes-solutions"
   },
+  "rf22": {
+    "project": "brasstranscripts",
+    "slug": "audio-quality-secrets-perfect-transcription",
+    "url": "https://brasstranscripts.com/blog/audio-quality-secrets-perfect-transcription"
+  },
   "rfoi": {
     "project": "brasstranscripts",
     "slug": "complete-brasstranscripts-guide-library-roundup",
     "url": "https://brasstranscripts.com/blog/complete-brasstranscripts-guide-library-roundup"
+  },
+  "s2p2": {
+    "project": "brasstranscripts",
+    "slug": "bulk-audio-transcription-service-multiple-files",
+    "url": "https://brasstranscripts.com/blog/bulk-audio-transcription-service-multiple-files"
   },
   "s2x5": {
     "project": "brass-seo",
@@ -1334,10 +1469,20 @@
     "slug": "eeat-what-google-checks-before-ranking",
     "url": "https://brass-seo.com/blog/eeat-what-google-checks-before-ranking"
   },
+  "vdb1": {
+    "project": "brasstranscripts",
+    "slug": "how-to-record-conversations-android-complete-guide",
+    "url": "https://brasstranscripts.com/blog/how-to-record-conversations-android-complete-guide"
+  },
   "ve4a": {
     "project": "brasstranscripts",
     "slug": "brasstranscripts-vs-trint-journalism",
     "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-trint-journalism"
+  },
+  "vfce": {
+    "project": "brasstranscripts",
+    "slug": "qualitative-research-transcription-gdpr-irb-nvivo-guide",
+    "url": "https://brasstranscripts.com/blog/qualitative-research-transcription-gdpr-irb-nvivo-guide"
   },
   "vqzn": {
     "project": "brasstranscripts",
@@ -1348,6 +1493,11 @@
     "project": "brass-seo",
     "slug": "ai-seo-tools-small-business-guide-2026",
     "url": "https://brass-seo.com/blog/ai-seo-tools-small-business-guide-2026"
+  },
+  "vxcx": {
+    "project": "brasstranscripts",
+    "slug": "common-transcription-mistakes-how-to-fix-them",
+    "url": "https://brasstranscripts.com/blog/common-transcription-mistakes-how-to-fix-them"
   },
   "w5f5": {
     "project": "brasstranscripts",
@@ -1398,5 +1548,15 @@
     "project": "brasstranscripts",
     "slug": "speaker-introductions-best-practice-for-transcription",
     "url": "https://brasstranscripts.com/blog/speaker-introductions-best-practice-for-transcription"
+  },
+  "ypgm": {
+    "project": "brasstranscripts",
+    "slug": "transcribe-m4a-files-complete-guide",
+    "url": "https://brasstranscripts.com/blog/transcribe-m4a-files-complete-guide"
+  },
+  "zo2v": {
+    "project": "brasstranscripts",
+    "slug": "how-to-record-conversations-iphone-complete-guide",
+    "url": "https://brasstranscripts.com/blog/how-to-record-conversations-iphone-complete-guide"
   }
 }
