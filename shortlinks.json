@@ -1,4 +1,9 @@
 {
+  "1018": {
+    "project": "coppersun-brass",
+    "slug": "sast-finding-overload",
+    "url": "https://coppersun.dev/blog/sast-finding-overload"
+  },
   "1186": {
     "project": "brasstranscripts",
     "slug": "email-marketing-sequence-transcript-ai-prompt",
@@ -13,6 +18,11 @@
     "project": "brass-seo",
     "slug": "featured-snippets-2026",
     "url": "https://brass-seo.com/blog/featured-snippets-2026"
+  },
+  "1394": {
+    "project": "coppersun-brass",
+    "slug": "tuning-brasscoders-brassignore",
+    "url": "https://coppersun.dev/blog/tuning-brasscoders-brassignore"
   },
   "1553": {
     "project": "brasstranscripts",
@@ -83,6 +93,11 @@
     "project": "brass-seo",
     "slug": "rank-in-people-also-ask-boxes",
     "url": "https://brass-seo.com/blog/rank-in-people-also-ask-boxes"
+  },
+  "11za": {
+    "project": "coppersun-brass",
+    "slug": "add-brasscoders-to-github-actions",
+    "url": "https://coppersun.dev/blog/add-brasscoders-to-github-actions"
   },
   "127g": {
     "project": "brass-seo",
@@ -194,6 +209,11 @@
     "slug": "google-search-console-small-business-guide",
     "url": "https://brass-seo.com/blog/google-search-console-small-business-guide"
   },
+  "16av": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-cursor-workflow",
+    "url": "https://coppersun.dev/blog/brasscoders-cursor-workflow"
+  },
   "16fw": {
     "project": "brasstranscripts",
     "slug": "clean-transcript-text-ai-prompt",
@@ -304,6 +324,11 @@
     "slug": "microsoft-teams-transcription-complete-guide-2025",
     "url": "https://brasstranscripts.com/blog/microsoft-teams-transcription-complete-guide-2025"
   },
+  "1az6": {
+    "project": "coppersun-brass",
+    "slug": "audit-ready-ai-code-scan",
+    "url": "https://coppersun.dev/blog/audit-ready-ai-code-scan"
+  },
   "1b0y": {
     "project": "brass-seo",
     "slug": "how-to-read-your-ga4-traffic-report",
@@ -359,10 +384,20 @@
     "slug": "saas-startup-seo",
     "url": "https://brass-seo.com/blog/saas-startup-seo"
   },
+  "1d5n": {
+    "project": "coppersun-brass",
+    "slug": "why-bandit-misses-ai-coder-bugs",
+    "url": "https://coppersun.dev/blog/why-bandit-misses-ai-coder-bugs"
+  },
   "1d6i": {
     "project": "brass-seo",
     "slug": "audit-your-content-keep-fix-delete",
     "url": "https://brass-seo.com/blog/audit-your-content-keep-fix-delete"
+  },
+  "1d7u": {
+    "project": "coppersun-brass",
+    "slug": "when-ai-invents-libraries",
+    "url": "https://coppersun.dev/blog/when-ai-invents-libraries"
   },
   "1dhl": {
     "project": "brass-seo",
@@ -524,6 +559,11 @@
     "slug": "interview-transcript-blog-post-ai-prompt-guide",
     "url": "https://brasstranscripts.com/blog/interview-transcript-blog-post-ai-prompt-guide"
   },
+  "1jht": {
+    "project": "coppersun-brass",
+    "slug": "python-dependency-hallucination",
+    "url": "https://coppersun.dev/blog/python-dependency-hallucination"
+  },
   "1jk1": {
     "project": "brass-seo",
     "slug": "ai-mode-vs-traditional-search-2026",
@@ -594,6 +634,11 @@
     "slug": "why-chatgpt-cites-some-pages-and-skips-others",
     "url": "https://brass-seo.com/blog/why-chatgpt-cites-some-pages-and-skips-others"
   },
+  "1lxa": {
+    "project": "coppersun-brass",
+    "slug": "triage-static-analysis-findings",
+    "url": "https://coppersun.dev/blog/triage-static-analysis-findings"
+  },
   "1m73": {
     "project": "brass-seo",
     "slug": "grokipedia-backlinks-earn-high-da-links",
@@ -608,6 +653,11 @@
     "project": "brasstranscripts",
     "slug": "online-course-creator-transcription-playbook",
     "url": "https://brasstranscripts.com/blog/online-course-creator-transcription-playbook"
+  },
+  "1mka": {
+    "project": "coppersun-brass",
+    "slug": "semgrep-vs-brasscoders",
+    "url": "https://coppersun.dev/blog/semgrep-vs-brasscoders"
   },
   "1mol": {
     "project": "brass-seo",
@@ -899,6 +949,11 @@
     "slug": "get-cited-in-ai-search-results",
     "url": "https://brass-seo.com/blog/get-cited-in-ai-search-results"
   },
+  "1vdw": {
+    "project": "coppersun-brass",
+    "slug": "ai-code-cve-reckoning-q1-2026",
+    "url": "https://coppersun.dev/blog/ai-code-cve-reckoning-q1-2026"
+  },
   "1vjv": {
     "project": "brass-seo",
     "slug": "5-questions-before-giving-seo-tool-google-access",
@@ -1079,6 +1134,11 @@
     "slug": "semrush-pricing-2026",
     "url": "https://brass-seo.com/blog/semrush-pricing-2026"
   },
+  "3x53": {
+    "project": "coppersun-brass",
+    "slug": "sonarqube-vs-brasscoders",
+    "url": "https://coppersun.dev/blog/sonarqube-vs-brasscoders"
+  },
   "3yuf": {
     "project": "brass-seo",
     "slug": "i-asked-brass-seo-for-blog-post-ideas",
@@ -1093,6 +1153,11 @@
     "project": "brass-seo",
     "slug": "your-competitors-rank-higher",
     "url": "https://brass-seo.com/blog/your-competitors-rank-higher"
+  },
+  "4rvd": {
+    "project": "coppersun-brass",
+    "slug": "copilot-vs-brasscoders-division-of-labor",
+    "url": "https://coppersun.dev/blog/copilot-vs-brasscoders-division-of-labor"
   },
   "53pd": {
     "project": "brasstranscripts",
@@ -1143,6 +1208,11 @@
     "project": "brasstranscripts",
     "slug": "aws-transcribe-pricing-per-minute-2025-better-alternative",
     "url": "https://brasstranscripts.com/blog/aws-transcribe-pricing-per-minute-2025-better-alternative"
+  },
+  "5xci": {
+    "project": "coppersun-brass",
+    "slug": "the-other-tools-copper-sun-builds",
+    "url": "https://coppersun.dev/blog/the-other-tools-copper-sun-builds"
   },
   "5zcd": {
     "project": "brass-seo",
@@ -1209,6 +1279,11 @@
     "slug": "squarespace-seo-working-around-the-limits",
     "url": "https://brass-seo.com/blog/squarespace-seo-working-around-the-limits"
   },
+  "80nq": {
+    "project": "coppersun-brass",
+    "slug": "secrets-your-ai-might-leak",
+    "url": "https://coppersun.dev/blog/secrets-your-ai-might-leak"
+  },
   "821x": {
     "project": "brass-seo",
     "slug": "search-console-insights-guide",
@@ -1243,6 +1318,11 @@
     "project": "brass-seo",
     "slug": "gsc-vs-ga4-difference",
     "url": "https://brass-seo.com/blog/gsc-vs-ga4-difference"
+  },
+  "9m5g": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-open-source-on-github",
+    "url": "https://coppersun.dev/blog/brasscoders-open-source-on-github"
   },
   "9mc3": {
     "project": "brasstranscripts",
@@ -1288,6 +1368,11 @@
     "project": "brasstranscripts",
     "slug": "transcribe-discord-calls",
     "url": "https://brasstranscripts.com/blog/transcribe-discord-calls"
+  },
+  "cing": {
+    "project": "coppersun-brass",
+    "slug": "fastapi-security-ai-coders",
+    "url": "https://coppersun.dev/blog/fastapi-security-ai-coders"
   },
   "ck22": {
     "project": "brasstranscripts",
@@ -1418,6 +1503,11 @@
     "project": "brass-seo",
     "slug": "title-tags-that-get-clicks",
     "url": "https://brass-seo.com/blog/title-tags-that-get-clicks"
+  },
+  "fmng": {
+    "project": "coppersun-brass",
+    "slug": "ai-code-review-is-not-a-control",
+    "url": "https://coppersun.dev/blog/ai-code-review-is-not-a-control"
   },
   "fo69": {
     "project": "brass-seo",
@@ -1674,6 +1764,11 @@
     "slug": "how-to-transcribe-multiple-speakers-complete-guide",
     "url": "https://brasstranscripts.com/blog/how-to-transcribe-multiple-speakers-complete-guide"
   },
+  "pb7c": {
+    "project": "coppersun-brass",
+    "slug": "ai-coding-market-2026-five-numbers",
+    "url": "https://coppersun.dev/blog/ai-coding-market-2026-five-numbers"
+  },
   "pncb": {
     "project": "brass-seo",
     "slug": "bounce-rate-is-dead",
@@ -1763,6 +1858,11 @@
     "project": "brass-seo",
     "slug": "long-tail-keyword-became-a-blog-post",
     "url": "https://brass-seo.com/blog/long-tail-keyword-became-a-blog-post"
+  },
+  "t4ds": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-research-now-public",
+    "url": "https://coppersun.dev/blog/brasscoders-research-now-public"
   },
   "tbtn": {
     "project": "brasstranscripts",
