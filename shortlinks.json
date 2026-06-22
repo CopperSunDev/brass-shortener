@@ -144,6 +144,11 @@
     "slug": "brass-seo-affiliate-program",
     "url": "https://brass-seo.com/blog/brass-seo-affiliate-program"
   },
+  "13no": {
+    "project": "coppersun-brass",
+    "slug": "ai-generated-test-debt",
+    "url": "https://coppersun.dev/blog/ai-generated-test-debt"
+  },
   "13xg": {
     "project": "brass-seo",
     "slug": "press-releases-for-seo-backlinks",
@@ -243,6 +248,11 @@
     "project": "brass-seo",
     "slug": "get-cited-by-chatgpt-and-perplexity",
     "url": "https://brass-seo.com/blog/get-cited-by-chatgpt-and-perplexity"
+  },
+  "175w": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-vs-coderabbit",
+    "url": "https://coppersun.dev/blog/brasscoders-vs-coderabbit"
   },
   "178r": {
     "project": "brasstranscripts",
@@ -459,6 +469,11 @@
     "slug": "brasstranscripts-vs-tactiq-honest-comparison",
     "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-tactiq-honest-comparison"
   },
+  "1faq": {
+    "project": "coppersun-brass",
+    "slug": "hipaa-soc2-code-scanning",
+    "url": "https://coppersun.dev/blog/hipaa-soc2-code-scanning"
+  },
   "1fg5": {
     "project": "brass-seo",
     "slug": "geo-research-ai-search",
@@ -568,6 +583,11 @@
     "project": "brass-seo",
     "slug": "ai-mode-vs-traditional-search-2026",
     "url": "https://brass-seo.com/blog/ai-mode-vs-traditional-search-2026"
+  },
+  "1jqy": {
+    "project": "coppersun-brass",
+    "slug": "triage-500-line-ai-pr",
+    "url": "https://coppersun.dev/blog/triage-500-line-ai-pr"
   },
   "1k4i": {
     "project": "brass-seo",
@@ -1009,6 +1029,11 @@
     "slug": "brass-seo-geo-strategy",
     "url": "https://brass-seo.com/blog/brass-seo-geo-strategy"
   },
+  "1yf9": {
+    "project": "coppersun-brass",
+    "slug": "what-api-review-sends-off-your-machine",
+    "url": "https://coppersun.dev/blog/what-api-review-sends-off-your-machine"
+  },
   "1yh0": {
     "project": "brass-seo",
     "slug": "why-we-built-brass-seo-read-only",
@@ -1404,6 +1429,11 @@
     "slug": "indexed-but-nobody-finds-it",
     "url": "https://brass-seo.com/blog/indexed-but-nobody-finds-it"
   },
+  "dh22": {
+    "project": "coppersun-brass",
+    "slug": "ai-team-code-review-policy",
+    "url": "https://coppersun.dev/blog/ai-team-code-review-policy"
+  },
   "dhpv": {
     "project": "brass-seo",
     "slug": "shopify-seo-7-settings-that-move-rankings",
@@ -1614,6 +1644,11 @@
     "slug": "brasstranscripts-vs-fireflies-ai-honest-comparison",
     "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-fireflies-ai-honest-comparison"
   },
+  "jezx": {
+    "project": "coppersun-brass",
+    "slug": "add-brasscoders-to-gitlab-ci",
+    "url": "https://coppersun.dev/blog/add-brasscoders-to-gitlab-ci"
+  },
   "jh7c": {
     "project": "brass-seo",
     "slug": "guerilla-seo-the-2026-playbook",
@@ -1629,6 +1664,11 @@
     "slug": "replace-speaker-1-2-with-real-names",
     "url": "https://brasstranscripts.com/blog/replace-speaker-1-2-with-real-names"
   },
+  "jl7q": {
+    "project": "coppersun-brass",
+    "slug": "ai-coder-perf-bugs-in-the-wild",
+    "url": "https://coppersun.dev/blog/ai-coder-perf-bugs-in-the-wild"
+  },
   "jv4z": {
     "project": "brass-seo",
     "slug": "duplicate-content-seo-problem",
@@ -1638,6 +1678,11 @@
     "project": "brass-seo",
     "slug": "how-long-should-blog-post-be",
     "url": "https://brass-seo.com/blog/how-long-should-blog-post-be"
+  },
+  "kdj2": {
+    "project": "coppersun-brass",
+    "slug": "vibe-coding-safety-net",
+    "url": "https://coppersun.dev/blog/vibe-coding-safety-net"
   },
   "kec8": {
     "project": "brasstranscripts",
@@ -1759,6 +1804,11 @@
     "slug": "geo-case-study-bounce-rate-post",
     "url": "https://brass-seo.com/blog/geo-case-study-bounce-rate-post"
   },
+  "pa8j": {
+    "project": "coppersun-brass",
+    "slug": "django-security-ai-coders",
+    "url": "https://coppersun.dev/blog/django-security-ai-coders"
+  },
   "payk": {
     "project": "brasstranscripts",
     "slug": "how-to-transcribe-multiple-speakers-complete-guide",
@@ -1793,6 +1843,11 @@
     "project": "brasstranscripts",
     "slug": "zoom-recording-settings-perfect-transcription",
     "url": "https://brasstranscripts.com/blog/zoom-recording-settings-perfect-transcription"
+  },
+  "qaeg": {
+    "project": "coppersun-brass",
+    "slug": "what-brass-sends-to-its-servers",
+    "url": "https://coppersun.dev/blog/what-brass-sends-to-its-servers"
   },
   "qr0n": {
     "project": "brass-seo",
@@ -1829,6 +1884,11 @@
     "slug": "ai-prompts-law-firms-transcript-workflows",
     "url": "https://brasstranscripts.com/blog/ai-prompts-law-firms-transcript-workflows"
   },
+  "r99x": {
+    "project": "coppersun-brass",
+    "slug": "snyk-vs-brasscoders",
+    "url": "https://coppersun.dev/blog/snyk-vs-brasscoders"
+  },
   "r9b2": {
     "project": "brasstranscripts",
     "slug": "speaker-identification-issues-causes-solutions",
@@ -1858,6 +1918,11 @@
     "project": "brass-seo",
     "slug": "long-tail-keyword-became-a-blog-post",
     "url": "https://brass-seo.com/blog/long-tail-keyword-became-a-blog-post"
+  },
+  "sm3y": {
+    "project": "coppersun-brass",
+    "slug": "pre-commit-hook-ai-coder-bugs",
+    "url": "https://coppersun.dev/blog/pre-commit-hook-ai-coder-bugs"
   },
   "t4ds": {
     "project": "coppersun-brass",
@@ -1969,6 +2034,11 @@
     "slug": "i-rewrote-10-title-tags",
     "url": "https://brass-seo.com/blog/i-rewrote-10-title-tags"
   },
+  "x17n": {
+    "project": "coppersun-brass",
+    "slug": "soc2-audit-trail-brasscoders",
+    "url": "https://coppersun.dev/blog/soc2-audit-trail-brasscoders"
+  },
   "x1h6": {
     "project": "brasstranscripts",
     "slug": "azure-speech-services-pricing-2025-microsoft-ecosystem-costs",
@@ -1983,6 +2053,11 @@
     "project": "brass-seo",
     "slug": "ai-citability-how-brass-seo-helps",
     "url": "https://brass-seo.com/blog/ai-citability-how-brass-seo-helps"
+  },
+  "xhkq": {
+    "project": "coppersun-brass",
+    "slug": "brass-paid-launched",
+    "url": "https://coppersun.dev/blog/brass-paid-launched"
   },
   "xi3m": {
     "project": "brass-seo",
@@ -2028,5 +2103,10 @@
     "project": "brasstranscripts",
     "slug": "how-to-record-conversations-iphone-complete-guide",
     "url": "https://brasstranscripts.com/blog/how-to-record-conversations-iphone-complete-guide"
+  },
+  "zquu": {
+    "project": "coppersun-brass",
+    "slug": "why-claude-code-emits-eight-findings",
+    "url": "https://coppersun.dev/blog/why-claude-code-emits-eight-findings"
   }
 }
