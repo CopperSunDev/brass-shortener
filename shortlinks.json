@@ -1989,6 +1989,11 @@
     "slug": "catching-slow-ai-generated-code",
     "url": "https://coppersun.dev/blog/catching-slow-ai-generated-code"
   },
+  "twqq": {
+    "project": "coppersun-brass",
+    "slug": "flagging-pii-in-ai-code",
+    "url": "https://coppersun.dev/blog/flagging-pii-in-ai-code"
+  },
   "u238": {
     "project": "brasstranscripts",
     "slug": "brasstranscripts-vs-macwhisper-honest-comparison",
