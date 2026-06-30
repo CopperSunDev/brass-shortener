@@ -1854,6 +1854,11 @@
     "slug": "content-creator-transcription-stack-youtube-blog-pipeline",
     "url": "https://brasstranscripts.com/blog/content-creator-transcription-stack-youtube-blog-pipeline"
   },
+  "ozvt": {
+    "project": "brass-seo",
+    "slug": "what-gets-you-cited-by-ai-the-numbers",
+    "url": "https://brass-seo.com/blog/what-gets-you-cited-by-ai-the-numbers"
+  },
   "p3jy": {
     "project": "brasstranscripts",
     "slug": "ai-prompts-github-repository-announcement",
@@ -2053,6 +2058,11 @@
     "project": "brass-seo",
     "slug": "how-brass-seo-works",
     "url": "https://brass-seo.com/blog/how-brass-seo-works"
+  },
+  "v2l5": {
+    "project": "coppersun-brass",
+    "slug": "ai-code-buggier-2026-data",
+    "url": "https://coppersun.dev/blog/ai-code-buggier-2026-data"
   },
   "v51y": {
     "project": "brass-seo",
