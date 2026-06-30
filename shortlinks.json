@@ -2204,6 +2204,11 @@
     "slug": "transcribe-m4a-files-complete-guide",
     "url": "https://brasstranscripts.com/blog/transcribe-m4a-files-complete-guide"
   },
+  "yzie": {
+    "project": "coppersun-brass",
+    "slug": "deterministic-gate-vs-llm-reviewer",
+    "url": "https://coppersun.dev/blog/deterministic-gate-vs-llm-reviewer"
+  },
   "z3nh": {
     "project": "brass-seo",
     "slug": "brass-seo-is-now-25-a-month",
