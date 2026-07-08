@@ -54,6 +54,11 @@
     "slug": "ai-coder-bug-benchmark",
     "url": "https://coppersun.dev/blog/ai-coder-bug-benchmark"
   },
+  "10j6": {
+    "project": "coppersun-brass",
+    "slug": "yaml-first-context-pattern-ai-coding-assistants",
+    "url": "https://coppersun.dev/blog/yaml-first-context-pattern-ai-coding-assistants"
+  },
   "10kr": {
     "project": "brasstranscripts",
     "slug": "sermon-transcription-workflow-churches",
