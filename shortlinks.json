@@ -1644,6 +1644,11 @@
     "slug": "african-transcription-languages-guide",
     "url": "https://brasstranscripts.com/blog/african-transcription-languages-guide"
   },
+  "hhqn": {
+    "project": "coppersun-brass",
+    "slug": "false-positive-feature-not-bug-static-analysis",
+    "url": "https://coppersun.dev/blog/false-positive-feature-not-bug-static-analysis"
+  },
   "hk8j": {
     "project": "brasstranscripts",
     "slug": "speaker-identification-complete-guide",
