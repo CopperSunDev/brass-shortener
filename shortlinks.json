@@ -689,6 +689,11 @@
     "slug": "triage-static-analysis-findings",
     "url": "https://coppersun.dev/blog/triage-static-analysis-findings"
   },
+  "1m4m": {
+    "project": "coppersun-brass",
+    "slug": "llm-reviewer-not-a-security-gate",
+    "url": "https://coppersun.dev/blog/llm-reviewer-not-a-security-gate"
+  },
   "1m73": {
     "project": "brass-seo",
     "slug": "grokipedia-backlinks-earn-high-da-links",
