@@ -639,6 +639,11 @@
     "slug": "speaker-labels-wrong-fix-transcript-speaker-errors",
     "url": "https://brasstranscripts.com/blog/speaker-labels-wrong-fix-transcript-speaker-errors"
   },
+  "1ieh": {
+    "project": "coppersun-brass",
+    "slug": "security-misconfiguration-is-a-runtime-fact",
+    "url": "https://coppersun.dev/blog/security-misconfiguration-is-a-runtime-fact"
+  },
   "1ilr": {
     "project": "brass-seo",
     "slug": "core-web-vitals-explained",
