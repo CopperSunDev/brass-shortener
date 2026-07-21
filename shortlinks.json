@@ -154,10 +154,20 @@
     "slug": "standup-meeting-transcription-agile-teams-guide",
     "url": "https://brasstranscripts.com/blog/standup-meeting-transcription-agile-teams-guide"
   },
+  "11ak": {
+    "project": "coppersun",
+    "slug": "ai-brand-voice-guide",
+    "url": "https://coppersun.io/blog/ai-brand-voice-guide"
+  },
   "11lr": {
     "project": "brasstranscripts",
     "slug": "amazon-transcribe-pricing-2026-cost-calculator-guide",
     "url": "https://brasstranscripts.com/blog/amazon-transcribe-pricing-2026-cost-calculator-guide"
+  },
+  "11n4": {
+    "project": "coppersun",
+    "slug": "ai-content-strategy-process",
+    "url": "https://coppersun.io/blog/ai-content-strategy-process"
   },
   "11nx": {
     "project": "copper-keto",
@@ -194,6 +204,11 @@
     "slug": "pages-declining-and-you-dont-know-it",
     "url": "https://brass-seo.com/blog/pages-declining-and-you-dont-know-it"
   },
+  "129h": {
+    "project": "coppersun",
+    "slug": "how-to-use-ai-in-marketing",
+    "url": "https://coppersun.io/blog/how-to-use-ai-in-marketing"
+  },
   "12bt": {
     "project": "copper-keto",
     "slug": "keto-electrolytes",
@@ -208,6 +223,11 @@
     "project": "brass-seo",
     "slug": "full-seo-health-check-one-click",
     "url": "https://brass-seo.com/blog/full-seo-health-check-one-click"
+  },
+  "12n5": {
+    "project": "coppersun",
+    "slug": "measuring-ai-marketing-roi",
+    "url": "https://coppersun.io/blog/measuring-ai-marketing-roi"
   },
   "12q2": {
     "project": "coppersun-brass",
@@ -279,6 +299,11 @@
     "slug": "nordic-diet-food-list",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-food-list"
   },
+  "14c6": {
+    "project": "coppersun",
+    "slug": "brand-voice-consistency-ai",
+    "url": "https://coppersun.io/blog/brand-voice-consistency-ai"
+  },
   "14mo": {
     "project": "brasstranscripts",
     "slug": "client-intake-transcription-law-firms",
@@ -303,6 +328,11 @@
     "project": "brasstranscripts",
     "slug": "sales-call-transcription-ai-analysis-guide-2026",
     "url": "https://brasstranscripts.com/blog/sales-call-transcription-ai-analysis-guide-2026"
+  },
+  "14yz": {
+    "project": "coppersun",
+    "slug": "expert-interview-to-blog-post",
+    "url": "https://coppersun.io/blog/expert-interview-to-blog-post"
   },
   "15gj": {
     "project": "brasstranscripts",
@@ -339,6 +369,11 @@
     "slug": "ask-your-seo-data-anything",
     "url": "https://brass-seo.com/blog/ask-your-seo-data-anything"
   },
+  "162s": {
+    "project": "coppersun",
+    "slug": "how-to-brief-an-ai",
+    "url": "https://coppersun.io/blog/how-to-brief-an-ai"
+  },
   "163d": {
     "project": "brasstranscripts",
     "slug": "google-ads-interview-testimonials-guide",
@@ -363,6 +398,11 @@
     "project": "coppersun-brass",
     "slug": "brasscoders-cursor-workflow",
     "url": "https://coppersun.dev/blog/brasscoders-cursor-workflow"
+  },
+  "16bp": {
+    "project": "coppersun",
+    "slug": "content-structure-for-ai-citation",
+    "url": "https://coppersun.io/blog/content-structure-for-ai-citation"
   },
   "16fw": {
     "project": "brasstranscripts",
@@ -453,6 +493,11 @@
     "project": "nordic",
     "slug": "nordic-diet-companion-app-store",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-companion-app-store"
+  },
+  "18w3": {
+    "project": "coppersun",
+    "slug": "evaluating-ai-marketing-output",
+    "url": "https://coppersun.io/blog/evaluating-ai-marketing-output"
   },
   "19eh": {
     "project": "copper-keto",
@@ -694,10 +739,20 @@
     "slug": "audit-your-content-keep-fix-delete",
     "url": "https://brass-seo.com/blog/audit-your-content-keep-fix-delete"
   },
+  "1d7b": {
+    "project": "coppersun",
+    "slug": "ai-brand-consistency-at-scale",
+    "url": "https://coppersun.io/blog/ai-brand-consistency-at-scale"
+  },
   "1d7u": {
     "project": "coppersun-brass",
     "slug": "when-ai-invents-libraries",
     "url": "https://coppersun.dev/blog/when-ai-invents-libraries"
+  },
+  "1df8": {
+    "project": "coppersun",
+    "slug": "why-ai-writing-sounds-generic",
+    "url": "https://coppersun.io/blog/why-ai-writing-sounds-generic"
   },
   "1dhl": {
     "project": "brass-seo",
@@ -774,6 +829,11 @@
     "slug": "lazy-keto-vs-strict-keto",
     "url": "https://coppersuncompanion.com/blog/lazy-keto-vs-strict-keto"
   },
+  "1eut": {
+    "project": "coppersun",
+    "slug": "what-is-generative-engine-optimization",
+    "url": "https://coppersun.io/blog/what-is-generative-engine-optimization"
+  },
   "1evy": {
     "project": "brass-seo",
     "slug": "track-seo-conversions-in-ga4",
@@ -798,6 +858,11 @@
     "project": "copper-keto",
     "slug": "keto-chipotle-order",
     "url": "https://coppersuncompanion.com/blog/keto-chipotle-order"
+  },
+  "1f0k": {
+    "project": "coppersun",
+    "slug": "why-ai-recommends-some-brands",
+    "url": "https://coppersun.io/blog/why-ai-recommends-some-brands"
   },
   "1f7n": {
     "project": "brass-seo",
@@ -954,6 +1019,11 @@
     "slug": "how-to-break-a-keto-plateau",
     "url": "https://coppersuncompanion.com/blog/how-to-break-a-keto-plateau"
   },
+  "1jdm": {
+    "project": "coppersun",
+    "slug": "rolling-out-ai-marketing-team",
+    "url": "https://coppersun.io/blog/rolling-out-ai-marketing-team"
+  },
   "1jht": {
     "project": "coppersun-brass",
     "slug": "python-dependency-hallucination",
@@ -1059,6 +1129,11 @@
     "slug": "where-people-search-besides-google",
     "url": "https://brass-seo.com/blog/where-people-search-besides-google"
   },
+  "1lcr": {
+    "project": "coppersun",
+    "slug": "what-ai-can-do-for-marketing",
+    "url": "https://coppersun.io/blog/what-ai-can-do-for-marketing"
+  },
   "1lct": {
     "project": "brasstranscripts",
     "slug": "webex-meeting-transcription-enterprise-guide",
@@ -1153,6 +1228,16 @@
     "project": "copper-keto",
     "slug": "keto-cauliflower-rice",
     "url": "https://coppersuncompanion.com/blog/keto-cauliflower-rice"
+  },
+  "1ndh": {
+    "project": "coppersun",
+    "slug": "campaign-memory-with-ai",
+    "url": "https://coppersun.io/blog/campaign-memory-with-ai"
+  },
+  "1nhm": {
+    "project": "coppersun",
+    "slug": "what-to-look-for-ai-marketing-platform",
+    "url": "https://coppersun.io/blog/what-to-look-for-ai-marketing-platform"
   },
   "1nhz": {
     "project": "brasstranscripts",
@@ -1424,6 +1509,11 @@
     "slug": "how-to-record-conversations-linux-complete-guide",
     "url": "https://brasstranscripts.com/blog/how-to-record-conversations-linux-complete-guide"
   },
+  "1tgz": {
+    "project": "coppersun",
+    "slug": "ai-copy-that-reads-reported",
+    "url": "https://coppersun.io/blog/ai-copy-that-reads-reported"
+  },
   "1tnc": {
     "project": "nordic",
     "slug": "nordic-meal-ideas",
@@ -1579,6 +1669,11 @@
     "slug": "nordic-beet-apple-salad",
     "url": "https://coppersuncompanion.com/blog/nordic-beet-apple-salad"
   },
+  "1wc7": {
+    "project": "coppersun",
+    "slug": "human-in-the-loop-ai-marketing",
+    "url": "https://coppersun.io/blog/human-in-the-loop-ai-marketing"
+  },
   "1wnn": {
     "project": "nordic",
     "slug": "nordic-slow-cooker-root-vegetable-soup",
@@ -1613,6 +1708,11 @@
     "project": "copper-keto",
     "slug": "keto-kidney-bone-safety",
     "url": "https://coppersuncompanion.com/blog/keto-kidney-bone-safety"
+  },
+  "1y68": {
+    "project": "coppersun",
+    "slug": "ai-campaign-workflow",
+    "url": "https://coppersun.io/blog/ai-campaign-workflow"
   },
   "1y8u": {
     "project": "copper-keto",
@@ -1769,6 +1869,11 @@
     "slug": "nordic-air-fryer-meatballs",
     "url": "https://coppersuncompanion.com/blog/nordic-air-fryer-meatballs"
   },
+  "3cxu": {
+    "project": "coppersun",
+    "slug": "seo-vs-geo",
+    "url": "https://coppersun.io/blog/seo-vs-geo"
+  },
   "3eeg": {
     "project": "brasstranscripts",
     "slug": "non-english-transcription-99-language-ai-guide",
@@ -1798,6 +1903,11 @@
     "project": "coppersun-brass",
     "slug": "sonarqube-vs-brasscoders",
     "url": "https://coppersun.dev/blog/sonarqube-vs-brasscoders"
+  },
+  "3xa0": {
+    "project": "coppersun",
+    "slug": "ai-marketing-platform-comparison",
+    "url": "https://coppersun.io/blog/ai-marketing-platform-comparison"
   },
   "3yhr": {
     "project": "copper-keto",
@@ -2234,6 +2344,11 @@
     "slug": "keto-garlic-butter-salmon",
     "url": "https://coppersuncompanion.com/blog/keto-garlic-butter-salmon"
   },
+  "d083": {
+    "project": "coppersun",
+    "slug": "editing-ai-generated-content",
+    "url": "https://coppersun.io/blog/editing-ai-generated-content"
+  },
   "d0v1": {
     "project": "coppersun-brass",
     "slug": "the-backdoor-built-to-pass-review",
@@ -2243,6 +2358,11 @@
     "project": "brasstranscripts",
     "slug": "dutch-audio-transcription-netherlands-business-guide",
     "url": "https://brasstranscripts.com/blog/dutch-audio-transcription-netherlands-business-guide"
+  },
+  "d1th": {
+    "project": "coppersun",
+    "slug": "ai-marketing-governance",
+    "url": "https://coppersun.io/blog/ai-marketing-governance"
   },
   "d60p": {
     "project": "brass-seo",
@@ -2579,6 +2699,11 @@
     "slug": "brasstranscripts-vs-fireflies-ai-honest-comparison",
     "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-fireflies-ai-honest-comparison"
   },
+  "jcne": {
+    "project": "coppersun",
+    "slug": "ai-marketing-tool-sprawl",
+    "url": "https://coppersun.io/blog/ai-marketing-tool-sprawl"
+  },
   "jezx": {
     "project": "coppersun-brass",
     "slug": "add-brasscoders-to-gitlab-ci",
@@ -2869,6 +2994,11 @@
     "slug": "lecture-transcription-students-study-guide",
     "url": "https://brasstranscripts.com/blog/lecture-transcription-students-study-guide"
   },
+  "ps9r": {
+    "project": "coppersun",
+    "slug": "ai-for-marketing-agencies",
+    "url": "https://coppersun.io/blog/ai-for-marketing-agencies"
+  },
   "puy5": {
     "project": "brass-seo",
     "slug": "traffic-decaying-gsc-already-knows",
@@ -2978,6 +3108,11 @@
     "project": "brasstranscripts",
     "slug": "complete-brasstranscripts-guide-library-roundup",
     "url": "https://brasstranscripts.com/blog/complete-brasstranscripts-guide-library-roundup"
+  },
+  "rgm0": {
+    "project": "coppersun",
+    "slug": "why-context-beats-prompts",
+    "url": "https://coppersun.io/blog/why-context-beats-prompts"
   },
   "rgp7": {
     "project": "copper-keto",
@@ -3239,6 +3374,11 @@
     "slug": "common-transcription-mistakes-how-to-fix-them",
     "url": "https://brasstranscripts.com/blog/common-transcription-mistakes-how-to-fix-them"
   },
+  "w0mt": {
+    "project": "coppersun",
+    "slug": "ai-campaign-concepting",
+    "url": "https://coppersun.io/blog/ai-campaign-concepting"
+  },
   "w5f5": {
     "project": "brasstranscripts",
     "slug": "transcript-processing-workflow-complete-guide-2026",
@@ -3263,6 +3403,11 @@
     "project": "copper-keto",
     "slug": "keto-breath",
     "url": "https://coppersuncompanion.com/blog/keto-breath"
+  },
+  "ww8v": {
+    "project": "coppersun",
+    "slug": "audit-ai-visibility",
+    "url": "https://coppersun.io/blog/audit-ai-visibility"
   },
   "x17n": {
     "project": "coppersun-brass",
