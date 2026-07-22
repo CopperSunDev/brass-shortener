@@ -3474,6 +3474,11 @@
     "slug": "pre-commit-hook-ai-coder-bugs",
     "url": "https://coppersun.dev/blog/pre-commit-hook-ai-coder-bugs"
   },
+  "snhc": {
+    "project": "coppersun-brass",
+    "slug": "sqlalchemy-raw-query-ai-generated",
+    "url": "https://coppersun.dev/blog/sqlalchemy-raw-query-ai-generated"
+  },
   "spoj": {
     "project": "copper-keto",
     "slug": "keto-and-stress-eating",
