@@ -2554,6 +2554,11 @@
     "slug": "package-hallucination-the-import-your-ai-invented",
     "url": "https://coppersun.dev/blog/package-hallucination-the-import-your-ai-invented"
   },
+  "crhl": {
+    "project": "coppersun-brass",
+    "slug": "xss-llm-output-ai-applications",
+    "url": "https://coppersun.dev/blog/xss-llm-output-ai-applications"
+  },
   "cwtz": {
     "project": "brasstranscripts",
     "slug": "how-to-transcribe-social-media-videos",
