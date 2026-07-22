@@ -2749,6 +2749,11 @@
     "slug": "ai-coder-perf-bugs-in-the-wild",
     "url": "https://coppersun.dev/blog/ai-coder-perf-bugs-in-the-wild"
   },
+  "jmle": {
+    "project": "coppersun",
+    "slug": "how-to-measure-ai-content-quality",
+    "url": "https://coppersun.io/blog/how-to-measure-ai-content-quality"
+  },
   "jv4z": {
     "project": "brass-seo",
     "slug": "duplicate-content-seo-problem",
