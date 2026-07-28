@@ -1079,6 +1079,11 @@
     "slug": "security-misconfiguration-is-a-runtime-fact",
     "url": "https://coppersun.dev/blog/security-misconfiguration-is-a-runtime-fact"
   },
+  "1ikn": {
+    "project": "coppersun",
+    "slug": "how-ai-uses-context-research",
+    "url": "https://coppersun.io/blog/how-ai-uses-context-research"
+  },
   "1ilr": {
     "project": "brass-seo",
     "slug": "core-web-vitals-explained",
