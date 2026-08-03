@@ -2669,6 +2669,11 @@
     "slug": "ai-assistant-needs-deterministic-pre-pass",
     "url": "https://coppersun.dev/blog/ai-assistant-needs-deterministic-pre-pass"
   },
+  "adz3": {
+    "project": "coppersun-brass",
+    "slug": "ai-type-hints-fool-mypy-runtime-bugs",
+    "url": "https://coppersun.dev/blog/ai-type-hints-fool-mypy-runtime-bugs"
+  },
   "aizr": {
     "project": "nordic",
     "slug": "nordic-soup-recipes",
