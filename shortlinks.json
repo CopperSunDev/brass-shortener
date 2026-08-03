@@ -3869,6 +3869,11 @@
     "slug": "keto-accountability",
     "url": "https://coppersuncompanion.com/blog/keto-accountability"
   },
+  "tkvx": {
+    "project": "coppersun-brass",
+    "slug": "mcp-tool-poisoning-what-static-scanners-miss",
+    "url": "https://coppersun.dev/blog/mcp-tool-poisoning-what-static-scanners-miss"
+  },
   "tmu4": {
     "project": "coppersun-brass",
     "slug": "mass-assignment-ai-generated-api",
