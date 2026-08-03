@@ -609,6 +609,11 @@
     "slug": "onboarding-ai-assisted-developers",
     "url": "https://coppersun.dev/blog/onboarding-ai-assisted-developers"
   },
+  "198y": {
+    "project": "coppersun-brass",
+    "slug": "pydantic-v2-validation-bugs-ai-generated-apis",
+    "url": "https://coppersun.dev/blog/pydantic-v2-validation-bugs-ai-generated-apis"
+  },
   "19ar": {
     "project": "nordic",
     "slug": "nordic-diet-legumes",
