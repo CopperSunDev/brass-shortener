@@ -3244,6 +3244,11 @@
     "slug": "add-brasscoders-to-gitlab-ci",
     "url": "https://coppersun.dev/blog/add-brasscoders-to-gitlab-ci"
   },
+  "jgrg": {
+    "project": "coppersun-brass",
+    "slug": "ai-generated-migrations-data-loss-bugs",
+    "url": "https://coppersun.dev/blog/ai-generated-migrations-data-loss-bugs"
+  },
   "jgvm": {
     "project": "copper-keto",
     "slug": "breath-ketone-meters",
