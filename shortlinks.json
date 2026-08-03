@@ -3914,6 +3914,11 @@
     "slug": "owasp-llm-top-10-for-builders",
     "url": "https://coppersun.dev/blog/owasp-llm-top-10-for-builders"
   },
+  "uhyg": {
+    "project": "coppersun-brass",
+    "slug": "ai-code-happy-path-bias-production-bugs",
+    "url": "https://coppersun.dev/blog/ai-code-happy-path-bias-production-bugs"
+  },
   "ujvy": {
     "project": "coppersun-brass",
     "slug": "agentic-code-security-autonomous-ai",
