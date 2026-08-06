@@ -1094,6 +1094,11 @@
     "slug": "hipaa-soc2-code-scanning",
     "url": "https://coppersun.dev/blog/hipaa-soc2-code-scanning"
   },
+  "1fen": {
+    "project": "coppersun",
+    "slug": "customer-story-multiple-formats",
+    "url": "https://coppersun.io/blog/customer-story-multiple-formats"
+  },
   "1fey": {
     "project": "coppersun-brass",
     "slug": "readme-prompt-injection-ai-coding-agents",
