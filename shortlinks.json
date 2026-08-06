@@ -4099,6 +4099,11 @@
     "slug": "mcp-tool-poisoning-what-static-scanners-miss",
     "url": "https://coppersun.dev/blog/mcp-tool-poisoning-what-static-scanners-miss"
   },
+  "tmng": {
+    "project": "coppersun",
+    "slug": "long-form-to-social-content",
+    "url": "https://coppersun.io/blog/long-form-to-social-content"
+  },
   "tmu4": {
     "project": "coppersun-brass",
     "slug": "mass-assignment-ai-generated-api",
