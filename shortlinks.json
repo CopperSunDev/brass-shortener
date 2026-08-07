@@ -3194,6 +3194,11 @@
     "slug": "nonprofit-transcription-service",
     "url": "https://brasstranscripts.com/blog/nonprofit-transcription-service"
   },
+  "e6di": {
+    "project": "coppersun-brass",
+    "slug": "what-does-a-brasscoders-scan-output-look-like",
+    "url": "https://coppersun.dev/blog/what-does-a-brasscoders-scan-output-look-like"
+  },
   "e9zv": {
     "project": "coppersun-brass",
     "slug": "does-brasscoders-work-with-django-rest-framework",
