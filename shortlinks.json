@@ -2994,6 +2994,11 @@
     "slug": "transcribe-discord-calls",
     "url": "https://brasstranscripts.com/blog/transcribe-discord-calls"
   },
+  "cdk5": {
+    "project": "coppersun-brass",
+    "slug": "how-do-i-read-brass-ai-instructions-yaml",
+    "url": "https://coppersun.dev/blog/how-do-i-read-brass-ai-instructions-yaml"
+  },
   "cing": {
     "project": "coppersun-brass",
     "slug": "fastapi-security-ai-coders",
