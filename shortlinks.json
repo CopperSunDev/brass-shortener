@@ -3184,6 +3184,11 @@
     "slug": "nonprofit-transcription-service",
     "url": "https://brasstranscripts.com/blog/nonprofit-transcription-service"
   },
+  "e9zv": {
+    "project": "coppersun-brass",
+    "slug": "does-brasscoders-work-with-django-rest-framework",
+    "url": "https://coppersun.dev/blog/does-brasscoders-work-with-django-rest-framework"
+  },
   "edt3": {
     "project": "brasstranscripts",
     "slug": "remote-work-transcription-playbook-async-communication",
