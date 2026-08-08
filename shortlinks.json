@@ -2909,6 +2909,11 @@
     "slug": "oral-history-transcription-family-stories",
     "url": "https://brasstranscripts.com/blog/oral-history-transcription-family-stories"
   },
+  "9a30": {
+    "project": "coppersun-brass",
+    "slug": "hardcoded-token-fix-walkthrough",
+    "url": "https://coppersun.dev/blog/hardcoded-token-fix-walkthrough"
+  },
   "9c6e": {
     "project": "brasstranscripts",
     "slug": "spanish-audio-to-english-text-translation-guide",
@@ -4633,6 +4638,11 @@
     "project": "coppersun-brass",
     "slug": "soc2-audit-trail-brasscoders",
     "url": "https://coppersun.dev/blog/soc2-audit-trail-brasscoders"
+  },
+  "x1f5": {
+    "project": "coppersun-brass",
+    "slug": "b608-sql-injection-fix-walkthrough",
+    "url": "https://coppersun.dev/blog/b608-sql-injection-fix-walkthrough"
   },
   "x1h6": {
     "project": "brasstranscripts",
