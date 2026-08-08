@@ -3049,6 +3049,11 @@
     "slug": "transcribe-discord-calls",
     "url": "https://brasstranscripts.com/blog/transcribe-discord-calls"
   },
+  "ccvo": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-race-conditions-async-python",
+    "url": "https://coppersun.dev/blog/brasscoders-race-conditions-async-python"
+  },
   "cdk5": {
     "project": "coppersun-brass",
     "slug": "how-do-i-read-brass-ai-instructions-yaml",
