@@ -1544,6 +1544,11 @@
     "slug": "ai-copy-reads-like-reported",
     "url": "https://brasstranscripts.com/blog/ai-copy-reads-like-reported"
   },
+  "1kxl": {
+    "project": "brasstranscripts",
+    "slug": "sales-call-recordings-enablement-content",
+    "url": "https://brasstranscripts.com/blog/sales-call-recordings-enablement-content"
+  },
   "1kzw": {
     "project": "coppersun-brass",
     "slug": "can-i-run-brasscoders-offline",
@@ -3573,6 +3578,11 @@
     "project": "coppersun",
     "slug": "multi-agent-marketing-stacks",
     "url": "https://coppersun.io/blog/multi-agent-marketing-stacks"
+  },
+  "f2cu": {
+    "project": "coppersun",
+    "slug": "seo-ready-transcripts-ai-workflow",
+    "url": "https://coppersun.io/blog/seo-ready-transcripts-ai-workflow"
   },
   "f3et": {
     "project": "coppersun-brass",
