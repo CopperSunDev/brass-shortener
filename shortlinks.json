@@ -4659,6 +4659,11 @@
     "slug": "sqlalchemy-raw-query-ai-generated",
     "url": "https://coppersun.dev/blog/sqlalchemy-raw-query-ai-generated"
   },
+  "spbl": {
+    "project": "coppersun",
+    "slug": "webinar-transcripts-ai-brief",
+    "url": "https://coppersun.io/blog/webinar-transcripts-ai-brief"
+  },
   "spoj": {
     "project": "copper-keto",
     "slug": "keto-and-stress-eating",
@@ -5133,6 +5138,11 @@
     "project": "coppersun-brass",
     "slug": "the-slow-code-no-scanner-can-flag",
     "url": "https://coppersun.dev/blog/the-slow-code-no-scanner-can-flag"
+  },
+  "y725": {
+    "project": "brasstranscripts",
+    "slug": "what-is-llms-txt-transcript-content",
+    "url": "https://brasstranscripts.com/blog/what-is-llms-txt-transcript-content"
   },
   "y8a4": {
     "project": "brass-seo",
