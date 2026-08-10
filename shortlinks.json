@@ -1704,6 +1704,11 @@
     "slug": "seo-mistakes-small-business-website",
     "url": "https://brass-seo.com/blog/seo-mistakes-small-business-website"
   },
+  "1mqi": {
+    "project": "brasstranscripts",
+    "slug": "transcript-show-notes-duplicate-content",
+    "url": "https://brasstranscripts.com/blog/transcript-show-notes-duplicate-content"
+  },
   "1mr8": {
     "project": "copper-keto",
     "slug": "how-to-stick-to-keto",
@@ -4618,6 +4623,11 @@
     "project": "coppersun-brass",
     "slug": "pre-commit-hook-ai-coder-bugs",
     "url": "https://coppersun.dev/blog/pre-commit-hook-ai-coder-bugs"
+  },
+  "snbh": {
+    "project": "coppersun",
+    "slug": "topic-clusters-ai-content-strategy",
+    "url": "https://coppersun.io/blog/topic-clusters-ai-content-strategy"
   },
   "snhc": {
     "project": "coppersun-brass",
