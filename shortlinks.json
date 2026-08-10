@@ -3264,6 +3264,11 @@
     "slug": "xss-llm-output-ai-applications",
     "url": "https://coppersun.dev/blog/xss-llm-output-ai-applications"
   },
+  "cuuf": {
+    "project": "coppersun",
+    "slug": "customer-interview-transcript-brief",
+    "url": "https://coppersun.io/blog/customer-interview-transcript-brief"
+  },
   "cwtz": {
     "project": "brasstranscripts",
     "slug": "how-to-transcribe-social-media-videos",
