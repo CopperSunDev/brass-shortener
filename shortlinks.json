@@ -5134,6 +5134,11 @@
     "slug": "sqlalchemy-raw-query-ai-generated",
     "url": "https://coppersun.dev/blog/sqlalchemy-raw-query-ai-generated"
   },
+  "sp2a": {
+    "project": "brasstranscripts",
+    "slug": "deposition-transcription-how-law-firms-do-it",
+    "url": "https://brasstranscripts.com/blog/deposition-transcription-how-law-firms-do-it"
+  },
   "spbl": {
     "project": "coppersun",
     "slug": "webinar-transcripts-ai-brief",
