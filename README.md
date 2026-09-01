@@ -3,7 +3,7 @@
 Tiny URL shortener serving Brass-SEO, BrassTranscripts, and CopperSun.io social posts.
 
 - **Live:** https://brss.fyi/{code}
-- **Stack:** single Vercel Node.js Function (Fluid Compute) + a JSON mapping table. No database, no Next.js, no dependencies.
+- **Stack:** single Vercel Node.js Function (Fluid Compute) + a JSON mapping table. No database, no Next.js; one dependency (`@vercel/functions`, for `waitUntil` on the hit-ingest path).
 
 ## How it works
 
@@ -19,7 +19,7 @@ Tiny URL shortener serving Brass-SEO, BrassTranscripts, and CopperSun.io social 
 | `api/[code].js` | The redirect function (Edge runtime) |
 | `shortlinks.json` | Code → `{project, slug, url}` mapping. Updated by the generation pipeline. |
 | `vercel.json` | Rewrite `/{code}` to `/api/{code}` |
-| `package.json` | ESM module config, no deps |
+| `package.json` | ESM module config; one dep (`@vercel/functions`) |
 
 ## Adding entries
 
@@ -41,27 +41,42 @@ Then commit and push — Vercel auto-deploys.
 
 ## Hit logging (attribution)
 
-Every resolved redirect logs one structured JSON line to stdout (Vercel captures it):
+Every resolved redirect records one structured `shortlink_hit` event:
 
 ```json
-{"event":"shortlink_hit","code":"bnw4","project":"brass-seo","slug":"10-questions-seo-data",
- "dest":"https://brass-seo.com/blog/10-questions-seo-data","bot":false,
- "ua":"Mozilla/5.0 …","referer":null,"country":"US"}
+{"_time":"2026-09-01T18:34:24Z","event":"shortlink_hit","code":"bnw4","project":"brass-seo",
+ "slug":"10-questions-seo-data","dest":"https://brass-seo.com/blog/10-questions-seo-data",
+ "bot":false,"ua":"Mozilla/5.0 …","referer":null,"country":"US"}
 ```
 
 This is what makes shortening 100% of owned links earn its keep — the short link
 is now MEASUREMENT, not just uniformity. Query which posts/pages actually get
 clicked, split by project and human-vs-bot.
 
+**Two sinks, both best-effort (a failure NEVER breaks a redirect):**
+
+1. **`console.log`** — always on; visible in Vercel's own function logs (short retention).
+2. **Direct Axiom ingest** — a `fetch` POST straight to Axiom's `/ingest` API,
+   delivered via `waitUntil` so it never delays the redirect. This is
+   **deliberately NOT a Vercel Log Drain**: drains are metered at **$0.50/GB**,
+   whereas a direct POST uses only Axiom's (free-tier) ingest, so measurement
+   costs ~nothing. Gated on env vars — until they're set, ingest is skipped and
+   only the `console.log` fires.
+
+**Config (Vercel project → Settings → Environment Variables):**
+
+| Var | Value |
+|---|---|
+| `AXIOM_TOKEN` | an Axiom **API token** with ingest rights (starts `xaat-`) |
+| `AXIOM_DATASET` | the dataset name, e.g. `brass-shortener` |
+| `AXIOM_API_URL` | *(optional)* `https://api.eu.axiom.co` for an EU Axiom org; defaults to US |
+
+Then query in Axiom: `['brass-shortener'] | where event == "shortlink_hit" and bot == false`.
+
 - **`bot` is the load-bearing field.** OG-card crawlers (Bluesky `Cardyb`,
   `Twitterbot`, `LinkedInBot`, `Slackbot`, …) fetch the short link *every time a
   card renders*, so most raw hits are automated. Filter `bot == false` for real
   clicks. Classification is a user-agent heuristic (`isBotUA`); no-UA → bot.
-- **Getting the logs into Axiom:** install the **Axiom Vercel integration** (or a
-  log drain) on this Vercel project so `shortlink_hit` lines land in Axiom
-  alongside the rest of the portfolio's telemetry, queryable by
-  `event == "shortlink_hit"`. Until a drain exists, the lines are in Vercel's
-  live function logs (short retention).
 - **Caveat:** counts are a slight lower bound — the 30 s browser cache means one
   user's immediate re-click isn't re-logged. The shared/CDN cache is OFF, so
   cross-user hits are not swallowed.

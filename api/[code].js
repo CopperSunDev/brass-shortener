@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { waitUntil } from '@vercel/functions';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -27,14 +28,19 @@ const shortlinks = (() => {
   return valid;
 })();
 
-// ─── Hit logging (2026-09-01) ────────────────────────────────────────────────
-// Every resolved redirect is logged as a structured `shortlink_hit` line so the
-// short links become MEASUREMENT, not just uniformity (the whole point of
-// shortening 100% of owned links). Vercel captures function stdout; with the
-// Axiom Vercel integration / a log drain on this project, these land in Axiom
-// beside the rest of the portfolio's telemetry and are queryable by code /
-// project / bot. Logging is best-effort: a throw here must NEVER break a
-// redirect, so the whole thing is wrapped and swallowed.
+// ─── Hit logging → Axiom (2026-09-01) ────────────────────────────────────────
+// Every resolved redirect is recorded as a structured `shortlink_hit` event so
+// the short links become MEASUREMENT, not just uniformity (the whole point of
+// shortening 100% of owned links). Two sinks, both best-effort:
+//   1. console.log — always; visible in Vercel's own function logs.
+//   2. DIRECT Axiom ingest (fetch → Axiom /ingest) — the durable, queryable
+//      copy. Deliberately NOT a Vercel Log Drain: drains are metered at
+//      $0.50/GB, and a direct POST to Axiom uses only Axiom's (free-tier)
+//      ingest, so measurement costs ~nothing. Gated on env vars — absent →
+//      ingest is skipped and only the console.log fires (so nothing breaks
+//      before Axiom is wired). Delivered via waitUntil so it never delays the
+//      redirect, and every failure is swallowed — telemetry must NEVER break a
+//      redirect.
 //
 // bot vs human is the load-bearing field: OG-card crawlers (Bluesky Cardyb,
 // Twitterbot, LinkedInBot, Slackbot, …) fetch the short link EVERY time a card
@@ -45,10 +51,31 @@ function isBotUA(ua) {
   return /bot|crawl|spider|slurp|preview|fetch|embed|cardyb|facebookexternalhit|twitterbot|linkedinbot|slackbot|discordbot|telegrambot|whatsapp|redditbot|pinterest|applebot|bingbot|googlebot|google-inspectiontool|iframely|curl|wget|python-requests|node-fetch|axios|headless|monitor|uptime/i.test(ua);
 }
 
+// Axiom ingest config (set on the Vercel project). AXIOM_API_URL defaults to
+// the US endpoint; set it to https://api.eu.axiom.co for an EU Axiom org.
+const AXIOM_TOKEN = process.env.AXIOM_TOKEN;
+const AXIOM_DATASET = process.env.AXIOM_DATASET;
+const AXIOM_API_URL = process.env.AXIOM_API_URL || 'https://api.axiom.co';
+
+function ingestHit(record) {
+  if (!AXIOM_TOKEN || !AXIOM_DATASET) return; // not wired yet → console.log only
+  try {
+    const p = fetch(`${AXIOM_API_URL}/v1/datasets/${encodeURIComponent(AXIOM_DATASET)}/ingest`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${AXIOM_TOKEN}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify([record]),
+    }).catch(() => {}); // network failure must never surface
+    waitUntil(p); // finish the POST after the redirect returns, without delaying it
+  } catch {
+    /* ingest must never break the redirect */
+  }
+}
+
 function logHit(code, entry, request) {
   try {
     const ua = request.headers.get('user-agent') || '';
-    console.log(JSON.stringify({
+    const record = {
+      _time: new Date().toISOString(),
       event: 'shortlink_hit',
       code,
       project: entry.project ?? null,
@@ -58,7 +85,9 @@ function logHit(code, entry, request) {
       ua: ua.slice(0, 200) || null,
       referer: request.headers.get('referer') || null,
       country: request.headers.get('x-vercel-ip-country') || null,
-    }));
+    };
+    console.log(JSON.stringify(record));
+    ingestHit(record);
   } catch {
     /* logging must never break the redirect */
   }
