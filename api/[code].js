@@ -27,6 +27,43 @@ const shortlinks = (() => {
   return valid;
 })();
 
+// ─── Hit logging (2026-09-01) ────────────────────────────────────────────────
+// Every resolved redirect is logged as a structured `shortlink_hit` line so the
+// short links become MEASUREMENT, not just uniformity (the whole point of
+// shortening 100% of owned links). Vercel captures function stdout; with the
+// Axiom Vercel integration / a log drain on this project, these land in Axiom
+// beside the rest of the portfolio's telemetry and are queryable by code /
+// project / bot. Logging is best-effort: a throw here must NEVER break a
+// redirect, so the whole thing is wrapped and swallowed.
+//
+// bot vs human is the load-bearing field: OG-card crawlers (Bluesky Cardyb,
+// Twitterbot, LinkedInBot, Slackbot, …) fetch the short link EVERY time a card
+// renders, so without this flag the counts would be almost entirely automated.
+// Default no-UA → bot (scripted hits rarely send one; humans' browsers always do).
+function isBotUA(ua) {
+  if (!ua) return true;
+  return /bot|crawl|spider|slurp|preview|fetch|embed|cardyb|facebookexternalhit|twitterbot|linkedinbot|slackbot|discordbot|telegrambot|whatsapp|redditbot|pinterest|applebot|bingbot|googlebot|google-inspectiontool|iframely|curl|wget|python-requests|node-fetch|axios|headless|monitor|uptime/i.test(ua);
+}
+
+function logHit(code, entry, request) {
+  try {
+    const ua = request.headers.get('user-agent') || '';
+    console.log(JSON.stringify({
+      event: 'shortlink_hit',
+      code,
+      project: entry.project ?? null,
+      slug: entry.slug ?? null,
+      dest: entry.url,
+      bot: isBotUA(ua),
+      ua: ua.slice(0, 200) || null,
+      referer: request.headers.get('referer') || null,
+      country: request.headers.get('x-vercel-ip-country') || null,
+    }));
+  } catch {
+    /* logging must never break the redirect */
+  }
+}
+
 // Paths Vercel routes here that aren't real shortlink lookups (browsers request
 // /favicon.ico automatically, robots crawl /robots.txt, etc.). Silent 404 keeps
 // real misses signal-clean in logs.
@@ -73,14 +110,24 @@ export function GET(request) {
     });
   }
 
+  logHit(code, entry, request);
+
   // 302 (temporary), not 301: 301 is browser-cached indefinitely, which makes
   // typo'd shortlinks unfixable. The mapping IS rewritten by the generation
   // pipeline; treat redirects as updatable.
+  //
+  // No SHARED (CDN) cache — `s-maxage=0`: a shared-edge cache would serve repeat
+  // hits WITHOUT invoking this function, so those hits wouldn't be logged (the
+  // measurement would undercount, biased by whichever crawler warmed the POP).
+  // Recomputing a redirect is an in-memory map lookup — cheap — and dropping the
+  // shared cache also makes typo fixes propagate instantly (aligns with the
+  // updatable-redirect rationale above). A short browser `max-age` still dedupes
+  // one user's rapid re-clicks so they don't each log a hit.
   return new Response(null, {
     status: 302,
     headers: {
       Location: entry.url,
-      'Cache-Control': 'public, max-age=300, s-maxage=300',
+      'Cache-Control': 'public, max-age=30, s-maxage=0',
     },
   });
 }
