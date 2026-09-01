@@ -14,6 +14,11 @@
     "slug": "email-marketing-sequence-transcript-ai-prompt",
     "url": "https://brasstranscripts.com/blog/email-marketing-sequence-transcript-ai-prompt"
   },
+  "1247": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-refresh-merge-prune-delete-verdict",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/refresh-merge-prune-delete-verdict.md"
+  },
   "1275": {
     "project": "coppersun",
     "slug": "ai-email-reengagement",
@@ -28,6 +33,11 @@
     "project": "copper-keto",
     "slug": "is-honey-keto",
     "url": "https://coppersuncompanion.com/blog/is-honey-keto"
+  },
+  "1346": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-analysis-seo-health-check",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/seo-health-check.md"
   },
   "1358": {
     "project": "brass-seo",
@@ -88,6 +98,11 @@
     "project": "nordic",
     "slug": "nordic-diet-vs-mediterranean-diet",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-vs-mediterranean-diet"
+  },
+  "2942": {
+    "project": "brass-seo",
+    "slug": "page-faq",
+    "url": "https://brass-seo.com/faq"
   },
   "4162": {
     "project": "coppersun-brass",
@@ -5843,5 +5858,475 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "weyf": {
+    "project": "brass-seo",
+    "slug": "page-ai-prompts-guide-for-seo",
+    "url": "https://brass-seo.com/ai-prompts-guide-for-seo"
+  },
+  "15z8": {
+    "project": "brass-seo",
+    "slug": "page-check-indexing",
+    "url": "https://brass-seo.com/check-indexing"
+  },
+  "m56r": {
+    "project": "brass-seo",
+    "slug": "page-content-architecture",
+    "url": "https://brass-seo.com/content-architecture"
+  },
+  "c6vf": {
+    "project": "brass-seo",
+    "slug": "page-content-maintenance",
+    "url": "https://brass-seo.com/content-maintenance"
+  },
+  "8t52": {
+    "project": "brass-seo",
+    "slug": "page-dashboard-buttons",
+    "url": "https://brass-seo.com/dashboard-buttons"
+  },
+  "1d09": {
+    "project": "brass-seo",
+    "slug": "page-data-privacy",
+    "url": "https://brass-seo.com/data-privacy"
+  },
+  "4nr4": {
+    "project": "brass-seo",
+    "slug": "page-ecommerce-seo-essentials",
+    "url": "https://brass-seo.com/ecommerce-seo-essentials"
+  },
+  "1iqf": {
+    "project": "brass-seo",
+    "slug": "page-first-seo-analysis",
+    "url": "https://brass-seo.com/first-seo-analysis"
+  },
+  "3zal": {
+    "project": "brass-seo",
+    "slug": "page-ga4-guide",
+    "url": "https://brass-seo.com/ga4-guide"
+  },
+  "1c8i": {
+    "project": "brass-seo",
+    "slug": "page-generative-engine-optimization",
+    "url": "https://brass-seo.com/generative-engine-optimization"
+  },
+  "e2ok": {
+    "project": "brass-seo",
+    "slug": "page-link-building-for-small-business",
+    "url": "https://brass-seo.com/link-building-for-small-business"
+  },
+  "ietc": {
+    "project": "brass-seo",
+    "slug": "page-local-seo-playbook",
+    "url": "https://brass-seo.com/local-seo-playbook"
+  },
+  "19mb": {
+    "project": "brass-seo",
+    "slug": "page-page-audits",
+    "url": "https://brass-seo.com/page-audits"
+  },
+  "80nd": {
+    "project": "brass-seo",
+    "slug": "page-semrush-alternative",
+    "url": "https://brass-seo.com/semrush-alternative"
+  },
+  "120o": {
+    "project": "brass-seo",
+    "slug": "page-seo-opportunities",
+    "url": "https://brass-seo.com/seo-opportunities"
+  },
+  "vn86": {
+    "project": "brass-seo",
+    "slug": "page-seo-tasks-brass-seo-automates",
+    "url": "https://brass-seo.com/seo-tasks-brass-seo-automates"
+  },
+  "1qat": {
+    "project": "brass-seo",
+    "slug": "page-seo-to-revenue",
+    "url": "https://brass-seo.com/seo-to-revenue"
+  },
+  "naac": {
+    "project": "brass-seo",
+    "slug": "page-seo-troubleshooting",
+    "url": "https://brass-seo.com/seo-troubleshooting"
+  },
+  "1lbh": {
+    "project": "brass-seo",
+    "slug": "prompt-ai-tools-ai-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/ai-tools/ai-cost-calculator.md"
+  },
+  "dug0": {
+    "project": "brass-seo",
+    "slug": "prompt-ai-tools-model-evaluation-framework",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/ai-tools/model-evaluation-framework.md"
+  },
+  "l7jn": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-content-decay-detector",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/content-decay-detector.md"
+  },
+  "1e9l": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-content-pruning-candidate-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/content-pruning-candidate-finder.md"
+  },
+  "12xa": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-evergreen-vs-time-sensitive-classifier",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/evergreen-vs-time-sensitive-classifier.md"
+  },
+  "w4t4": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-keyword-cannibalization-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/keyword-cannibalization-finder.md"
+  },
+  "1ok0": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-redirect-mapping-assistant",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/redirect-mapping-assistant.md"
+  },
+  "1q3s": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-refresh-vs-rewrite-assessor",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/refresh-vs-rewrite-assessor.md"
+  },
+  "14bu": {
+    "project": "brass-seo",
+    "slug": "prompt-content-maintenance-six-month-re-optimization-calendar-builder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-maintenance/six-month-re-optimization-calendar-builder.md"
+  },
+  "18mm": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-content-gap-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/content-gap-analysis.md"
+  },
+  "hsux": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-content-gap-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/content-gap-finder.md"
+  },
+  "lmcr": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-keyword-opportunity-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/keyword-opportunity-finder.md"
+  },
+  "1ljw": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-keyword-to-content-plan",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/keyword-to-content-plan.md"
+  },
+  "15qa": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-meta-description-writer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/meta-description-writer.md"
+  },
+  "hgv9": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-title-meta-description-generator",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/title-meta-description-generator.md"
+  },
+  "g531": {
+    "project": "brass-seo",
+    "slug": "prompt-content-optimization-title-tag-writer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/title-tag-writer.md"
+  },
+  "sswn": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-commercial-keyword-gap-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/commercial-keyword-gap-finder.md"
+  },
+  "1f3w": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-ga4-attribution-sanity-check",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/ga4-attribution-sanity-check.md"
+  },
+  "tjon": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-ga4-conversion-event-setup-checklist",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/ga4-conversion-event-setup-checklist.md"
+  },
+  "bk9i": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-keyword-intent-tier-classifier",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/keyword-intent-tier-classifier.md"
+  },
+  "1shx": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-landing-page-conversion-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/landing-page-conversion-audit.md"
+  },
+  "cstr": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-money-pages-vs-traffic-magnets-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/money-pages-vs-traffic-magnets-finder.md"
+  },
+  "9tf5": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-seo-roi-one-pager-builder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/seo-roi-one-pager-builder.md"
+  },
+  "5uy8": {
+    "project": "brass-seo",
+    "slug": "prompt-conversion-revenue-traffic-to-sales-leak-diagnostic",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/traffic-to-sales-leak-diagnostic.md"
+  },
+  "11qk": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-ghost-seo-built-in-vs-missing-checklist",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/ghost-seo-built-in-vs-missing-checklist.md"
+  },
+  "8z4y": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-shopify-seo-settings-checklist",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/shopify-seo-settings-checklist.md"
+  },
+  "1qw6": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-squarespace-seo-workaround-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/squarespace-seo-workaround-finder.md"
+  },
+  "x8yh": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-webflow-seo-launch-checklist",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/webflow-seo-launch-checklist.md"
+  },
+  "f5nd": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-wix-seo-limits-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/wix-seo-limits-audit.md"
+  },
+  "txpv": {
+    "project": "brass-seo",
+    "slug": "prompt-platform-seo-wordpress-seo-audit-no-plugin",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/wordpress-seo-audit-no-plugin.md"
+  },
+  "1nei": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-analysis-declining-pages-analyzer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/declining-pages-analyzer.md"
+  },
+  "10vu": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-analysis-ga4-traffic-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/ga4-traffic-analysis.md"
+  },
+  "2oxt": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-analysis-seo-question-generator",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/seo-question-generator.md"
+  },
+  "pssk": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-analysis-seo-report-action-plan",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/seo-report-action-plan.md"
+  },
+  "1pma": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-grokipedia-correction-writer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/grokipedia-correction-writer.md"
+  },
+  "1uh7": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-grokipedia-opportunity-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/grokipedia-opportunity-finder.md"
+  },
+  "1ckx": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-paa-faq-post-writer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/paa-faq-post-writer.md"
+  },
+  "vetm": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-paa-keyword-candidates",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/paa-keyword-candidates.md"
+  },
+  "qehq": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-press-release-angle-finder",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/press-release-angle-finder.md"
+  },
+  "1c5y": {
+    "project": "brass-seo",
+    "slug": "prompt-seo-playbooks-press-release-writer",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/press-release-writer.md"
+  },
+  "1k25": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-core-web-vitals-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-core-web-vitals-analysis.md"
+  },
+  "1wig": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-crawlability-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-crawlability-audit.md"
+  },
+  "1jrl": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-duplicate-content-check",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-duplicate-content-check.md"
+  },
+  "1aah": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-hreflang-canonicals-review",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-hreflang-canonicals-review.md"
+  },
+  "1wi0": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-indexing-issue-diagnosis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-indexing-issue-diagnosis.md"
+  },
+  "fjed": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-internal-link-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-internal-link-audit.md"
+  },
+  "dsy7": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-log-file-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-log-file-analysis.md"
+  },
+  "1cdw": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-mobile-seo-check",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-mobile-seo-check.md"
+  },
+  "1q27": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-page-speed-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-page-speed-analysis.md"
+  },
+  "gnnz": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-robots-txt-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-robots-txt-audit.md"
+  },
+  "12fe": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-schema-markup-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-schema-markup-audit.md"
+  },
+  "1ey7": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-claude-xml-sitemap-review",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-xml-sitemap-review.md"
+  },
+  "ubvz": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-comprehensive-site-audit",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/comprehensive-site-audit.md"
+  },
+  "hrg0": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-core-web-vitals-analysis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/core-web-vitals-analysis.md"
+  },
+  "183x": {
+    "project": "brass-seo",
+    "slug": "prompt-technical-seo-diy-seo-audit-checklist",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/diy-seo-audit-checklist.md"
+  },
+  "darq": {
+    "project": "brass-seo",
+    "slug": "prompt-troubleshooting-firewall-bot-allowlisting",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/troubleshooting/firewall-bot-allowlisting.md"
+  },
+  "5ztg": {
+    "project": "brass-seo",
+    "slug": "prompt-troubleshooting-indexing-issue-diagnosis",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/troubleshooting/indexing-issue-diagnosis.md"
+  },
+  "qw58": {
+    "project": "brass-seo",
+    "slug": "prompt-troubleshooting-indexing-status-checker",
+    "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/troubleshooting/indexing-status-checker.md"
+  },
+  "1tgc": {
+    "project": "brass-seo",
+    "slug": "research-ai-citation",
+    "url": "https://brass-seo.com/research/ai-citation"
+  },
+  "jcnm": {
+    "project": "brass-seo",
+    "slug": "research-ai-crawler-control",
+    "url": "https://brass-seo.com/research/ai-crawler-control"
+  },
+  "8rbe": {
+    "project": "brass-seo",
+    "slug": "research-ai-overviews-zero-click",
+    "url": "https://brass-seo.com/research/ai-overviews-zero-click"
+  },
+  "l8yg": {
+    "project": "brass-seo",
+    "slug": "research-canonicalization-duplicate-content",
+    "url": "https://brass-seo.com/research/canonicalization-duplicate-content"
+  },
+  "1dnl": {
+    "project": "brass-seo",
+    "slug": "research-click-signals-ranking",
+    "url": "https://brass-seo.com/research/click-signals-ranking"
+  },
+  "18aq": {
+    "project": "brass-seo",
+    "slug": "research-core-web-vitals",
+    "url": "https://brass-seo.com/research/core-web-vitals"
+  },
+  "it2h": {
+    "project": "brass-seo",
+    "slug": "research-crawling-indexing",
+    "url": "https://brass-seo.com/research/crawling-indexing"
+  },
+  "f8c7": {
+    "project": "brass-seo",
+    "slug": "research-eeat-content-quality",
+    "url": "https://brass-seo.com/research/eeat-content-quality"
+  },
+  "qjeo": {
+    "project": "brass-seo",
+    "slug": "research-helpful-content-system",
+    "url": "https://brass-seo.com/research/helpful-content-system"
+  },
+  "138n": {
+    "project": "brass-seo",
+    "slug": "research-javascript-seo-rendering",
+    "url": "https://brass-seo.com/research/javascript-seo-rendering"
+  },
+  "1in9": {
+    "project": "brass-seo",
+    "slug": "research-knowledge-graph-entities",
+    "url": "https://brass-seo.com/research/knowledge-graph-entities"
+  },
+  "d1sw": {
+    "project": "brass-seo",
+    "slug": "research-link-spam-authority",
+    "url": "https://brass-seo.com/research/link-spam-authority"
+  },
+  "1g02": {
+    "project": "brass-seo",
+    "slug": "research-local-search-ranking",
+    "url": "https://brass-seo.com/research/local-search-ranking"
+  },
+  "era8": {
+    "project": "brass-seo",
+    "slug": "research-mobile-first-indexing",
+    "url": "https://brass-seo.com/research/mobile-first-indexing"
+  },
+  "12ho": {
+    "project": "brass-seo",
+    "slug": "research-query-understanding",
+    "url": "https://brass-seo.com/research/query-understanding"
+  },
+  "1gn1": {
+    "project": "brass-seo",
+    "slug": "research-ranking-signals",
+    "url": "https://brass-seo.com/research/ranking-signals"
+  },
+  "9w5d": {
+    "project": "brass-seo",
+    "slug": "research-spam-policies-manipulation",
+    "url": "https://brass-seo.com/research/spam-policies-manipulation"
+  },
+  "5fxh": {
+    "project": "brass-seo",
+    "slug": "research-structured-data",
+    "url": "https://brass-seo.com/research/structured-data"
   }
 }
