@@ -55,7 +55,9 @@ function isBotUA(ua) {
 // the US endpoint; set it to https://api.eu.axiom.co for an EU Axiom org.
 const AXIOM_TOKEN = process.env.AXIOM_TOKEN;
 const AXIOM_DATASET = process.env.AXIOM_DATASET;
-const AXIOM_API_URL = process.env.AXIOM_API_URL || 'https://api.axiom.co';
+// Strip a trailing slash so a value like "https://api.eu.axiom.co/" doesn't
+// produce a double-slash ingest URL (which Axiom 404s → silent telemetry loss).
+const AXIOM_API_URL = (process.env.AXIOM_API_URL || 'https://api.axiom.co').replace(/\/+$/, '');
 
 function ingestHit(record) {
   if (!AXIOM_TOKEN || !AXIOM_DATASET) return; // not wired yet → console.log only

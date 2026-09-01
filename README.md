@@ -16,7 +16,7 @@ Tiny URL shortener serving Brass-SEO, BrassTranscripts, and CopperSun.io social 
 
 | File | Purpose |
 |---|---|
-| `api/[code].js` | The redirect function (Edge runtime) |
+| `api/[code].js` | The redirect function (Node.js runtime) + Axiom hit-ingest |
 | `shortlinks.json` | Code → `{project, slug, url}` mapping. Updated by the generation pipeline. |
 | `vercel.json` | Rewrite `/{code}` to `/api/{code}` |
 | `package.json` | ESM module config; one dep (`@vercel/functions`) |
