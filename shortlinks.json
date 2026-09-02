@@ -6348,5 +6348,150 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "1xcy": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-blind-spots",
+    "url": "https://coppersun.dev/ai-blind-spots"
+  },
+  "1y13": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-code-policy",
+    "url": "https://coppersun.dev/ai-code-policy"
+  },
+  "5gqx": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-code-review-guide",
+    "url": "https://coppersun.dev/ai-code-review-guide"
+  },
+  "8yut": {
+    "project": "coppersun-brass",
+    "slug": "page-brass-setup-guide",
+    "url": "https://coppersun.dev/brass-setup-guide"
+  },
+  "ga71": {
+    "project": "coppersun-brass",
+    "slug": "page-ci-code-gates",
+    "url": "https://coppersun.dev/ci-code-gates"
+  },
+  "zjhz": {
+    "project": "coppersun-brass",
+    "slug": "page-context-engineering-ai-coding-assistants",
+    "url": "https://coppersun.dev/context-engineering-ai-coding-assistants"
+  },
+  "1htd": {
+    "project": "coppersun-brass",
+    "slug": "page-how-to-use",
+    "url": "https://coppersun.dev/how-to-use"
+  },
+  "bm6t": {
+    "project": "coppersun-brass",
+    "slug": "page-python-scanning-for-ai-code",
+    "url": "https://coppersun.dev/python-scanning-for-ai-code"
+  },
+  "9m1u": {
+    "project": "coppersun-brass",
+    "slug": "page-run-on-every-commit",
+    "url": "https://coppersun.dev/run-on-every-commit"
+  },
+  "cms3": {
+    "project": "coppersun-brass",
+    "slug": "page-secure-llm-applications",
+    "url": "https://coppersun.dev/secure-llm-applications"
+  },
+  "6llu": {
+    "project": "coppersun-brass",
+    "slug": "page-security-review-ai-generated-code",
+    "url": "https://coppersun.dev/security-review-ai-generated-code"
+  },
+  "1brm": {
+    "project": "coppersun-brass",
+    "slug": "page-static-analysis-buyers-guide",
+    "url": "https://coppersun.dev/static-analysis-buyers-guide"
+  },
+  "rm5d": {
+    "project": "coppersun-brass",
+    "slug": "page-vibe-coding-safety",
+    "url": "https://coppersun.dev/vibe-coding-safety"
+  },
+  "upi5": {
+    "project": "coppersun-brass",
+    "slug": "page-what-brasscoders-detects",
+    "url": "https://coppersun.dev/what-brasscoders-detects"
+  },
+  "19t7": {
+    "project": "coppersun-brass",
+    "slug": "page-why-brass",
+    "url": "https://coppersun.dev/why-brass"
+  },
+  "9yd4": {
+    "project": "coppersun-brass",
+    "slug": "research-agentic-ai-code-security",
+    "url": "https://coppersun.dev/research/agentic-ai-code-security"
+  },
+  "su9v": {
+    "project": "coppersun-brass",
+    "slug": "research-ai-code-regulated-industries",
+    "url": "https://coppersun.dev/research/ai-code-regulated-industries"
+  },
+  "mt4o": {
+    "project": "coppersun-brass",
+    "slug": "research-cross-file-bugs",
+    "url": "https://coppersun.dev/research/cross-file-bugs"
+  },
+  "1d6r": {
+    "project": "coppersun-brass",
+    "slug": "research-cve-risk",
+    "url": "https://coppersun.dev/research/cve-risk"
+  },
+  "lhsp": {
+    "project": "coppersun-brass",
+    "slug": "research-dependency-confusion",
+    "url": "https://coppersun.dev/research/dependency-confusion"
+  },
+  "18w4": {
+    "project": "coppersun-brass",
+    "slug": "research-index",
+    "url": "https://coppersun.dev/research"
+  },
+  "gc0x": {
+    "project": "coppersun-brass",
+    "slug": "research-llm-review-reliability",
+    "url": "https://coppersun.dev/research/llm-review-reliability"
+  },
+  "1dvb": {
+    "project": "coppersun-brass",
+    "slug": "research-market-intelligence",
+    "url": "https://coppersun.dev/research/market-intelligence"
+  },
+  "1t6n": {
+    "project": "coppersun-brass",
+    "slug": "research-performance-anti-patterns",
+    "url": "https://coppersun.dev/research/performance-anti-patterns"
+  },
+  "1p3j": {
+    "project": "coppersun-brass",
+    "slug": "research-prompt-injection",
+    "url": "https://coppersun.dev/research/prompt-injection"
+  },
+  "pftg": {
+    "project": "coppersun-brass",
+    "slug": "research-secret-leakage",
+    "url": "https://coppersun.dev/research/secret-leakage"
+  },
+  "dnk0": {
+    "project": "coppersun-brass",
+    "slug": "research-slopsquatting",
+    "url": "https://coppersun.dev/research/slopsquatting"
+  },
+  "1s4n": {
+    "project": "coppersun-brass",
+    "slug": "research-vibe-coding-velocity-risk",
+    "url": "https://coppersun.dev/research/vibe-coding-velocity-risk"
+  },
+  "18yl": {
+    "project": "coppersun-brass",
+    "slug": "research-weak-crypto",
+    "url": "https://coppersun.dev/research/weak-crypto"
   }
 }
