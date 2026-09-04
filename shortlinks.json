@@ -534,6 +534,11 @@
     "slug": "mind-walnut-crusted-salmon",
     "url": "https://coppersuncompanion.com/blog/mind-walnut-crusted-salmon"
   },
+  "13fd": {
+    "project": "nordic",
+    "slug": "nordic-diet-meal-timing",
+    "url": "https://coppersuncompanion.com/blog/nordic-diet-meal-timing"
+  },
   "13g6": {
     "project": "brass-seo",
     "slug": "brass-seo-affiliate-program",
@@ -2389,6 +2394,11 @@
     "slug": "prompt-content-optimization-keyword-to-content-plan",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/content-optimization/keyword-to-content-plan.md"
   },
+  "1lqg": {
+    "project": "brass-seo",
+    "slug": "research-redirects-site-migration",
+    "url": "https://brass-seo.com/research/redirects-site-migration"
+  },
   "1lu2": {
     "project": "brass-seo",
     "slug": "structuring-content-ai-can-quote",
@@ -2673,6 +2683,11 @@
     "project": "brasstranscripts",
     "slug": "nigerian-english-transcription-accent-guide",
     "url": "https://brasstranscripts.com/blog/nigerian-english-transcription-accent-guide"
+  },
+  "1ojr": {
+    "project": "brass-seo",
+    "slug": "image-mistake-tanking-core-web-vitals",
+    "url": "https://brass-seo.com/blog/image-mistake-tanking-core-web-vitals"
   },
   "1ojv": {
     "project": "copper-keto",
@@ -3248,6 +3263,11 @@
     "project": "mind",
     "slug": "nordic-slow-cooker-barley-mushroom",
     "url": "https://coppersuncompanion.com/blog/nordic-slow-cooker-barley-mushroom"
+  },
+  "1tz5": {
+    "project": "brass-seo",
+    "slug": "research-behind-blocking-ai-crawlers",
+    "url": "https://brass-seo.com/blog/research-behind-blocking-ai-crawlers"
   },
   "1u16": {
     "project": "copper-keto",
@@ -4079,6 +4099,11 @@
     "slug": "image-seo-how-google-ranks-pictures",
     "url": "https://brass-seo.com/blog/image-seo-how-google-ranks-pictures"
   },
+  "5egt": {
+    "project": "brass-seo",
+    "slug": "half-of-all-redirects-are-broken",
+    "url": "https://brass-seo.com/blog/half-of-all-redirects-are-broken"
+  },
   "5f1m": {
     "project": "brasstranscripts",
     "slug": "customer-support-faq-generator-ai-prompt",
@@ -4608,6 +4633,11 @@
     "project": "nordic",
     "slug": "nordic-baked-cod-potatoes-peas",
     "url": "https://coppersuncompanion.com/blog/nordic-baked-cod-potatoes-peas"
+  },
+  "9x8z": {
+    "project": "brass-seo",
+    "slug": "research-hreflang-multilingual-seo",
+    "url": "https://brass-seo.com/research/hreflang-multilingual-seo"
   },
   "9yd4": {
     "project": "coppersun-brass",
@@ -5163,6 +5193,11 @@
     "project": "copper-keto",
     "slug": "keto-philly-cheesesteak",
     "url": "https://coppersuncompanion.com/blog/keto-philly-cheesesteak"
+  },
+  "exju": {
+    "project": "brass-seo",
+    "slug": "research-ai-training-data-memorization",
+    "url": "https://brass-seo.com/research/ai-training-data-memorization"
   },
   "exr6": {
     "project": "coppersun",
@@ -6299,6 +6334,11 @@
     "slug": "security-manager-brief-ai-generated-code-risk",
     "url": "https://coppersun.dev/blog/security-manager-brief-ai-generated-code-risk"
   },
+  "pjme": {
+    "project": "brass-seo",
+    "slug": "why-hreflang-tags-arent-working",
+    "url": "https://brass-seo.com/blog/why-hreflang-tags-arent-working"
+  },
   "pncb": {
     "project": "brass-seo",
     "slug": "bounce-rate-is-dead",
@@ -6583,6 +6623,11 @@
     "project": "brass-seo",
     "slug": "long-tail-keyword-became-a-blog-post",
     "url": "https://brass-seo.com/blog/long-tail-keyword-became-a-blog-post"
+  },
+  "s3zv": {
+    "project": "brass-seo",
+    "slug": "research-image-seo-visual-search",
+    "url": "https://brass-seo.com/research/image-seo-visual-search"
   },
   "s9yr": {
     "project": "brasstranscripts",
@@ -7573,45 +7618,5 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
-  },
-  "5egt": {
-    "project": "brass-seo",
-    "slug": "half-of-all-redirects-are-broken",
-    "url": "https://brass-seo.com/blog/half-of-all-redirects-are-broken"
-  },
-  "1ojr": {
-    "project": "brass-seo",
-    "slug": "image-mistake-tanking-core-web-vitals",
-    "url": "https://brass-seo.com/blog/image-mistake-tanking-core-web-vitals"
-  },
-  "1tz5": {
-    "project": "brass-seo",
-    "slug": "research-behind-blocking-ai-crawlers",
-    "url": "https://brass-seo.com/blog/research-behind-blocking-ai-crawlers"
-  },
-  "pjme": {
-    "project": "brass-seo",
-    "slug": "why-hreflang-tags-arent-working",
-    "url": "https://brass-seo.com/blog/why-hreflang-tags-arent-working"
-  },
-  "exju": {
-    "project": "brass-seo",
-    "slug": "research-ai-training-data-memorization",
-    "url": "https://brass-seo.com/research/ai-training-data-memorization"
-  },
-  "9x8z": {
-    "project": "brass-seo",
-    "slug": "research-hreflang-multilingual-seo",
-    "url": "https://brass-seo.com/research/hreflang-multilingual-seo"
-  },
-  "s3zv": {
-    "project": "brass-seo",
-    "slug": "research-image-seo-visual-search",
-    "url": "https://brass-seo.com/research/image-seo-visual-search"
-  },
-  "1lqg": {
-    "project": "brass-seo",
-    "slug": "research-redirects-site-migration",
-    "url": "https://brass-seo.com/research/redirects-site-migration"
   }
 }
