@@ -1759,6 +1759,11 @@
     "slug": "prompt-conversion-revenue-ga4-attribution-sanity-check",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/conversion-revenue/ga4-attribution-sanity-check.md"
   },
+  "1f4d": {
+    "project": "coppersun-brass",
+    "slug": "redos-ai-generated-regex",
+    "url": "https://coppersun.dev/blog/redos-ai-generated-regex"
+  },
   "1f7n": {
     "project": "brass-seo",
     "slug": "claude-code-as-your-seo-engineer",
