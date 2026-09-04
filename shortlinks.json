@@ -149,10 +149,20 @@
     "slug": "ketone-levels-chart",
     "url": "https://coppersuncompanion.com/blog/ketone-levels-chart"
   },
+  "104t": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-async-standup-documentation",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/async-standup-documentation.md"
+  },
   "108t": {
     "project": "copper-keto",
     "slug": "keto-and-intermittent-fasting",
     "url": "https://coppersuncompanion.com/blog/keto-and-intermittent-fasting"
+  },
+  "109g": {
+    "project": "brasstranscripts",
+    "slug": "page-research-audio-quality",
+    "url": "https://brasstranscripts.com/research/audio-quality"
   },
   "109p": {
     "project": "coppersun",
@@ -163,6 +173,11 @@
     "project": "brass-seo",
     "slug": "ai-transcription-accuracy-research",
     "url": "https://brass-seo.com/blog/ai-transcription-accuracy-research"
+  },
+  "10be": {
+    "project": "brasstranscripts",
+    "slug": "page-bulk-transcription-guide",
+    "url": "https://brasstranscripts.com/bulk-transcription-guide"
   },
   "10cw": {
     "project": "brass-seo",
@@ -194,6 +209,11 @@
     "slug": "nordic-diet-research-index",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-research-index"
   },
+  "10ih": {
+    "project": "brasstranscripts",
+    "slug": "page-transcription-accuracy-guide",
+    "url": "https://brasstranscripts.com/transcription-accuracy-guide"
+  },
   "10j6": {
     "project": "coppersun-brass",
     "slug": "yaml-first-context-pattern-ai-coding-assistants",
@@ -214,6 +234,11 @@
     "slug": "informational-vs-commercial-keywords",
     "url": "https://brass-seo.com/blog/informational-vs-commercial-keywords"
   },
+  "10rj": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-podcast-show-notes-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-show-notes-generator.md"
+  },
   "10tc": {
     "project": "brass-seo",
     "slug": "wix-seo-working-around-limits",
@@ -228,6 +253,11 @@
     "project": "brass-seo",
     "slug": "prompt-seo-analysis-ga4-traffic-analysis",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/ga4-traffic-analysis.md"
+  },
+  "10yv": {
+    "project": "brasstranscripts",
+    "slug": "page-transcription-service",
+    "url": "https://brasstranscripts.com/transcription-service"
   },
   "10z3": {
     "project": "coppersun-brass",
@@ -288,6 +318,11 @@
     "project": "copper-keto",
     "slug": "are-carrots-keto",
     "url": "https://coppersuncompanion.com/blog/are-carrots-keto"
+  },
+  "11l8": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-revai-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/revai-cost-calculator.md"
   },
   "11lr": {
     "project": "brasstranscripts",
@@ -354,6 +389,11 @@
     "slug": "why-ai-transcription-is-affordable-self-supervised-learning",
     "url": "https://brasstranscripts.com/blog/why-ai-transcription-is-affordable-self-supervised-learning"
   },
+  "125o": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-timeline-constructor",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/timeline-constructor"
+  },
   "127g": {
     "project": "brass-seo",
     "slug": "pages-declining-and-you-dont-know-it",
@@ -383,6 +423,11 @@
     "project": "brasstranscripts",
     "slug": "sales-manager-recording-analyzing-calls-qa",
     "url": "https://brasstranscripts.com/blog/sales-manager-recording-analyzing-calls-qa"
+  },
+  "12ke": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-minutes-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-minutes-generator.md"
   },
   "12m6": {
     "project": "nordic",
@@ -434,6 +479,11 @@
     "slug": "audio-transcription-questions-answered-expert-guide",
     "url": "https://brasstranscripts.com/blog/audio-transcription-questions-answered-expert-guide"
   },
+  "12z4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-email-newsletter-sequence",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/email-newsletter-sequence.md"
+  },
   "132x": {
     "project": "nordic",
     "slug": "nordic-baked-salmon-potatoes-kale",
@@ -469,6 +519,11 @@
     "slug": "brass-seo-affiliate-program",
     "url": "https://brass-seo.com/blog/brass-seo-affiliate-program"
   },
+  "13hq": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-video-content-strategy",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-content-strategy.md"
+  },
   "13is": {
     "project": "coppersun",
     "slug": "podcast-transcripts-ai-content-brief",
@@ -488,6 +543,11 @@
     "project": "coppersun-brass",
     "slug": "ai-generated-test-debt",
     "url": "https://coppersun.dev/blog/ai-generated-test-debt"
+  },
+  "13oa": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-action-items-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-action-items-extractor.md"
   },
   "13p8": {
     "project": "coppersun",
@@ -534,6 +594,11 @@
     "slug": "brand-voice-consistency-ai",
     "url": "https://coppersun.io/blog/brand-voice-consistency-ai"
   },
+  "14ck": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-sales-call-buying-signal-detector",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-buying-signal-detector.md"
+  },
   "14ev": {
     "project": "coppersun",
     "slug": "one-person-marketing-team-ai",
@@ -548,6 +613,11 @@
     "project": "nordic",
     "slug": "nordic-diet-over-50",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-over-50"
+  },
+  "14is": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-cross-examination-prep",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/cross-examination-prep"
   },
   "14ki": {
     "project": "coppersun",
@@ -568,6 +638,11 @@
     "project": "coppersun",
     "slug": "brand-point-of-view-content",
     "url": "https://coppersun.io/blog/brand-point-of-view-content"
+  },
+  "14r2": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-azure-speech-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/azure-speech-cost-calculator.md"
   },
   "14sj": {
     "project": "mind",
@@ -599,6 +674,11 @@
     "slug": "sales-call-transcription-ai-analysis-guide-2026",
     "url": "https://brasstranscripts.com/blog/sales-call-transcription-ai-analysis-guide-2026"
   },
+  "14xi": {
+    "project": "brasstranscripts",
+    "slug": "page-ai-prompt-guide",
+    "url": "https://brasstranscripts.com/ai-prompt-guide"
+  },
   "14yz": {
     "project": "coppersun",
     "slug": "expert-interview-to-blog-post",
@@ -609,6 +689,16 @@
     "slug": "99-languages-what-it-means-for-content-reach",
     "url": "https://brass-seo.com/blog/99-languages-what-it-means-for-content-reach"
   },
+  "154c": {
+    "project": "brasstranscripts",
+    "slug": "page-transcrever-audio-em-texto",
+    "url": "https://brasstranscripts.com/transcrever-audio-em-texto"
+  },
+  "157p": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-speaker-labeler",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-labeler.md"
+  },
   "157t": {
     "project": "coppersun",
     "slug": "executive-content-ghostwriting-ai",
@@ -618,6 +708,11 @@
     "project": "brass-seo",
     "slug": "google-changed-how-it-reads-schema-markup",
     "url": "https://brass-seo.com/blog/google-changed-how-it-reads-schema-markup"
+  },
+  "15br": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-court-recordings",
+    "url": "https://legal.brasstranscripts.com/court-recordings"
   },
   "15d6": {
     "project": "nordic",
@@ -633,6 +728,11 @@
     "project": "copper-keto",
     "slug": "keto-no-bean-beef-chili",
     "url": "https://coppersuncompanion.com/blog/keto-no-bean-beef-chili"
+  },
+  "15jx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-qualitative-research-thematic-analysis",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/qualitative-research-thematic-analysis.md"
   },
   "15l6": {
     "project": "brasstranscripts",
@@ -693,6 +793,11 @@
     "project": "brasstranscripts",
     "slug": "reddit-ads-authentic-customer-language",
     "url": "https://brasstranscripts.com/blog/reddit-ads-authentic-customer-language"
+  },
+  "168v": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-scope-change-identifier",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/scope-change-identifier.md"
   },
   "16as": {
     "project": "brass-seo",
@@ -804,15 +909,30 @@
     "slug": "nordic-air-fryer-root-vegetable-fries",
     "url": "https://coppersuncompanion.com/blog/nordic-air-fryer-root-vegetable-fries"
   },
+  "17lp": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-youtube-video-to-blog-post-converter",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/youtube-video-to-blog-post-converter.md"
+  },
   "17qx": {
     "project": "brasstranscripts",
     "slug": "yoruba-audio-transcription-guide",
     "url": "https://brasstranscripts.com/blog/yoruba-audio-transcription-guide"
   },
+  "17vp": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-client-intake-summary",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/client-intake-summary"
+  },
   "17wa": {
     "project": "coppersun",
     "slug": "ai-marketing-under-pressure",
     "url": "https://coppersun.io/blog/ai-marketing-under-pressure"
+  },
+  "17xe": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-action-item-extractor-simple",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-action-item-extractor-simple.md"
   },
   "17yb": {
     "project": "brass-seo",
@@ -834,6 +954,11 @@
     "slug": "measuring-ai-marketing-roi-without-vanity-metrics",
     "url": "https://brass-seo.com/blog/measuring-ai-marketing-roi-without-vanity-metrics"
   },
+  "183k": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-blog-post-creator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/blog-post-creator.md"
+  },
   "183x": {
     "project": "brass-seo",
     "slug": "prompt-technical-seo-diy-seo-audit-checklist",
@@ -853,6 +978,11 @@
     "project": "brass-seo",
     "slug": "research-core-web-vitals",
     "url": "https://brass-seo.com/research/core-web-vitals"
+  },
+  "18cf": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-depositions",
+    "url": "https://legal.brasstranscripts.com/depositions"
   },
   "18ch": {
     "project": "nordic",
@@ -899,10 +1029,25 @@
     "slug": "evaluating-ai-marketing-output",
     "url": "https://coppersun.io/blog/evaluating-ai-marketing-output"
   },
+  "18w4": {
+    "project": "coppersun-brass",
+    "slug": "research-index",
+    "url": "https://coppersun.dev/research"
+  },
   "18y2": {
     "project": "coppersun-brass",
     "slug": "onboarding-ai-assisted-developers",
     "url": "https://coppersun.dev/blog/onboarding-ai-assisted-developers"
+  },
+  "18yl": {
+    "project": "coppersun-brass",
+    "slug": "research-weak-crypto",
+    "url": "https://coppersun.dev/research/weak-crypto"
+  },
+  "194t": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-formatting-style-standardizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-formatting-style-standardizer.md"
   },
   "198y": {
     "project": "coppersun-brass",
@@ -914,6 +1059,11 @@
     "slug": "nordic-diet-legumes",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-legumes"
   },
+  "19e1": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-cleaner",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-cleaner.md"
+  },
   "19eh": {
     "project": "copper-keto",
     "slug": "why-people-quit-keto-week-3",
@@ -923,6 +1073,11 @@
     "project": "brass-seo",
     "slug": "preferred-sources-for-local-businesses",
     "url": "https://brass-seo.com/blog/preferred-sources-for-local-businesses"
+  },
+  "19gx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-meeting-summarizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/meeting-summarizer.md"
   },
   "19ht": {
     "project": "copper-keto",
@@ -954,6 +1109,11 @@
     "slug": "ai-company-behind-copper-keto-companion",
     "url": "https://coppersuncompanion.com/blog/ai-company-behind-copper-keto-companion"
   },
+  "19t7": {
+    "project": "coppersun-brass",
+    "slug": "page-why-brass",
+    "url": "https://coppersun.dev/why-brass"
+  },
   "19wy": {
     "project": "brasstranscripts",
     "slug": "corporate-meeting-documentation-transcription-workflow",
@@ -964,6 +1124,11 @@
     "slug": "best-keto-electrolytes",
     "url": "https://coppersuncompanion.com/blog/best-keto-electrolytes"
   },
+  "19zc": {
+    "project": "brasstranscripts",
+    "slug": "page-transcribe-mp3-to-text",
+    "url": "https://brasstranscripts.com/transcribe-mp3-to-text"
+  },
   "1a0q": {
     "project": "mind",
     "slug": "mind-garlic-shrimp-farro",
@@ -973,6 +1138,11 @@
     "project": "copper-keto",
     "slug": "keto-over-50",
     "url": "https://coppersuncompanion.com/blog/keto-over-50"
+  },
+  "1a28": {
+    "project": "brasstranscripts",
+    "slug": "page-transcription-file-formats",
+    "url": "https://brasstranscripts.com/transcription-file-formats"
   },
   "1a6t": {
     "project": "coppersun",
@@ -1059,10 +1229,20 @@
     "slug": "audit-ready-ai-code-scan",
     "url": "https://coppersun.dev/blog/audit-ready-ai-code-scan"
   },
+  "1b0a": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-lead-magnet-creator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/lead-magnet-creator.md"
+  },
   "1b0y": {
     "project": "brass-seo",
     "slug": "how-to-read-your-ga4-traffic-report",
     "url": "https://brass-seo.com/blog/how-to-read-your-ga4-traffic-report"
+  },
+  "1b7e": {
+    "project": "coppersun",
+    "slug": "research-word-of-mouth",
+    "url": "https://coppersun.io/research/word-of-mouth"
   },
   "1ba5": {
     "project": "coppersun",
@@ -1079,6 +1259,11 @@
     "slug": "page-1-on-google-zero-ai-citations",
     "url": "https://brass-seo.com/blog/page-1-on-google-zero-ai-citations"
   },
+  "1bj2": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-microsoft-ads-language-pattern-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-language-pattern-analyzer.md"
+  },
   "1bks": {
     "project": "copper-keto",
     "slug": "keto-for-men",
@@ -1089,10 +1274,25 @@
     "slug": "what-ai-search-wont-cite",
     "url": "https://brass-seo.com/blog/what-ai-search-wont-cite"
   },
+  "1bo3": {
+    "project": "brasstranscripts",
+    "slug": "page-descript-alternative",
+    "url": "https://brasstranscripts.com/descript-alternative"
+  },
   "1bq5": {
     "project": "brass-seo",
     "slug": "set-up-brass-seo-in-2-minutes",
     "url": "https://brass-seo.com/blog/set-up-brass-seo-in-2-minutes"
+  },
+  "1bri": {
+    "project": "brasstranscripts",
+    "slug": "page-audio-naar-tekst",
+    "url": "https://brasstranscripts.com/audio-naar-tekst"
+  },
+  "1brm": {
+    "project": "coppersun-brass",
+    "slug": "page-static-analysis-buyers-guide",
+    "url": "https://coppersun.dev/static-analysis-buyers-guide"
   },
   "1brt": {
     "project": "coppersun",
@@ -1134,6 +1334,11 @@
     "slug": "prompt-seo-playbooks-press-release-writer",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/press-release-writer.md"
   },
+  "1c6b": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-social-media-clip-creator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-clip-creator.md"
+  },
   "1c6s": {
     "project": "nordic",
     "slug": "nordic-dinner-ideas",
@@ -1169,6 +1374,16 @@
     "slug": "nordic-instant-pot-lentil-stew",
     "url": "https://coppersuncompanion.com/blog/nordic-instant-pot-lentil-stew"
   },
+  "1cj9": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-sonix-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/sonix-cost-calculator.md"
+  },
+  "1cka": {
+    "project": "brasstranscripts",
+    "slug": "page-sonix-alternative",
+    "url": "https://brasstranscripts.com/sonix-alternative"
+  },
   "1ckb": {
     "project": "nordic",
     "slug": "nordic-diet-whole-grains",
@@ -1203,6 +1418,11 @@
     "project": "brass-seo",
     "slug": "traffic-up-sales-flat-find-the-leak",
     "url": "https://brass-seo.com/blog/traffic-up-sales-flat-find-the-leak"
+  },
+  "1ctl": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-interview-thematic-analysis",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-thematic-analysis.md"
   },
   "1ctq": {
     "project": "brasstranscripts",
@@ -1264,6 +1484,11 @@
     "slug": "audit-your-content-keep-fix-delete",
     "url": "https://brass-seo.com/blog/audit-your-content-keep-fix-delete"
   },
+  "1d6r": {
+    "project": "coppersun-brass",
+    "slug": "research-cve-risk",
+    "url": "https://coppersun.dev/research/cve-risk"
+  },
   "1d7b": {
     "project": "coppersun",
     "slug": "ai-brand-consistency-at-scale",
@@ -1323,6 +1548,26 @@
     "project": "coppersun-brass",
     "slug": "brass-seo-boundary-content-case-study",
     "url": "https://coppersun.dev/blog/brass-seo-boundary-content-case-study"
+  },
+  "1duw": {
+    "project": "coppersun",
+    "slug": "research-marketing-effectiveness",
+    "url": "https://coppersun.io/research/marketing-effectiveness"
+  },
+  "1dvb": {
+    "project": "coppersun-brass",
+    "slug": "research-market-intelligence",
+    "url": "https://coppersun.dev/research/market-intelligence"
+  },
+  "1dx3": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-format-conversion-optimizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/format-conversion-optimizer.md"
+  },
+  "1dxs": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-cross-examination-prep",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/cross-examination-prep.md"
   },
   "1dzn": {
     "project": "brass-seo",
@@ -1389,15 +1634,30 @@
     "slug": "seo-report-to-action",
     "url": "https://brass-seo.com/blog/seo-report-to-action"
   },
+  "1eg4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-deposition-analysis-case-strategy",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/deposition-analysis-case-strategy.md"
+  },
   "1ehv": {
     "project": "brass-seo",
     "slug": "robots-meta-tag-ai-snippets",
     "url": "https://brass-seo.com/blog/robots-meta-tag-ai-snippets"
   },
+  "1eii": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-sales-call-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-analyzer.md"
+  },
   "1ejb": {
     "project": "brasstranscripts",
     "slug": "multi-speaker-transcript-formats-srt-vtt-json",
     "url": "https://brasstranscripts.com/blog/multi-speaker-transcript-formats-srt-vtt-json"
+  },
+  "1elc": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-timestamp-formatter",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/timestamp-formatter.md"
   },
   "1ell": {
     "project": "coppersun",
@@ -1494,6 +1754,11 @@
     "slug": "hipaa-soc2-code-scanning",
     "url": "https://coppersun.dev/blog/hipaa-soc2-code-scanning"
   },
+  "1fco": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-key-facts-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/key-facts-extractor.md"
+  },
   "1fen": {
     "project": "coppersun",
     "slug": "customer-story-multiple-formats",
@@ -1554,6 +1819,11 @@
     "slug": "marketing-tasks-to-keep-human",
     "url": "https://coppersun.io/blog/marketing-tasks-to-keep-human"
   },
+  "1fxd": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-executive-summary-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/executive-summary-generator.md"
+  },
   "1fxf": {
     "project": "brasstranscripts",
     "slug": "turn-tiktok-video-into-written-transcript",
@@ -1578,6 +1848,11 @@
     "project": "brass-seo",
     "slug": "monthly-seo-check-in",
     "url": "https://brass-seo.com/blog/monthly-seo-check-in"
+  },
+  "1g4h": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-government-meeting-minutes-assistant",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/government-meeting-minutes-assistant.md"
   },
   "1g8a": {
     "project": "brasstranscripts",
@@ -1613,6 +1888,16 @@
     "project": "brass-seo",
     "slug": "research-ranking-signals",
     "url": "https://brass-seo.com/research/ranking-signals"
+  },
+  "1gqu": {
+    "project": "coppersun",
+    "slug": "research-ai-citation",
+    "url": "https://coppersun.io/research/ai-citation"
+  },
+  "1gt4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-microsoft-ads-copy-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-copy-generator.md"
   },
   "1gty": {
     "project": "copper-keto",
@@ -1659,10 +1944,20 @@
     "slug": "coppersun-io-reading-list-small-business",
     "url": "https://brass-seo.com/blog/coppersun-io-reading-list-small-business"
   },
+  "1htd": {
+    "project": "coppersun-brass",
+    "slug": "page-how-to-use",
+    "url": "https://coppersun.dev/how-to-use"
+  },
   "1hux": {
     "project": "copper-keto",
     "slug": "keto-instant-pot-carnitas",
     "url": "https://coppersuncompanion.com/blog/keto-instant-pot-carnitas"
+  },
+  "1hzh": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-professional-follow-up-email-creator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/professional-follow-up-email-creator.md"
   },
   "1i5a": {
     "project": "nordic",
@@ -1724,6 +2019,11 @@
     "slug": "research-knowledge-graph-entities",
     "url": "https://brass-seo.com/research/knowledge-graph-entities"
   },
+  "1ipi": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-audio-quality-pre-recording-checklist",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/audio-quality-pre-recording-checklist.md"
+  },
   "1iqf": {
     "project": "brass-seo",
     "slug": "page-first-seo-analysis",
@@ -1759,6 +2059,11 @@
     "slug": "brass-seo-ai-content-scale",
     "url": "https://coppersun.io/blog/brass-seo-ai-content-scale"
   },
+  "1j5v": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-accessible-txt-documentation",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/accessible-txt-documentation.md"
+  },
   "1j6p": {
     "project": "coppersun",
     "slug": "context-vs-memory-vs-prompt",
@@ -1768,6 +2073,11 @@
     "project": "copper-keto",
     "slug": "how-to-break-a-keto-plateau",
     "url": "https://coppersuncompanion.com/blog/how-to-break-a-keto-plateau"
+  },
+  "1j6v": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-openai-whisper-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/openai-whisper-cost-calculator.md"
   },
   "1jbf": {
     "project": "brass-seo",
@@ -1804,6 +2114,11 @@
     "slug": "ai-mode-vs-traditional-search-2026",
     "url": "https://brass-seo.com/blog/ai-mode-vs-traditional-search-2026"
   },
+  "1jo4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-invoice-documentation-helper",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/invoice-documentation-helper.md"
+  },
   "1jo7": {
     "project": "nordic",
     "slug": "nordic-slow-cooker-barley-mushroom",
@@ -1828,6 +2143,11 @@
     "project": "coppersun",
     "slug": "build-brand-memory-layer",
     "url": "https://coppersun.io/blog/build-brand-memory-layer"
+  },
+  "1jy9": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-ai-transcription-time-estimator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/ai-transcription-time-estimator.md"
   },
   "1k1k": {
     "project": "coppersun",
@@ -1884,6 +2204,16 @@
     "slug": "sports-coaching-transcription-practice-game-tape",
     "url": "https://brasstranscripts.com/blog/sports-coaching-transcription-practice-game-tape"
   },
+  "1kgg": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-interview-bias-detector",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/interview-bias-detector.md"
+  },
+  "1kk7": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-expert-witness-prep",
+    "url": "https://legal.brasstranscripts.com/expert-witness-prep"
+  },
   "1kks": {
     "project": "coppersun-brass",
     "slug": "gdpr-ai-code-data-handling",
@@ -1909,6 +2239,11 @@
     "slug": "ai-copy-reads-like-reported",
     "url": "https://brasstranscripts.com/blog/ai-copy-reads-like-reported"
   },
+  "1kx9": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-format-converter",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-format-converter.md"
+  },
   "1kxl": {
     "project": "brasstranscripts",
     "slug": "sales-call-recordings-enablement-content",
@@ -1928,6 +2263,11 @@
     "project": "brass-seo",
     "slug": "what-a-good-seo-audit-actually-tells-you",
     "url": "https://brass-seo.com/blog/what-a-good-seo-audit-actually-tells-you"
+  },
+  "1l54": {
+    "project": "brasstranscripts",
+    "slug": "tool-transcript-format-converter",
+    "url": "https://coppersundev.github.io/transcript-format-converter/"
   },
   "1l5s": {
     "project": "copper-keto",
@@ -1999,6 +2339,11 @@
     "slug": "striking-distance-keywords",
     "url": "https://brass-seo.com/blog/striking-distance-keywords"
   },
+  "1ljp": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-supervision-case-summary",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/supervision-case-summary.md"
+  },
   "1ljw": {
     "project": "brass-seo",
     "slug": "prompt-content-optimization-keyword-to-content-plan",
@@ -2033,6 +2378,11 @@
     "project": "coppersun-brass",
     "slug": "llm-reviewer-not-a-security-gate",
     "url": "https://coppersun.dev/blog/llm-reviewer-not-a-security-gate"
+  },
+  "1m54": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-standup-pattern-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/standup-pattern-analyzer.md"
   },
   "1m73": {
     "project": "brass-seo",
@@ -2089,6 +2439,11 @@
     "slug": "how-to-stick-to-keto",
     "url": "https://coppersuncompanion.com/blog/how-to-stick-to-keto"
   },
+  "1mt1": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-summary-progress-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-summary-progress-generator.md"
+  },
   "1mvf": {
     "project": "brass-seo",
     "slug": "how-to-track-llm-visibility",
@@ -2134,6 +2489,11 @@
     "slug": "keto-cauliflower-rice",
     "url": "https://coppersuncompanion.com/blog/keto-cauliflower-rice"
   },
+  "1nbj": {
+    "project": "coppersun",
+    "slug": "research-context-retrieval",
+    "url": "https://coppersun.io/research/context-retrieval"
+  },
   "1ndh": {
     "project": "coppersun",
     "slug": "campaign-memory-with-ai",
@@ -2143,6 +2503,11 @@
     "project": "brass-seo",
     "slug": "prompt-seo-analysis-declining-pages-analyzer",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/declining-pages-analyzer.md"
+  },
+  "1nhl": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-patient-encounter-clinical-note-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/patient-encounter-clinical-note-generator.md"
   },
   "1nhm": {
     "project": "coppersun",
@@ -2158,6 +2523,11 @@
     "project": "brass-seo",
     "slug": "reviews-that-show-in-search",
     "url": "https://brass-seo.com/blog/reviews-that-show-in-search"
+  },
+  "1noe": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-social-media-content-extraction-suite",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-content-extraction-suite.md"
   },
   "1nqx": {
     "project": "copper-keto",
@@ -2193,6 +2563,16 @@
     "project": "brass-seo",
     "slug": "ai-overviews-vs-featured-snippets",
     "url": "https://brass-seo.com/blog/ai-overviews-vs-featured-snippets"
+  },
+  "1nzz": {
+    "project": "coppersun",
+    "slug": "research-ai-hallucination",
+    "url": "https://coppersun.io/research/ai-hallucination"
+  },
+  "1o1n": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-board-minutes-drafting-assistant",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/board-minutes-drafting-assistant.md"
   },
   "1o49": {
     "project": "brass-seo",
@@ -2299,6 +2679,26 @@
     "slug": "speaking-content-repurposing",
     "url": "https://coppersun.io/blog/speaking-content-repurposing"
   },
+  "1ouc": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-risk-assessment-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/risk-assessment-analyzer.md"
+  },
+  "1ox6": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-key-facts-extractor",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/key-facts-extractor"
+  },
+  "1p15": {
+    "project": "brasstranscripts",
+    "slug": "page-video-transcription-service",
+    "url": "https://brasstranscripts.com/video-transcription-service"
+  },
+  "1p3j": {
+    "project": "coppersun-brass",
+    "slug": "research-prompt-injection",
+    "url": "https://coppersun.dev/research/prompt-injection"
+  },
   "1p5c": {
     "project": "brasstranscripts",
     "slug": "powerful-llm-prompts-transcript-optimization",
@@ -2318,6 +2718,11 @@
     "project": "coppersun",
     "slug": "binet-field-marketing-effectiveness-research",
     "url": "https://coppersun.io/blog/binet-field-marketing-effectiveness-research"
+  },
+  "1ph3": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-video-social-media-package",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-social-media-package.md"
   },
   "1pma": {
     "project": "brass-seo",
@@ -2349,6 +2754,11 @@
     "slug": "meeting-transcripts-ai-marketing",
     "url": "https://coppersun.io/blog/meeting-transcripts-ai-marketing"
   },
+  "1pwb": {
+    "project": "brasstranscripts",
+    "slug": "call-center-qa-transcription-guide",
+    "url": "https://brasstranscripts.com/blog/call-center-qa-transcription-guide"
+  },
   "1px0": {
     "project": "copper-keto",
     "slug": "best-keto-snacks",
@@ -2363,6 +2773,11 @@
     "project": "brass-seo",
     "slug": "original-data-seo-case-study",
     "url": "https://brass-seo.com/blog/original-data-seo-case-study"
+  },
+  "1q12": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-project-requirements-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/project-requirements-extractor.md"
   },
   "1q1j": {
     "project": "brass-seo",
@@ -2409,6 +2824,11 @@
     "slug": "i-dont-get-google-analytics",
     "url": "https://brass-seo.com/blog/i-dont-get-google-analytics"
   },
+  "1qg8": {
+    "project": "brasstranscripts",
+    "slug": "page-interview-transcription-guide",
+    "url": "https://brasstranscripts.com/interview-transcription-guide"
+  },
   "1qlj": {
     "project": "brass-seo",
     "slug": "zero-click-searches-explained",
@@ -2454,6 +2874,11 @@
     "slug": "google-meet-transcription-complete-guide-2025",
     "url": "https://brasstranscripts.com/blog/google-meet-transcription-complete-guide-2025"
   },
+  "1qxb": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-research-project-transcription-budget",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/research-project-transcription-budget.md"
+  },
   "1qzu": {
     "project": "brasstranscripts",
     "slug": "brasstranscripts-vs-otter-honest-comparison",
@@ -2469,6 +2894,11 @@
     "slug": "introducing-ai-marketing-research-center",
     "url": "https://coppersun.io/blog/introducing-ai-marketing-research-center"
   },
+  "1r2k": {
+    "project": "brasstranscripts",
+    "slug": "page-meeting-transcription-software",
+    "url": "https://brasstranscripts.com/meeting-transcription-software"
+  },
   "1r3y": {
     "project": "brasstranscripts",
     "slug": "transcript-training-material-ai-prompt",
@@ -2478,6 +2908,11 @@
     "project": "coppersun",
     "slug": "pricing-psychology-research",
     "url": "https://coppersun.io/blog/pricing-psychology-research"
+  },
+  "1r9y": {
+    "project": "coppersun",
+    "slug": "research-pricing-psychology",
+    "url": "https://coppersun.io/research/pricing-psychology"
   },
   "1rfw": {
     "project": "brasstranscripts",
@@ -2519,10 +2954,20 @@
     "slug": "ai-executive-thought-leadership",
     "url": "https://coppersun.io/blog/ai-executive-thought-leadership"
   },
+  "1s3u": {
+    "project": "brasstranscripts",
+    "slug": "page-multilingual-transcription",
+    "url": "https://brasstranscripts.com/multilingual-transcription"
+  },
   "1s44": {
     "project": "coppersun",
     "slug": "b2b-buying-committee-content",
     "url": "https://coppersun.io/blog/b2b-buying-committee-content"
+  },
+  "1s4n": {
+    "project": "coppersun-brass",
+    "slug": "research-vibe-coding-velocity-risk",
+    "url": "https://coppersun.dev/research/vibe-coding-velocity-risk"
   },
   "1s61": {
     "project": "brass-seo",
@@ -2538,6 +2983,11 @@
     "project": "coppersun-brass",
     "slug": "scanning-ai-javascript-typescript",
     "url": "https://coppersun.dev/blog/scanning-ai-javascript-typescript"
+  },
+  "1sa0": {
+    "project": "brasstranscripts",
+    "slug": "page-audio-quality-tips",
+    "url": "https://brasstranscripts.com/audio-quality-tips"
   },
   "1sc2": {
     "project": "brasstranscripts",
@@ -2568,6 +3018,11 @@
     "project": "brasstranscripts",
     "slug": "flat-rate-pricing-savings-announcement",
     "url": "https://brasstranscripts.com/blog/flat-rate-pricing-savings-announcement"
+  },
+  "1sub": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-json-metadata-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/json-metadata-analyzer.md"
   },
   "1suq": {
     "project": "brasstranscripts",
@@ -2604,6 +3059,16 @@
     "slug": "competitor-backlink-analysis-find-where-they-win",
     "url": "https://brass-seo.com/blog/competitor-backlink-analysis-find-where-they-win"
   },
+  "1szv": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-interview-quote-extraction",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-quote-extraction.md"
+  },
+  "1t0m": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-action-items-responsibility-tracker",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/action-items-responsibility-tracker.md"
+  },
   "1t12": {
     "project": "nordic",
     "slug": "nordic-diet-vs-keto",
@@ -2624,6 +3089,11 @@
     "slug": "keto-sheet-pan-chicken-broccoli",
     "url": "https://coppersuncompanion.com/blog/keto-sheet-pan-chicken-broccoli"
   },
+  "1t6n": {
+    "project": "coppersun-brass",
+    "slug": "research-performance-anti-patterns",
+    "url": "https://coppersun.dev/research/performance-anti-patterns"
+  },
   "1t6q": {
     "project": "brasstranscripts",
     "slug": "meeting-transcription-complete-guide",
@@ -2633,6 +3103,11 @@
     "project": "copper-keto",
     "slug": "best-keto-coffee",
     "url": "https://coppersuncompanion.com/blog/best-keto-coffee"
+  },
+  "1t8e": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-lecture-study-guide-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/lecture-study-guide-generator.md"
   },
   "1tbw": {
     "project": "copper-keto",
@@ -2653,6 +3128,11 @@
     "project": "brass-seo",
     "slug": "research-ai-citation",
     "url": "https://brass-seo.com/research/ai-citation"
+  },
+  "1tgk": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-enterprise-transcription-budget-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/enterprise-transcription-budget-calculator.md"
   },
   "1tgz": {
     "project": "coppersun",
@@ -2693,6 +3173,11 @@
     "project": "brass-seo",
     "slug": "asked-ai-what-to-do-next-seo",
     "url": "https://brass-seo.com/blog/asked-ai-what-to-do-next-seo"
+  },
+  "1tui": {
+    "project": "brasstranscripts",
+    "slug": "page-podcast-transcription-service",
+    "url": "https://brasstranscripts.com/podcast-transcription-service"
   },
   "1tur": {
     "project": "copper-keto",
@@ -2754,6 +3239,11 @@
     "slug": "seo-ready-transcripts-audio-to-ranking-content",
     "url": "https://brasstranscripts.com/blog/seo-ready-transcripts-audio-to-ranking-content"
   },
+  "1u8w": {
+    "project": "brasstranscripts",
+    "slug": "page-interview-transcription-service",
+    "url": "https://brasstranscripts.com/interview-transcription-service"
+  },
   "1uda": {
     "project": "brass-seo",
     "slug": "switching-from-seo-agency-when-the-math-tips",
@@ -2763,6 +3253,11 @@
     "project": "coppersun",
     "slug": "ai-brand-positioning-strategy",
     "url": "https://coppersun.io/blog/ai-brand-positioning-strategy"
+  },
+  "1udv": {
+    "project": "coppersun",
+    "slug": "research-attention-and-emotion",
+    "url": "https://coppersun.io/research/attention-and-emotion"
   },
   "1ug9": {
     "project": "nordic",
@@ -2799,15 +3294,30 @@
     "slug": "prove-seo-roi-to-your-boss",
     "url": "https://brass-seo.com/blog/prove-seo-roi-to-your-boss"
   },
+  "1uuz": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-strategic-context-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/strategic-context-analyzer.md"
+  },
   "1uva": {
     "project": "brass-seo",
     "slug": "get-cited-in-ai-search-results",
     "url": "https://brass-seo.com/blog/get-cited-in-ai-search-results"
   },
+  "1ux8": {
+    "project": "brasstranscripts",
+    "slug": "page-research",
+    "url": "https://brasstranscripts.com/research"
+  },
   "1v5s": {
     "project": "nordic",
     "slug": "nordic-dill-potato-salad",
     "url": "https://coppersuncompanion.com/blog/nordic-dill-potato-salad"
+  },
+  "1v6n": {
+    "project": "brasstranscripts",
+    "slug": "page-rev-alternative",
+    "url": "https://brasstranscripts.com/rev-alternative"
   },
   "1v6s": {
     "project": "mind",
@@ -2819,6 +3329,11 @@
     "slug": "nordic-yellow-pea-soup",
     "url": "https://coppersuncompanion.com/blog/nordic-yellow-pea-soup"
   },
+  "1v97": {
+    "project": "brasstranscripts",
+    "slug": "page-ai-transcription-speaker-identification",
+    "url": "https://brasstranscripts.com/ai-transcription-speaker-identification"
+  },
   "1vaa": {
     "project": "copper-keto",
     "slug": "keto-shrimp-stir-fry",
@@ -2828,6 +3343,11 @@
     "project": "coppersun-brass",
     "slug": "ai-code-cve-reckoning-q1-2026",
     "url": "https://coppersun.dev/blog/ai-code-cve-reckoning-q1-2026"
+  },
+  "1vdx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-section-finder-timestamp-locator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-section-finder-timestamp-locator.md"
   },
   "1vho": {
     "project": "mind",
@@ -2869,6 +3389,16 @@
     "slug": "best-ai-transcription-services-2026",
     "url": "https://brasstranscripts.com/blog/best-ai-transcription-services-2026"
   },
+  "1vze": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-customer-support-faq",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/customer-support-faq.md"
+  },
+  "1vzn": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-executive-summary-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/executive-summary-generator.md"
+  },
   "1w08": {
     "project": "brass-seo",
     "slug": "claude-prompts-technical-seo",
@@ -2894,6 +3424,11 @@
     "slug": "how-we-check-every-recipe",
     "url": "https://coppersuncompanion.com/blog/how-we-check-every-recipe"
   },
+  "1w99": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-interview-research-summary",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-research-summary.md"
+  },
   "1wa4": {
     "project": "nordic",
     "slug": "nordic-beet-apple-salad",
@@ -2918,6 +3453,11 @@
     "project": "brass-seo",
     "slug": "prompt-technical-seo-claude-crawlability-audit",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/claude-crawlability-audit.md"
+  },
+  "1wld": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-subscription-vs-payperuse-decision",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/subscription-vs-payperuse-decision.md"
   },
   "1wnn": {
     "project": "nordic",
@@ -2954,6 +3494,11 @@
     "slug": "mind-diet-companion-on-the-app-store",
     "url": "https://coppersuncompanion.com/blog/mind-diet-companion-on-the-app-store"
   },
+  "1xcy": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-blind-spots",
+    "url": "https://coppersun.dev/ai-blind-spots"
+  },
   "1xe9": {
     "project": "brasstranscripts",
     "slug": "meeting-transcript-action-items-ai-prompt",
@@ -2989,6 +3534,11 @@
     "slug": "content-refresh-search-data-ai",
     "url": "https://coppersun.io/blog/content-refresh-search-data-ai"
   },
+  "1xqp": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-video-content-repurposing",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-content-repurposing.md"
+  },
   "1xsd": {
     "project": "coppersun",
     "slug": "founder-voice-ai-content",
@@ -3008,6 +3558,11 @@
     "project": "coppersun",
     "slug": "ai-hallucination-brand-marketing",
     "url": "https://coppersun.io/blog/ai-hallucination-brand-marketing"
+  },
+  "1y13": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-code-policy",
+    "url": "https://coppersun.dev/ai-code-policy"
   },
   "1y1i": {
     "project": "copper-keto",
@@ -3154,6 +3709,11 @@
     "slug": "why-keto-is-hard-to-stick-to",
     "url": "https://coppersuncompanion.com/blog/why-keto-is-hard-to-stick-to"
   },
+  "28py": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-executive-summary",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-executive-summary.md"
+  },
   "2j3f": {
     "project": "coppersun-brass",
     "slug": "express-security-ai-generated-nodejs",
@@ -3188,6 +3748,16 @@
     "project": "brass-seo",
     "slug": "seo-for-trades-local-and-service-pages-win",
     "url": "https://brass-seo.com/blog/seo-for-trades-local-and-service-pages-win"
+  },
+  "2rkk": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-contradiction-analyzer",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/contradiction-analyzer"
+  },
+  "2v9s": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-objection-pattern-identifier",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/objection-pattern-identifier.md"
   },
   "2vb7": {
     "project": "copper-keto",
@@ -3248,6 +3818,11 @@
     "project": "nordic",
     "slug": "nordic-air-fryer-meatballs",
     "url": "https://coppersuncompanion.com/blog/nordic-air-fryer-meatballs"
+  },
+  "3bpx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-contradiction-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/contradiction-analyzer.md"
   },
   "3cxu": {
     "project": "coppersun",
@@ -3339,6 +3914,11 @@
     "slug": "cups-to-grams-keto-baking",
     "url": "https://coppersuncompanion.com/blog/cups-to-grams-keto-baking"
   },
+  "4md2": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-google-cloud-stt-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/google-cloud-stt-cost-calculator.md"
+  },
   "4nr4": {
     "project": "brass-seo",
     "slug": "page-ecommerce-seo-essentials",
@@ -3384,15 +3964,35 @@
     "slug": "human-in-the-loop-ai-marketing",
     "url": "https://brass-seo.com/blog/human-in-the-loop-ai-marketing"
   },
+  "4vix": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-speaker-name-assignment-helper",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-name-assignment-helper.md"
+  },
+  "4xv8": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-sales-team-transcription-roi-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/sales-team-transcription-roi-calculator.md"
+  },
   "4ynb": {
     "project": "brass-seo",
     "slug": "resource-page-link-building-guide",
     "url": "https://brass-seo.com/blog/resource-page-link-building-guide"
   },
+  "51pv": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-action-item-tracker",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/action-item-tracker.md"
+  },
   "53pd": {
     "project": "brasstranscripts",
     "slug": "ai-transcription-services-how-to-choose-2026-guide",
     "url": "https://brasstranscripts.com/blog/ai-transcription-services-how-to-choose-2026-guide"
+  },
+  "547b": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-sales-call-comprehensive-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-comprehensive-analyzer.md"
   },
   "55uk": {
     "project": "brasstranscripts",
@@ -3423,6 +4023,16 @@
     "project": "brass-seo",
     "slug": "research-structured-data",
     "url": "https://brass-seo.com/research/structured-data"
+  },
+  "5gqx": {
+    "project": "coppersun-brass",
+    "slug": "page-ai-code-review-guide",
+    "url": "https://coppersun.dev/ai-code-review-guide"
+  },
+  "5hj8": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-ai-prompts",
+    "url": "https://legal.brasstranscripts.com/ai-prompts"
   },
   "5i79": {
     "project": "copper-keto",
@@ -3489,6 +4099,11 @@
     "slug": "aws-transcribe-pricing-per-minute-2025-better-alternative",
     "url": "https://brasstranscripts.com/blog/aws-transcribe-pricing-per-minute-2025-better-alternative"
   },
+  "5ws7": {
+    "project": "brasstranscripts",
+    "slug": "page-research-asr-benchmarks",
+    "url": "https://brasstranscripts.com/research/asr-benchmarks"
+  },
   "5x80": {
     "project": "copper-keto",
     "slug": "keto-starbucks-order",
@@ -3519,10 +4134,20 @@
     "slug": "prompt-troubleshooting-indexing-issue-diagnosis",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/troubleshooting/indexing-issue-diagnosis.md"
   },
+  "60sr": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-structured-interview-evaluator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/structured-interview-evaluator.md"
+  },
   "65yn": {
     "project": "brass-seo",
     "slug": "restaurant-doubled-bookings-seo",
     "url": "https://brass-seo.com/blog/restaurant-doubled-bookings-seo"
+  },
+  "676o": {
+    "project": "brasstranscripts",
+    "slug": "page-instant-audio-transcription",
+    "url": "https://brasstranscripts.com/instant-audio-transcription"
   },
   "67hc": {
     "project": "coppersun-brass",
@@ -3538,6 +4163,11 @@
     "project": "brasstranscripts",
     "slug": "whisperx-alternative-2026-managed-ai-transcription",
     "url": "https://brasstranscripts.com/blog/whisperx-alternative-2026-managed-ai-transcription"
+  },
+  "6llu": {
+    "project": "coppersun-brass",
+    "slug": "page-security-review-ai-generated-code",
+    "url": "https://coppersun.dev/security-review-ai-generated-code"
   },
   "6nze": {
     "project": "mind",
@@ -3578,6 +4208,11 @@
     "project": "brass-seo",
     "slug": "technical-seo-ai-prompts",
     "url": "https://brass-seo.com/blog/technical-seo-ai-prompts"
+  },
+  "6v5e": {
+    "project": "coppersun",
+    "slug": "research-ai-consumer-trust",
+    "url": "https://coppersun.io/research/ai-consumer-trust"
   },
   "6wes": {
     "project": "brasstranscripts",
@@ -3669,6 +4304,11 @@
     "slug": "squarespace-seo-working-around-the-limits",
     "url": "https://brass-seo.com/blog/squarespace-seo-working-around-the-limits"
   },
+  "80ka": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-subtitle-timing-optimizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/subtitle-timing-optimizer.md"
+  },
   "80nd": {
     "project": "brass-seo",
     "slug": "page-semrush-alternative",
@@ -3684,6 +4324,11 @@
     "slug": "search-console-insights-guide",
     "url": "https://brass-seo.com/blog/search-console-insights-guide"
   },
+  "822x": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-action-item-tracker",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/action-item-tracker"
+  },
   "83rp": {
     "project": "brass-seo",
     "slug": "transcription-buyer-patterns-data",
@@ -3698,6 +4343,11 @@
     "project": "nordic",
     "slug": "nordic-rye-bread",
     "url": "https://coppersuncompanion.com/blog/nordic-rye-bread"
+  },
+  "87r8": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-microsoft-ads-pain-point-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-pain-point-extractor.md"
   },
   "8a94": {
     "project": "coppersun-brass",
@@ -3739,6 +4389,11 @@
     "slug": "research-ai-overviews-zero-click",
     "url": "https://brass-seo.com/research/ai-overviews-zero-click"
   },
+  "8sb3": {
+    "project": "brasstranscripts",
+    "slug": "page-transcribe-my-audio",
+    "url": "https://brasstranscripts.com/transcribe-my-audio"
+  },
   "8sev": {
     "project": "brass-seo",
     "slug": "google-ai-mode-what-it-is-and-how-to-optimize",
@@ -3764,6 +4419,11 @@
     "slug": "author-markup-eeat-google-ai",
     "url": "https://brass-seo.com/blog/author-markup-eeat-google-ai"
   },
+  "8yut": {
+    "project": "coppersun-brass",
+    "slug": "page-brass-setup-guide",
+    "url": "https://coppersun.dev/brass-setup-guide"
+  },
   "8z4y": {
     "project": "brass-seo",
     "slug": "prompt-platform-seo-shopify-seo-settings-checklist",
@@ -3778,6 +4438,11 @@
     "project": "brass-seo",
     "slug": "transcription-vendor-security-questions",
     "url": "https://brass-seo.com/blog/transcription-vendor-security-questions"
+  },
+  "99i0": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-technical-terminology-consistency-checker",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/technical-terminology-consistency-checker.md"
   },
   "9a30": {
     "project": "coppersun-brass",
@@ -3794,6 +4459,11 @@
     "slug": "spanish-audio-to-english-text-translation-guide",
     "url": "https://brasstranscripts.com/blog/spanish-audio-to-english-text-translation-guide"
   },
+  "9fct": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-lecture-key-concepts-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/lecture-key-concepts-extractor.md"
+  },
   "9g0g": {
     "project": "brass-seo",
     "slug": "build-your-own-brand-memory-layer",
@@ -3808,6 +4478,11 @@
     "project": "brass-seo",
     "slug": "gsc-vs-ga4-difference",
     "url": "https://brass-seo.com/blog/gsc-vs-ga4-difference"
+  },
+  "9m1u": {
+    "project": "coppersun-brass",
+    "slug": "page-run-on-every-commit",
+    "url": "https://coppersun.dev/run-on-every-commit"
   },
   "9m5g": {
     "project": "coppersun-brass",
@@ -3834,6 +4509,11 @@
     "slug": "lecture-transcription-for-students",
     "url": "https://brasstranscripts.com/blog/lecture-transcription-for-students"
   },
+  "9nxf": {
+    "project": "brasstranscripts",
+    "slug": "page-speech-to-text",
+    "url": "https://brasstranscripts.com/speech-to-text"
+  },
   "9sz9": {
     "project": "mind",
     "slug": "mind-roasted-brussels-walnuts",
@@ -3849,10 +4529,20 @@
     "slug": "research-spam-policies-manipulation",
     "url": "https://brass-seo.com/research/spam-policies-manipulation"
   },
+  "9x4w": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-section-organizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-section-organizer.md"
+  },
   "9x5m": {
     "project": "nordic",
     "slug": "nordic-baked-cod-potatoes-peas",
     "url": "https://coppersuncompanion.com/blog/nordic-baked-cod-potatoes-peas"
+  },
+  "9yd4": {
+    "project": "coppersun-brass",
+    "slug": "research-agentic-ai-code-security",
+    "url": "https://coppersun.dev/research/agentic-ai-code-security"
   },
   "9z3e": {
     "project": "brasstranscripts",
@@ -3863,6 +4553,16 @@
     "project": "brass-seo",
     "slug": "why-your-page-was-in-ai-mode-and-then-wasnt",
     "url": "https://brass-seo.com/blog/why-your-page-was-in-ai-mode-and-then-wasnt"
+  },
+  "a9e7": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-client-intake-summary-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/client-intake-summary-generator.md"
+  },
+  "acbr": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-social-media-content-suite",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-content-suite.md"
   },
   "acqq": {
     "project": "coppersun-brass",
@@ -3934,10 +4634,20 @@
     "slug": "keto-buffalo-chicken-wings",
     "url": "https://coppersuncompanion.com/blog/keto-buffalo-chicken-wings"
   },
+  "bm6t": {
+    "project": "coppersun-brass",
+    "slug": "page-python-scanning-for-ai-code",
+    "url": "https://coppersun.dev/python-scanning-for-ai-code"
+  },
   "bnw4": {
     "project": "brass-seo",
     "slug": "10-questions-seo-data",
     "url": "https://brass-seo.com/blog/10-questions-seo-data"
+  },
+  "btfi": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-speaker-attribution-error-corrector",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-attribution-error-corrector.md"
   },
   "bxnj": {
     "project": "coppersun",
@@ -3999,10 +4709,20 @@
     "slug": "brasscoders-race-conditions-async-python",
     "url": "https://coppersun.dev/blog/brasscoders-race-conditions-async-python"
   },
+  "cded": {
+    "project": "brasstranscripts",
+    "slug": "page-trint-alternative",
+    "url": "https://brasstranscripts.com/trint-alternative"
+  },
   "cdk5": {
     "project": "coppersun-brass",
     "slug": "how-do-i-read-brass-ai-instructions-yaml",
     "url": "https://coppersun.dev/blog/how-do-i-read-brass-ai-instructions-yaml"
+  },
+  "chcs": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-seo-article-series",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/seo-article-series.md"
   },
   "cing": {
     "project": "coppersun-brass",
@@ -4043,6 +4763,16 @@
     "project": "nordic",
     "slug": "nordic-skyr-breakfast-bowl",
     "url": "https://coppersuncompanion.com/blog/nordic-skyr-breakfast-bowl"
+  },
+  "cms3": {
+    "project": "coppersun-brass",
+    "slug": "page-secure-llm-applications",
+    "url": "https://coppersun.dev/secure-llm-applications"
+  },
+  "cn4o": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-quality-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-quality-analyzer.md"
   },
   "cp50": {
     "project": "nordic",
@@ -4134,6 +4864,11 @@
     "slug": "what-is-skyr",
     "url": "https://coppersuncompanion.com/blog/what-is-skyr"
   },
+  "da4k": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-funny-commentary-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/funny-commentary-extractor.md"
+  },
   "darq": {
     "project": "brass-seo",
     "slug": "prompt-troubleshooting-firewall-bot-allowlisting",
@@ -4169,6 +4904,11 @@
     "slug": "how-ai-adds-punctuation-to-transcripts",
     "url": "https://brasstranscripts.com/blog/how-ai-adds-punctuation-to-transcripts"
   },
+  "dnk0": {
+    "project": "coppersun-brass",
+    "slug": "research-slopsquatting",
+    "url": "https://coppersun.dev/research/slopsquatting"
+  },
   "do6k": {
     "project": "coppersun",
     "slug": "brief-to-publish-content-workflow",
@@ -4179,10 +4919,20 @@
     "slug": "nordic-diet-brain-health",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-brain-health"
   },
+  "dq1t": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-google-ads-interview-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/google-ads-interview-analyzer.md"
+  },
   "dqtq": {
     "project": "brass-seo",
     "slug": "url-structure-decisions-that-compound",
     "url": "https://brass-seo.com/blog/url-structure-decisions-that-compound"
+  },
+  "dr5v": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-competitor-mention-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/competitor-mention-extractor.md"
   },
   "dsy7": {
     "project": "brass-seo",
@@ -4228,6 +4978,11 @@
     "project": "brass-seo",
     "slug": "10-guerilla-seo-moves-you-can-run-this-week",
     "url": "https://brass-seo.com/blog/10-guerilla-seo-moves-you-can-run-this-week"
+  },
+  "e2ik": {
+    "project": "brasstranscripts",
+    "slug": "page-otter-alternative",
+    "url": "https://brasstranscripts.com/otter-alternative"
   },
   "e2ok": {
     "project": "brass-seo",
@@ -4314,6 +5069,11 @@
     "slug": "keto-for-busy-people",
     "url": "https://coppersuncompanion.com/blog/keto-for-busy-people"
   },
+  "et99": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-trint-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/trint-cost-calculator.md"
+  },
   "eug2": {
     "project": "brasstranscripts",
     "slug": "expert-interview-techniques-compelling-business-content",
@@ -4399,6 +5159,11 @@
     "slug": "title-tags-that-get-clicks",
     "url": "https://brass-seo.com/blog/title-tags-that-get-clicks"
   },
+  "fmj7": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-interview-article-transformation",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-article-transformation.md"
+  },
   "fmng": {
     "project": "coppersun-brass",
     "slug": "ai-code-review-is-not-a-control",
@@ -4408,6 +5173,11 @@
     "project": "brass-seo",
     "slug": "my-traffic-dropped-overnight",
     "url": "https://brass-seo.com/blog/my-traffic-dropped-overnight"
+  },
+  "fob4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-sales-call-objection-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-objection-extractor.md"
   },
   "fpek": {
     "project": "nordic",
@@ -4469,6 +5239,11 @@
     "slug": "copper-keto-companion-app-store",
     "url": "https://coppersuncompanion.com/blog/copper-keto-companion-app-store"
   },
+  "ga71": {
+    "project": "coppersun-brass",
+    "slug": "page-ci-code-gates",
+    "url": "https://coppersun.dev/ci-code-gates"
+  },
   "gbr1": {
     "project": "brass-seo",
     "slug": "refresh-merge-or-delete-decision-tree",
@@ -4478,6 +5253,11 @@
     "project": "brass-seo",
     "slug": "ai-mode-default-read-gsc-differently",
     "url": "https://brass-seo.com/blog/ai-mode-default-read-gsc-differently"
+  },
+  "gc0x": {
+    "project": "coppersun-brass",
+    "slug": "research-llm-review-reliability",
+    "url": "https://coppersun.dev/research/llm-review-reliability"
   },
   "ggem": {
     "project": "coppersun-brass",
@@ -4504,10 +5284,25 @@
     "slug": "arabic-audio-transcription-guide",
     "url": "https://brasstranscripts.com/blog/arabic-audio-transcription-guide"
   },
+  "gplk": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-resolution-extractor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/resolution-extractor.md"
+  },
   "gpvz": {
     "project": "brass-seo",
     "slug": "is-chatgpt-sending-you-traffic-ga4",
     "url": "https://brass-seo.com/blog/is-chatgpt-sending-you-traffic-ga4"
+  },
+  "gqv4": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-bulk-vs-single-file-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/bulk-vs-single-file-cost-calculator.md"
+  },
+  "gsgz": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-podcast-transcription-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/podcast-transcription-cost-calculator.md"
   },
   "gv7l": {
     "project": "brasstranscripts",
@@ -4579,10 +5374,25 @@
     "slug": "african-transcription-languages-guide",
     "url": "https://brasstranscripts.com/blog/african-transcription-languages-guide"
   },
+  "hdvk": {
+    "project": "coppersun",
+    "slug": "research-brand-growth",
+    "url": "https://coppersun.io/research/brand-growth"
+  },
   "heqz": {
     "project": "copper-keto",
     "slug": "keto-macros",
     "url": "https://coppersuncompanion.com/blog/keto-macros"
+  },
+  "hezm": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-tutorial-educational-segment-identifier",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/tutorial-educational-segment-identifier.md"
+  },
+  "hfcx": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-data-handling",
+    "url": "https://legal.brasstranscripts.com/data-handling"
   },
   "hgv9": {
     "project": "brass-seo",
@@ -4674,6 +5484,11 @@
     "slug": "six-us-email-copywriting-framework",
     "url": "https://brass-seo.com/blog/six-us-email-copywriting-framework"
   },
+  "i87r": {
+    "project": "brasstranscripts",
+    "slug": "page-youtube-transcription",
+    "url": "https://brasstranscripts.com/youtube-transcription"
+  },
   "i8ir": {
     "project": "brasstranscripts",
     "slug": "how-long-does-ai-transcription-take-real-processing-times",
@@ -4734,6 +5549,11 @@
     "slug": "free-zoom-transcription-5-methods-that-work",
     "url": "https://brasstranscripts.com/blog/free-zoom-transcription-5-methods-that-work"
   },
+  "j7fg": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-interview-quote-extraction",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/interview-quote-extraction"
+  },
   "jay2": {
     "project": "coppersun",
     "slug": "why-ai-forgets-your-brand",
@@ -4789,6 +5609,11 @@
     "slug": "transcription-buyer-patterns-2026-data",
     "url": "https://brasstranscripts.com/blog/transcription-buyer-patterns-2026-data"
   },
+  "jiol": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-deepgram-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/deepgram-cost-calculator.md"
+  },
   "jj99": {
     "project": "brasstranscripts",
     "slug": "replace-speaker-1-2-with-real-names",
@@ -4828,6 +5653,11 @@
     "project": "brass-seo",
     "slug": "keyword-cannibalization-two-pages-fight",
     "url": "https://brass-seo.com/blog/keyword-cannibalization-two-pages-fight"
+  },
+  "k12h": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-otter-ai-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/otter-ai-cost-calculator.md"
   },
   "k5sz": {
     "project": "copper-keto",
@@ -4939,15 +5769,30 @@
     "slug": "seo-problems-brass-seo-solves",
     "url": "https://brass-seo.com/blog/seo-problems-brass-seo-solves"
   },
+  "lb2g": {
+    "project": "coppersun",
+    "slug": "page-why-copper-sun",
+    "url": "https://coppersun.io/why-copper-sun"
+  },
   "lh27": {
     "project": "coppersun",
     "slug": "value-proposition-customer-language",
     "url": "https://coppersun.io/blog/value-proposition-customer-language"
   },
+  "lhsp": {
+    "project": "coppersun-brass",
+    "slug": "research-dependency-confusion",
+    "url": "https://coppersun.dev/research/dependency-confusion"
+  },
   "liez": {
     "project": "brass-seo",
     "slug": "local-pack-rankings-factors-that-matter",
     "url": "https://brass-seo.com/blog/local-pack-rankings-factors-that-matter"
+  },
+  "lj0s": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-meeting-minutes-generator",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/meeting-minutes-generator"
   },
   "lmaw": {
     "project": "coppersun-brass",
@@ -4983,6 +5828,16 @@
     "project": "coppersun-brass",
     "slug": "ai-code-review-policy-template",
     "url": "https://coppersun.dev/blog/ai-code-review-policy-template"
+  },
+  "lwma": {
+    "project": "coppersun",
+    "slug": "research-b2b-buying",
+    "url": "https://coppersun.io/research/b2b-buying"
+  },
+  "lxkz": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-client-interviews",
+    "url": "https://legal.brasstranscripts.com/client-interviews"
   },
   "m4na": {
     "project": "brass-seo",
@@ -5049,6 +5904,11 @@
     "slug": "mind-mediterranean-chicken-beans",
     "url": "https://coppersuncompanion.com/blog/mind-mediterranean-chicken-beans"
   },
+  "ml49": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-deposition-analysis",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/deposition-analysis"
+  },
   "mnit": {
     "project": "mind",
     "slug": "nordic-rye-crispbread",
@@ -5073,6 +5933,11 @@
     "project": "brasstranscripts",
     "slug": "how-speech-quality-is-measured",
     "url": "https://brasstranscripts.com/blog/how-speech-quality-is-measured"
+  },
+  "mt4o": {
+    "project": "coppersun-brass",
+    "slug": "research-cross-file-bugs",
+    "url": "https://coppersun.dev/research/cross-file-bugs"
   },
   "mtqg": {
     "project": "nordic",
@@ -5134,15 +5999,35 @@
     "slug": "search-intent-ai-content-brief",
     "url": "https://coppersun.io/blog/search-intent-ai-content-brief"
   },
+  "nb07": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-performance-review-documentation-helper",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/performance-review-documentation-helper.md"
+  },
   "nb67": {
     "project": "coppersun-brass",
     "slug": "quantifying-ai-code-risk-engineering-leaders",
     "url": "https://coppersun.dev/blog/quantifying-ai-code-risk-engineering-leaders"
   },
+  "ncmk": {
+    "project": "brasstranscripts",
+    "slug": "page-transcription-audio-en-texte",
+    "url": "https://brasstranscripts.com/transcription-audio-en-texte"
+  },
   "nfd5": {
     "project": "nordic",
     "slug": "nordic-pytt-i-panna",
     "url": "https://coppersuncompanion.com/blog/nordic-pytt-i-panna"
+  },
+  "ng75": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-assemblyai-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/assemblyai-cost-calculator.md"
+  },
+  "njan": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-stream-highlight-reel-script-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/stream-highlight-reel-script-generator.md"
   },
   "nl49": {
     "project": "nordic",
@@ -5239,6 +6124,11 @@
     "slug": "new-transcription-resources-guides-comparisons-2025",
     "url": "https://brasstranscripts.com/blog/new-transcription-resources-guides-comparisons-2025"
   },
+  "op50": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-client-call-documentation-distributed-teams",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/client-call-documentation-distributed-teams.md"
+  },
   "oqox": {
     "project": "brasstranscripts",
     "slug": "assemblyai-pricing-per-minute-2025-real-costs",
@@ -5254,10 +6144,20 @@
     "slug": "content-creator-transcription-stack-youtube-blog-pipeline",
     "url": "https://brasstranscripts.com/blog/content-creator-transcription-stack-youtube-blog-pipeline"
   },
+  "ozcs": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-blog-post-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/blog-post-generator.md"
+  },
   "ozvt": {
     "project": "brass-seo",
     "slug": "what-gets-you-cited-by-ai-the-numbers",
     "url": "https://brass-seo.com/blog/what-gets-you-cited-by-ai-the-numbers"
+  },
+  "p1vv": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-remote-meeting-summary-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/remote-meeting-summary-generator.md"
   },
   "p3jy": {
     "project": "brasstranscripts",
@@ -5268,6 +6168,11 @@
     "project": "mind",
     "slug": "nordic-kale-barley-salad",
     "url": "https://coppersuncompanion.com/blog/nordic-kale-barley-salad"
+  },
+  "p5zz": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-transcription",
+    "url": "https://brasstranscripts.com/legal-transcription"
   },
   "p6re": {
     "project": "copper-keto",
@@ -5304,6 +6209,11 @@
     "slug": "ai-coding-market-2026-five-numbers",
     "url": "https://coppersun.dev/blog/ai-coding-market-2026-five-numbers"
   },
+  "pftg": {
+    "project": "coppersun-brass",
+    "slug": "research-secret-leakage",
+    "url": "https://coppersun.dev/research/secret-leakage"
+  },
   "ph6m": {
     "project": "coppersun-brass",
     "slug": "security-manager-brief-ai-generated-code-risk",
@@ -5334,6 +6244,11 @@
     "slug": "prompt-seo-analysis-seo-report-action-plan",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-analysis/seo-report-action-plan.md"
   },
+  "ptrq": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-training-material-developer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/training-material-developer.md"
+  },
   "puy5": {
     "project": "brass-seo",
     "slug": "traffic-decaying-gsc-already-knows",
@@ -5353,6 +6268,11 @@
     "project": "brass-seo",
     "slug": "30-minute-content-refresh-gsc-data",
     "url": "https://brass-seo.com/blog/30-minute-content-refresh-gsc-data"
+  },
+  "q5im": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-social-media-suite",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/social-media-suite.md"
   },
   "q62z": {
     "project": "brasstranscripts",
@@ -5388,6 +6308,11 @@
     "project": "brass-seo",
     "slug": "prompt-seo-playbooks-press-release-angle-finder",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/seo-playbooks/press-release-angle-finder.md"
+  },
+  "qffc": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-legal-strategy-developer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/legal-strategy-developer.md"
   },
   "qi6d": {
     "project": "copper-keto",
@@ -5474,6 +6399,11 @@
     "slug": "boundary-content-geo-case-study",
     "url": "https://brass-seo.com/blog/boundary-content-geo-case-study"
   },
+  "r1kn": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-processing-time-roi-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/processing-time-roi-calculator.md"
+  },
   "r4k0": {
     "project": "copper-keto",
     "slug": "keto-meal-prep",
@@ -5504,6 +6434,11 @@
     "slug": "audio-quality-secrets-perfect-transcription",
     "url": "https://brasstranscripts.com/blog/audio-quality-secrets-perfect-transcription"
   },
+  "rfdx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-podcast-blog-post-transformer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-blog-post-transformer.md"
+  },
   "rfoi": {
     "project": "brasstranscripts",
     "slug": "complete-brasstranscripts-guide-library-roundup",
@@ -5528,6 +6463,11 @@
     "project": "copper-keto",
     "slug": "keto-italian-restaurant",
     "url": "https://coppersuncompanion.com/blog/keto-italian-restaurant"
+  },
+  "rm5d": {
+    "project": "coppersun-brass",
+    "slug": "page-vibe-coding-safety",
+    "url": "https://coppersun.dev/vibe-coding-safety"
   },
   "ro0a": {
     "project": "brass-seo",
@@ -5574,10 +6514,20 @@
     "slug": "mind-chickpea-vegetable-curry",
     "url": "https://coppersuncompanion.com/blog/mind-chickpea-vegetable-curry"
   },
+  "sbmo": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-timeline-constructor",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/timeline-constructor.md"
+  },
   "sgvf": {
     "project": "brasstranscripts",
     "slug": "ai-marketing-garbage-in-garbage-out",
     "url": "https://brasstranscripts.com/blog/ai-marketing-garbage-in-garbage-out"
+  },
+  "sh06": {
+    "project": "brasstranscripts",
+    "slug": "page-research-transcription-accuracy",
+    "url": "https://brasstranscripts.com/research/transcription-accuracy"
   },
   "sl07": {
     "project": "brass-seo",
@@ -5633,6 +6583,11 @@
     "project": "coppersun",
     "slug": "gsc-data-ai-content-opportunities",
     "url": "https://coppersun.io/blog/gsc-data-ai-content-opportunities"
+  },
+  "su9v": {
+    "project": "coppersun-brass",
+    "slug": "research-ai-code-regulated-industries",
+    "url": "https://coppersun.dev/research/ai-code-regulated-industries"
   },
   "sxkw": {
     "project": "copper-keto",
@@ -5749,6 +6704,11 @@
     "slug": "nordic-slow-cooker-lamb-cabbage",
     "url": "https://coppersuncompanion.com/blog/nordic-slow-cooker-lamb-cabbage"
   },
+  "twpx": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-action-items-deadlines-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/action-items-deadlines-generator.md"
+  },
   "twqq": {
     "project": "coppersun-brass",
     "slug": "flagging-pii-in-ai-code",
@@ -5774,6 +6734,11 @@
     "slug": "brasstranscripts-vs-macwhisper-honest-comparison",
     "url": "https://brasstranscripts.com/blog/brasstranscripts-vs-macwhisper-honest-comparison"
   },
+  "u2c5": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcription-service-comparison-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcription-service-comparison-analyzer.md"
+  },
   "u3kn": {
     "project": "coppersun",
     "slug": "creative-effectiveness-research",
@@ -5788,6 +6753,11 @@
     "project": "copper-keto",
     "slug": "keto-shrimp-scampi",
     "url": "https://coppersuncompanion.com/blog/keto-shrimp-scampi"
+  },
+  "u7gm": {
+    "project": "brasstranscripts",
+    "slug": "page-transcript-processing-guide",
+    "url": "https://brasstranscripts.com/transcript-processing-guide"
   },
   "u895": {
     "project": "brass-seo",
@@ -5814,6 +6784,11 @@
     "slug": "prompt-technical-seo-comprehensive-site-audit",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/comprehensive-site-audit.md"
   },
+  "uc9r": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-medical-terminology-accuracy-checker",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/medical-terminology-accuracy-checker.md"
+  },
   "ucgs": {
     "project": "brass-seo",
     "slug": "seo-tools-that-use-your-gsc-data",
@@ -5823,6 +6798,11 @@
     "project": "coppersun",
     "slug": "ai-email-subject-lines",
     "url": "https://coppersun.io/blog/ai-email-subject-lines"
+  },
+  "ueou": {
+    "project": "brasstranscripts",
+    "slug": "page-research-multilingual-speech",
+    "url": "https://brasstranscripts.com/research/multilingual-speech"
   },
   "ufnc": {
     "project": "coppersun-brass",
@@ -5859,6 +6839,16 @@
     "slug": "nordic-diet-and-diabetes",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-and-diabetes"
   },
+  "umq0": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-content-creator-transcription-budget",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/content-creator-transcription-budget.md"
+  },
+  "upi5": {
+    "project": "coppersun-brass",
+    "slug": "page-what-brasscoders-detects",
+    "url": "https://coppersun.dev/what-brasscoders-detects"
+  },
   "uqs0": {
     "project": "coppersun-brass",
     "slug": "ai-coding-speed-perception-gap",
@@ -5884,6 +6874,11 @@
     "slug": "ssl-verify-false-ai-generated-python",
     "url": "https://coppersun.dev/blog/ssl-verify-false-ai-generated-python"
   },
+  "uzfy": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcription-cost-analyzer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcription-cost-analyzer.md"
+  },
   "v17l": {
     "project": "nordic",
     "slug": "nordic-swedish-meatballs",
@@ -5893,6 +6888,16 @@
     "project": "coppersun-brass",
     "slug": "ai-code-buggier-2026-data",
     "url": "https://coppersun.dev/blog/ai-code-buggier-2026-data"
+  },
+  "v4he": {
+    "project": "brasstranscripts",
+    "slug": "page-faq",
+    "url": "https://brasstranscripts.com/faq"
+  },
+  "v4mu": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-epic-moment-reaction-finder",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/epic-moment-reaction-finder.md"
   },
   "v51y": {
     "project": "brass-seo",
@@ -6004,10 +7009,20 @@
     "slug": "transcription-vs-translation-difference",
     "url": "https://brasstranscripts.com/blog/transcription-vs-translation-difference"
   },
+  "vzn1": {
+    "project": "coppersun",
+    "slug": "research-ai-quality-eval",
+    "url": "https://coppersun.io/research/ai-quality-eval"
+  },
   "w0mt": {
     "project": "coppersun",
     "slug": "ai-campaign-concepting",
     "url": "https://coppersun.io/blog/ai-campaign-concepting"
+  },
+  "w3fz": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-meeting-roi-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-roi-calculator.md"
   },
   "w4t4": {
     "project": "brass-seo",
@@ -6044,6 +7059,11 @@
     "slug": "nordic-cardamom-oat-porridge",
     "url": "https://coppersuncompanion.com/blog/nordic-cardamom-oat-porridge"
   },
+  "wmvw": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-ai-vs-human-transcription-decision-helper",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/ai-vs-human-transcription-decision-helper.md"
+  },
   "wo9c": {
     "project": "brass-seo",
     "slug": "ghost-seo-what-works-and-whats-missing",
@@ -6064,10 +7084,20 @@
     "slug": "scan-patch-verify-ai-bugs",
     "url": "https://coppersun.dev/blog/scan-patch-verify-ai-bugs"
   },
+  "wti7": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-gaming-quote-caption-creator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/gaming-quote-caption-creator.md"
+  },
   "ww8v": {
     "project": "coppersun",
     "slug": "audit-ai-visibility",
     "url": "https://coppersun.io/blog/audit-ai-visibility"
+  },
+  "x0uc": {
+    "project": "brasstranscripts",
+    "slug": "page-affordable-transcription",
+    "url": "https://brasstranscripts.com/affordable-transcription"
   },
   "x17n": {
     "project": "coppersun-brass",
@@ -6124,6 +7154,16 @@
     "slug": "prompt-platform-seo-webflow-seo-launch-checklist",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/platform-seo/webflow-seo-launch-checklist.md"
   },
+  "xdmt": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-sales-call-competitor-intelligence",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-competitor-intelligence.md"
+  },
+  "xgny": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-transcript-content-repurposer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-content-repurposer.md"
+  },
   "xhkq": {
     "project": "coppersun-brass",
     "slug": "brass-paid-launched",
@@ -6143,6 +7183,11 @@
     "project": "copper-keto",
     "slug": "eating-out-on-keto",
     "url": "https://coppersuncompanion.com/blog/eating-out-on-keto"
+  },
+  "xp8v": {
+    "project": "brasstranscripts",
+    "slug": "page-transcription-pricing",
+    "url": "https://brasstranscripts.com/transcription-pricing"
   },
   "xr33": {
     "project": "brasstranscripts",
@@ -6184,6 +7229,11 @@
     "slug": "what-is-llms-txt-transcript-content",
     "url": "https://brasstranscripts.com/blog/what-is-llms-txt-transcript-content"
   },
+  "y80w": {
+    "project": "coppersun",
+    "slug": "research-creative-effectiveness",
+    "url": "https://coppersun.io/research/creative-effectiveness"
+  },
   "y8a4": {
     "project": "brass-seo",
     "slug": "content-pruning-when-deleting-lifts-rankings",
@@ -6194,6 +7244,11 @@
     "slug": "first-brasscoders-scan-ai-python",
     "url": "https://coppersun.dev/blog/first-brasscoders-scan-ai-python"
   },
+  "y8rl": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-executive-communication-package",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/executive-communication-package.md"
+  },
   "yay2": {
     "project": "brasstranscripts",
     "slug": "global-ai-transcription-trends-2026",
@@ -6203,6 +7258,11 @@
     "project": "coppersun-brass",
     "slug": "what-ai-recommends-to-catch-ai-bugs",
     "url": "https://coppersun.dev/blog/what-ai-recommends-to-catch-ai-bugs"
+  },
+  "ycnz": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-aws-transcribe-true-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/aws-transcribe-true-cost-calculator.md"
   },
   "ydyk": {
     "project": "copper-keto",
@@ -6224,10 +7284,20 @@
     "slug": "ai-coding-tools-security-risk-engineering-leaders",
     "url": "https://coppersun.dev/blog/ai-coding-tools-security-risk-engineering-leaders"
   },
+  "yi57": {
+    "project": "brasstranscripts",
+    "slug": "page-multilingual-transcription-prompts",
+    "url": "https://brasstranscripts.com/multilingual-transcription-prompts"
+  },
   "yk70": {
     "project": "copper-keto",
     "slug": "keto-pancakes",
     "url": "https://coppersuncompanion.com/blog/keto-pancakes"
+  },
+  "ykvg": {
+    "project": "brasstranscripts",
+    "slug": "prompt-legal-professional-session-progress-note-generator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/session-progress-note-generator.md"
   },
   "yleq": {
     "project": "mind",
@@ -6238,6 +7308,16 @@
     "project": "copper-keto",
     "slug": "sheet-pan-salmon-asparagus",
     "url": "https://coppersuncompanion.com/blog/sheet-pan-salmon-asparagus"
+  },
+  "yn59": {
+    "project": "coppersun",
+    "slug": "page-case-studies",
+    "url": "https://coppersun.io/case-studies"
+  },
+  "yneg": {
+    "project": "brasstranscripts",
+    "slug": "prompt-content-marketing-podcast-social-media-package",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-social-media-package.md"
   },
   "ypgm": {
     "project": "brasstranscripts",
@@ -6264,15 +7344,40 @@
     "slug": "keto-and-exercise",
     "url": "https://coppersuncompanion.com/blog/keto-and-exercise"
   },
+  "yuol": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-faq",
+    "url": "https://legal.brasstranscripts.com/faq"
+  },
+  "yvct": {
+    "project": "brasstranscripts",
+    "slug": "prompt-executive-business-deadline-milestone-organizer",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/deadline-milestone-organizer.md"
+  },
+  "yvv6": {
+    "project": "brasstranscripts",
+    "slug": "page-research-speaker-diarization",
+    "url": "https://brasstranscripts.com/research/speaker-diarization"
+  },
   "yy29": {
     "project": "coppersun",
     "slug": "structured-brand-brief-template",
     "url": "https://coppersun.io/blog/structured-brand-brief-template"
   },
+  "yyd3": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-legal-strategy-developer",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/legal-strategy-developer"
+  },
   "yzie": {
     "project": "coppersun-brass",
     "slug": "deterministic-gate-vs-llm-reviewer",
     "url": "https://coppersun.dev/blog/deterministic-gate-vs-llm-reviewer"
+  },
+  "z39i": {
+    "project": "brasstranscripts",
+    "slug": "prompt-general-content-universal-transcription-cost-calculator",
+    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/universal-transcription-cost-calculator.md"
   },
   "z3nh": {
     "project": "brass-seo",
@@ -6319,6 +7424,11 @@
     "slug": "nordic-diet-for-vegetarians",
     "url": "https://coppersuncompanion.com/blog/nordic-diet-for-vegetarians"
   },
+  "zjhz": {
+    "project": "coppersun-brass",
+    "slug": "page-context-engineering-ai-coding-assistants",
+    "url": "https://coppersun.dev/context-engineering-ai-coding-assistants"
+  },
   "zkp5": {
     "project": "nordic",
     "slug": "nordic-fermented-foods",
@@ -6349,6 +7459,11 @@
     "slug": "keto-avocado-chocolate-mousse",
     "url": "https://coppersuncompanion.com/blog/keto-avocado-chocolate-mousse"
   },
+  "zuc2": {
+    "project": "brasstranscripts",
+    "slug": "page-legal-prompt-executive-summary-generator",
+    "url": "https://legal.brasstranscripts.com/ai-prompts/executive-summary-generator"
+  },
   "zxbn": {
     "project": "copper-keto",
     "slug": "keto-while-traveling",
@@ -6358,1115 +7473,5 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
-  },
-  "1xcy": {
-    "project": "coppersun-brass",
-    "slug": "page-ai-blind-spots",
-    "url": "https://coppersun.dev/ai-blind-spots"
-  },
-  "1y13": {
-    "project": "coppersun-brass",
-    "slug": "page-ai-code-policy",
-    "url": "https://coppersun.dev/ai-code-policy"
-  },
-  "5gqx": {
-    "project": "coppersun-brass",
-    "slug": "page-ai-code-review-guide",
-    "url": "https://coppersun.dev/ai-code-review-guide"
-  },
-  "8yut": {
-    "project": "coppersun-brass",
-    "slug": "page-brass-setup-guide",
-    "url": "https://coppersun.dev/brass-setup-guide"
-  },
-  "ga71": {
-    "project": "coppersun-brass",
-    "slug": "page-ci-code-gates",
-    "url": "https://coppersun.dev/ci-code-gates"
-  },
-  "zjhz": {
-    "project": "coppersun-brass",
-    "slug": "page-context-engineering-ai-coding-assistants",
-    "url": "https://coppersun.dev/context-engineering-ai-coding-assistants"
-  },
-  "1htd": {
-    "project": "coppersun-brass",
-    "slug": "page-how-to-use",
-    "url": "https://coppersun.dev/how-to-use"
-  },
-  "bm6t": {
-    "project": "coppersun-brass",
-    "slug": "page-python-scanning-for-ai-code",
-    "url": "https://coppersun.dev/python-scanning-for-ai-code"
-  },
-  "9m1u": {
-    "project": "coppersun-brass",
-    "slug": "page-run-on-every-commit",
-    "url": "https://coppersun.dev/run-on-every-commit"
-  },
-  "cms3": {
-    "project": "coppersun-brass",
-    "slug": "page-secure-llm-applications",
-    "url": "https://coppersun.dev/secure-llm-applications"
-  },
-  "6llu": {
-    "project": "coppersun-brass",
-    "slug": "page-security-review-ai-generated-code",
-    "url": "https://coppersun.dev/security-review-ai-generated-code"
-  },
-  "1brm": {
-    "project": "coppersun-brass",
-    "slug": "page-static-analysis-buyers-guide",
-    "url": "https://coppersun.dev/static-analysis-buyers-guide"
-  },
-  "rm5d": {
-    "project": "coppersun-brass",
-    "slug": "page-vibe-coding-safety",
-    "url": "https://coppersun.dev/vibe-coding-safety"
-  },
-  "upi5": {
-    "project": "coppersun-brass",
-    "slug": "page-what-brasscoders-detects",
-    "url": "https://coppersun.dev/what-brasscoders-detects"
-  },
-  "19t7": {
-    "project": "coppersun-brass",
-    "slug": "page-why-brass",
-    "url": "https://coppersun.dev/why-brass"
-  },
-  "9yd4": {
-    "project": "coppersun-brass",
-    "slug": "research-agentic-ai-code-security",
-    "url": "https://coppersun.dev/research/agentic-ai-code-security"
-  },
-  "su9v": {
-    "project": "coppersun-brass",
-    "slug": "research-ai-code-regulated-industries",
-    "url": "https://coppersun.dev/research/ai-code-regulated-industries"
-  },
-  "mt4o": {
-    "project": "coppersun-brass",
-    "slug": "research-cross-file-bugs",
-    "url": "https://coppersun.dev/research/cross-file-bugs"
-  },
-  "1d6r": {
-    "project": "coppersun-brass",
-    "slug": "research-cve-risk",
-    "url": "https://coppersun.dev/research/cve-risk"
-  },
-  "lhsp": {
-    "project": "coppersun-brass",
-    "slug": "research-dependency-confusion",
-    "url": "https://coppersun.dev/research/dependency-confusion"
-  },
-  "18w4": {
-    "project": "coppersun-brass",
-    "slug": "research-index",
-    "url": "https://coppersun.dev/research"
-  },
-  "gc0x": {
-    "project": "coppersun-brass",
-    "slug": "research-llm-review-reliability",
-    "url": "https://coppersun.dev/research/llm-review-reliability"
-  },
-  "1dvb": {
-    "project": "coppersun-brass",
-    "slug": "research-market-intelligence",
-    "url": "https://coppersun.dev/research/market-intelligence"
-  },
-  "1t6n": {
-    "project": "coppersun-brass",
-    "slug": "research-performance-anti-patterns",
-    "url": "https://coppersun.dev/research/performance-anti-patterns"
-  },
-  "1p3j": {
-    "project": "coppersun-brass",
-    "slug": "research-prompt-injection",
-    "url": "https://coppersun.dev/research/prompt-injection"
-  },
-  "pftg": {
-    "project": "coppersun-brass",
-    "slug": "research-secret-leakage",
-    "url": "https://coppersun.dev/research/secret-leakage"
-  },
-  "dnk0": {
-    "project": "coppersun-brass",
-    "slug": "research-slopsquatting",
-    "url": "https://coppersun.dev/research/slopsquatting"
-  },
-  "1s4n": {
-    "project": "coppersun-brass",
-    "slug": "research-vibe-coding-velocity-risk",
-    "url": "https://coppersun.dev/research/vibe-coding-velocity-risk"
-  },
-  "18yl": {
-    "project": "coppersun-brass",
-    "slug": "research-weak-crypto",
-    "url": "https://coppersun.dev/research/weak-crypto"
-  },
-  "yn59": {
-    "project": "coppersun",
-    "slug": "page-case-studies",
-    "url": "https://coppersun.io/case-studies"
-  },
-  "lb2g": {
-    "project": "coppersun",
-    "slug": "page-why-copper-sun",
-    "url": "https://coppersun.io/why-copper-sun"
-  },
-  "1gqu": {
-    "project": "coppersun",
-    "slug": "research-ai-citation",
-    "url": "https://coppersun.io/research/ai-citation"
-  },
-  "6v5e": {
-    "project": "coppersun",
-    "slug": "research-ai-consumer-trust",
-    "url": "https://coppersun.io/research/ai-consumer-trust"
-  },
-  "1nzz": {
-    "project": "coppersun",
-    "slug": "research-ai-hallucination",
-    "url": "https://coppersun.io/research/ai-hallucination"
-  },
-  "vzn1": {
-    "project": "coppersun",
-    "slug": "research-ai-quality-eval",
-    "url": "https://coppersun.io/research/ai-quality-eval"
-  },
-  "1udv": {
-    "project": "coppersun",
-    "slug": "research-attention-and-emotion",
-    "url": "https://coppersun.io/research/attention-and-emotion"
-  },
-  "lwma": {
-    "project": "coppersun",
-    "slug": "research-b2b-buying",
-    "url": "https://coppersun.io/research/b2b-buying"
-  },
-  "hdvk": {
-    "project": "coppersun",
-    "slug": "research-brand-growth",
-    "url": "https://coppersun.io/research/brand-growth"
-  },
-  "1nbj": {
-    "project": "coppersun",
-    "slug": "research-context-retrieval",
-    "url": "https://coppersun.io/research/context-retrieval"
-  },
-  "y80w": {
-    "project": "coppersun",
-    "slug": "research-creative-effectiveness",
-    "url": "https://coppersun.io/research/creative-effectiveness"
-  },
-  "1duw": {
-    "project": "coppersun",
-    "slug": "research-marketing-effectiveness",
-    "url": "https://coppersun.io/research/marketing-effectiveness"
-  },
-  "1r9y": {
-    "project": "coppersun",
-    "slug": "research-pricing-psychology",
-    "url": "https://coppersun.io/research/pricing-psychology"
-  },
-  "1b7e": {
-    "project": "coppersun",
-    "slug": "research-word-of-mouth",
-    "url": "https://coppersun.io/research/word-of-mouth"
-  },
-  "x0uc": {
-    "project": "brasstranscripts",
-    "slug": "page-affordable-transcription",
-    "url": "https://brasstranscripts.com/affordable-transcription"
-  },
-  "14xi": {
-    "project": "brasstranscripts",
-    "slug": "page-ai-prompt-guide",
-    "url": "https://brasstranscripts.com/ai-prompt-guide"
-  },
-  "1v97": {
-    "project": "brasstranscripts",
-    "slug": "page-ai-transcription-speaker-identification",
-    "url": "https://brasstranscripts.com/ai-transcription-speaker-identification"
-  },
-  "1bri": {
-    "project": "brasstranscripts",
-    "slug": "page-audio-naar-tekst",
-    "url": "https://brasstranscripts.com/audio-naar-tekst"
-  },
-  "1sa0": {
-    "project": "brasstranscripts",
-    "slug": "page-audio-quality-tips",
-    "url": "https://brasstranscripts.com/audio-quality-tips"
-  },
-  "10be": {
-    "project": "brasstranscripts",
-    "slug": "page-bulk-transcription-guide",
-    "url": "https://brasstranscripts.com/bulk-transcription-guide"
-  },
-  "1bo3": {
-    "project": "brasstranscripts",
-    "slug": "page-descript-alternative",
-    "url": "https://brasstranscripts.com/descript-alternative"
-  },
-  "v4he": {
-    "project": "brasstranscripts",
-    "slug": "page-faq",
-    "url": "https://brasstranscripts.com/faq"
-  },
-  "676o": {
-    "project": "brasstranscripts",
-    "slug": "page-instant-audio-transcription",
-    "url": "https://brasstranscripts.com/instant-audio-transcription"
-  },
-  "1qg8": {
-    "project": "brasstranscripts",
-    "slug": "page-interview-transcription-guide",
-    "url": "https://brasstranscripts.com/interview-transcription-guide"
-  },
-  "1u8w": {
-    "project": "brasstranscripts",
-    "slug": "page-interview-transcription-service",
-    "url": "https://brasstranscripts.com/interview-transcription-service"
-  },
-  "5hj8": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-ai-prompts",
-    "url": "https://legal.brasstranscripts.com/ai-prompts"
-  },
-  "lxkz": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-client-interviews",
-    "url": "https://legal.brasstranscripts.com/client-interviews"
-  },
-  "15br": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-court-recordings",
-    "url": "https://legal.brasstranscripts.com/court-recordings"
-  },
-  "hfcx": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-data-handling",
-    "url": "https://legal.brasstranscripts.com/data-handling"
-  },
-  "18cf": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-depositions",
-    "url": "https://legal.brasstranscripts.com/depositions"
-  },
-  "1kk7": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-expert-witness-prep",
-    "url": "https://legal.brasstranscripts.com/expert-witness-prep"
-  },
-  "yuol": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-faq",
-    "url": "https://legal.brasstranscripts.com/faq"
-  },
-  "822x": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-action-item-tracker",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/action-item-tracker"
-  },
-  "17vp": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-client-intake-summary",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/client-intake-summary"
-  },
-  "2rkk": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-contradiction-analyzer",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/contradiction-analyzer"
-  },
-  "14is": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-cross-examination-prep",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/cross-examination-prep"
-  },
-  "ml49": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-deposition-analysis",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/deposition-analysis"
-  },
-  "zuc2": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-executive-summary-generator",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/executive-summary-generator"
-  },
-  "j7fg": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-interview-quote-extraction",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/interview-quote-extraction"
-  },
-  "1ox6": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-key-facts-extractor",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/key-facts-extractor"
-  },
-  "yyd3": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-legal-strategy-developer",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/legal-strategy-developer"
-  },
-  "lj0s": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-meeting-minutes-generator",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/meeting-minutes-generator"
-  },
-  "125o": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-prompt-timeline-constructor",
-    "url": "https://legal.brasstranscripts.com/ai-prompts/timeline-constructor"
-  },
-  "p5zz": {
-    "project": "brasstranscripts",
-    "slug": "page-legal-transcription",
-    "url": "https://brasstranscripts.com/legal-transcription"
-  },
-  "1r2k": {
-    "project": "brasstranscripts",
-    "slug": "page-meeting-transcription-software",
-    "url": "https://brasstranscripts.com/meeting-transcription-software"
-  },
-  "1s3u": {
-    "project": "brasstranscripts",
-    "slug": "page-multilingual-transcription",
-    "url": "https://brasstranscripts.com/multilingual-transcription"
-  },
-  "yi57": {
-    "project": "brasstranscripts",
-    "slug": "page-multilingual-transcription-prompts",
-    "url": "https://brasstranscripts.com/multilingual-transcription-prompts"
-  },
-  "e2ik": {
-    "project": "brasstranscripts",
-    "slug": "page-otter-alternative",
-    "url": "https://brasstranscripts.com/otter-alternative"
-  },
-  "1tui": {
-    "project": "brasstranscripts",
-    "slug": "page-podcast-transcription-service",
-    "url": "https://brasstranscripts.com/podcast-transcription-service"
-  },
-  "1ux8": {
-    "project": "brasstranscripts",
-    "slug": "page-research",
-    "url": "https://brasstranscripts.com/research"
-  },
-  "5ws7": {
-    "project": "brasstranscripts",
-    "slug": "page-research-asr-benchmarks",
-    "url": "https://brasstranscripts.com/research/asr-benchmarks"
-  },
-  "109g": {
-    "project": "brasstranscripts",
-    "slug": "page-research-audio-quality",
-    "url": "https://brasstranscripts.com/research/audio-quality"
-  },
-  "ueou": {
-    "project": "brasstranscripts",
-    "slug": "page-research-multilingual-speech",
-    "url": "https://brasstranscripts.com/research/multilingual-speech"
-  },
-  "yvv6": {
-    "project": "brasstranscripts",
-    "slug": "page-research-speaker-diarization",
-    "url": "https://brasstranscripts.com/research/speaker-diarization"
-  },
-  "sh06": {
-    "project": "brasstranscripts",
-    "slug": "page-research-transcription-accuracy",
-    "url": "https://brasstranscripts.com/research/transcription-accuracy"
-  },
-  "1v6n": {
-    "project": "brasstranscripts",
-    "slug": "page-rev-alternative",
-    "url": "https://brasstranscripts.com/rev-alternative"
-  },
-  "1cka": {
-    "project": "brasstranscripts",
-    "slug": "page-sonix-alternative",
-    "url": "https://brasstranscripts.com/sonix-alternative"
-  },
-  "9nxf": {
-    "project": "brasstranscripts",
-    "slug": "page-speech-to-text",
-    "url": "https://brasstranscripts.com/speech-to-text"
-  },
-  "154c": {
-    "project": "brasstranscripts",
-    "slug": "page-transcrever-audio-em-texto",
-    "url": "https://brasstranscripts.com/transcrever-audio-em-texto"
-  },
-  "19zc": {
-    "project": "brasstranscripts",
-    "slug": "page-transcribe-mp3-to-text",
-    "url": "https://brasstranscripts.com/transcribe-mp3-to-text"
-  },
-  "8sb3": {
-    "project": "brasstranscripts",
-    "slug": "page-transcribe-my-audio",
-    "url": "https://brasstranscripts.com/transcribe-my-audio"
-  },
-  "u7gm": {
-    "project": "brasstranscripts",
-    "slug": "page-transcript-processing-guide",
-    "url": "https://brasstranscripts.com/transcript-processing-guide"
-  },
-  "10ih": {
-    "project": "brasstranscripts",
-    "slug": "page-transcription-accuracy-guide",
-    "url": "https://brasstranscripts.com/transcription-accuracy-guide"
-  },
-  "ncmk": {
-    "project": "brasstranscripts",
-    "slug": "page-transcription-audio-en-texte",
-    "url": "https://brasstranscripts.com/transcription-audio-en-texte"
-  },
-  "1a28": {
-    "project": "brasstranscripts",
-    "slug": "page-transcription-file-formats",
-    "url": "https://brasstranscripts.com/transcription-file-formats"
-  },
-  "xp8v": {
-    "project": "brasstranscripts",
-    "slug": "page-transcription-pricing",
-    "url": "https://brasstranscripts.com/transcription-pricing"
-  },
-  "10yv": {
-    "project": "brasstranscripts",
-    "slug": "page-transcription-service",
-    "url": "https://brasstranscripts.com/transcription-service"
-  },
-  "cded": {
-    "project": "brasstranscripts",
-    "slug": "page-trint-alternative",
-    "url": "https://brasstranscripts.com/trint-alternative"
-  },
-  "1p15": {
-    "project": "brasstranscripts",
-    "slug": "page-video-transcription-service",
-    "url": "https://brasstranscripts.com/video-transcription-service"
-  },
-  "i87r": {
-    "project": "brasstranscripts",
-    "slug": "page-youtube-transcription",
-    "url": "https://brasstranscripts.com/youtube-transcription"
-  },
-  "104t": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-async-standup-documentation",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/async-standup-documentation.md"
-  },
-  "ozcs": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-blog-post-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/blog-post-generator.md"
-  },
-  "op50": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-client-call-documentation-distributed-teams",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/client-call-documentation-distributed-teams.md"
-  },
-  "12z4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-email-newsletter-sequence",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/email-newsletter-sequence.md"
-  },
-  "v4mu": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-epic-moment-reaction-finder",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/epic-moment-reaction-finder.md"
-  },
-  "da4k": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-funny-commentary-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/funny-commentary-extractor.md"
-  },
-  "wti7": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-gaming-quote-caption-creator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/gaming-quote-caption-creator.md"
-  },
-  "dq1t": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-google-ads-interview-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/google-ads-interview-analyzer.md"
-  },
-  "1b0a": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-lead-magnet-creator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/lead-magnet-creator.md"
-  },
-  "1gt4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-microsoft-ads-copy-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-copy-generator.md"
-  },
-  "1bj2": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-microsoft-ads-language-pattern-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-language-pattern-analyzer.md"
-  },
-  "87r8": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-microsoft-ads-pain-point-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/microsoft-ads-pain-point-extractor.md"
-  },
-  "rfdx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-podcast-blog-post-transformer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-blog-post-transformer.md"
-  },
-  "10rj": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-podcast-show-notes-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-show-notes-generator.md"
-  },
-  "yneg": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-podcast-social-media-package",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/podcast-social-media-package.md"
-  },
-  "p1vv": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-remote-meeting-summary-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/remote-meeting-summary-generator.md"
-  },
-  "1c6b": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-social-media-clip-creator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-clip-creator.md"
-  },
-  "1noe": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-social-media-content-extraction-suite",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-content-extraction-suite.md"
-  },
-  "acbr": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-social-media-content-suite",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/social-media-content-suite.md"
-  },
-  "njan": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-stream-highlight-reel-script-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/stream-highlight-reel-script-generator.md"
-  },
-  "hezm": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-tutorial-educational-segment-identifier",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/tutorial-educational-segment-identifier.md"
-  },
-  "1xqp": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-video-content-repurposing",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-content-repurposing.md"
-  },
-  "13hq": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-video-content-strategy",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-content-strategy.md"
-  },
-  "1ph3": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-video-social-media-package",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/video-social-media-package.md"
-  },
-  "17lp": {
-    "project": "brasstranscripts",
-    "slug": "prompt-content-marketing-youtube-video-to-blog-post-converter",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/content-marketing/youtube-video-to-blog-post-converter.md"
-  },
-  "51pv": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-action-item-tracker",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/action-item-tracker.md"
-  },
-  "1t0m": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-action-items-responsibility-tracker",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/action-items-responsibility-tracker.md"
-  },
-  "1o1n": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-board-minutes-drafting-assistant",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/board-minutes-drafting-assistant.md"
-  },
-  "dr5v": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-competitor-mention-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/competitor-mention-extractor.md"
-  },
-  "yvct": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-deadline-milestone-organizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/deadline-milestone-organizer.md"
-  },
-  "y8rl": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-executive-communication-package",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/executive-communication-package.md"
-  },
-  "1fxd": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-executive-summary-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/executive-summary-generator.md"
-  },
-  "1kgg": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-interview-bias-detector",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/interview-bias-detector.md"
-  },
-  "17xe": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-action-item-extractor-simple",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-action-item-extractor-simple.md"
-  },
-  "13oa": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-action-items-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-action-items-extractor.md"
-  },
-  "28py": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-executive-summary",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-executive-summary.md"
-  },
-  "12ke": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-minutes-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-minutes-generator.md"
-  },
-  "w3fz": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-roi-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-roi-calculator.md"
-  },
-  "1mt1": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-meeting-summary-progress-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/meeting-summary-progress-generator.md"
-  },
-  "2v9s": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-objection-pattern-identifier",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/objection-pattern-identifier.md"
-  },
-  "nb07": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-performance-review-documentation-helper",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/performance-review-documentation-helper.md"
-  },
-  "r1kn": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-processing-time-roi-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/processing-time-roi-calculator.md"
-  },
-  "gplk": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-resolution-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/resolution-extractor.md"
-  },
-  "1ouc": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-risk-assessment-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/risk-assessment-analyzer.md"
-  },
-  "1eii": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-sales-call-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-analyzer.md"
-  },
-  "14ck": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-sales-call-buying-signal-detector",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-buying-signal-detector.md"
-  },
-  "xdmt": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-sales-call-competitor-intelligence",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-competitor-intelligence.md"
-  },
-  "547b": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-sales-call-comprehensive-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-comprehensive-analyzer.md"
-  },
-  "fob4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-sales-call-objection-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/sales-call-objection-extractor.md"
-  },
-  "1m54": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-standup-pattern-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/standup-pattern-analyzer.md"
-  },
-  "1uuz": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-strategic-context-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/strategic-context-analyzer.md"
-  },
-  "60sr": {
-    "project": "brasstranscripts",
-    "slug": "prompt-executive-business-structured-interview-evaluator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/structured-interview-evaluator.md"
-  },
-  "1j5v": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-accessible-txt-documentation",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/accessible-txt-documentation.md"
-  },
-  "twpx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-action-items-deadlines-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/action-items-deadlines-generator.md"
-  },
-  "1jy9": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-ai-transcription-time-estimator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/ai-transcription-time-estimator.md"
-  },
-  "wmvw": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-ai-vs-human-transcription-decision-helper",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/ai-vs-human-transcription-decision-helper.md"
-  },
-  "ng75": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-assemblyai-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/assemblyai-cost-calculator.md"
-  },
-  "1ipi": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-audio-quality-pre-recording-checklist",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/audio-quality-pre-recording-checklist.md"
-  },
-  "ycnz": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-aws-transcribe-true-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/aws-transcribe-true-cost-calculator.md"
-  },
-  "14r2": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-azure-speech-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/azure-speech-cost-calculator.md"
-  },
-  "183k": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-blog-post-creator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/blog-post-creator.md"
-  },
-  "gqv4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-bulk-vs-single-file-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/bulk-vs-single-file-cost-calculator.md"
-  },
-  "umq0": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-content-creator-transcription-budget",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/content-creator-transcription-budget.md"
-  },
-  "1vze": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-customer-support-faq",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/customer-support-faq.md"
-  },
-  "jiol": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-deepgram-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/deepgram-cost-calculator.md"
-  },
-  "1tgk": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-enterprise-transcription-budget-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/enterprise-transcription-budget-calculator.md"
-  },
-  "1vzn": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-executive-summary-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/executive-summary-generator.md"
-  },
-  "1dx3": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-format-conversion-optimizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/format-conversion-optimizer.md"
-  },
-  "4md2": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-google-cloud-stt-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/google-cloud-stt-cost-calculator.md"
-  },
-  "1g4h": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-government-meeting-minutes-assistant",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/government-meeting-minutes-assistant.md"
-  },
-  "fmj7": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-interview-article-transformation",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-article-transformation.md"
-  },
-  "1szv": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-interview-quote-extraction",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-quote-extraction.md"
-  },
-  "1w99": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-interview-research-summary",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-research-summary.md"
-  },
-  "1ctl": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-interview-thematic-analysis",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/interview-thematic-analysis.md"
-  },
-  "1jo4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-invoice-documentation-helper",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/invoice-documentation-helper.md"
-  },
-  "1sub": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-json-metadata-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/json-metadata-analyzer.md"
-  },
-  "9fct": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-lecture-key-concepts-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/lecture-key-concepts-extractor.md"
-  },
-  "1t8e": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-lecture-study-guide-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/lecture-study-guide-generator.md"
-  },
-  "19gx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-meeting-summarizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/meeting-summarizer.md"
-  },
-  "1j6v": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-openai-whisper-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/openai-whisper-cost-calculator.md"
-  },
-  "k12h": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-otter-ai-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/otter-ai-cost-calculator.md"
-  },
-  "gsgz": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-podcast-transcription-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/podcast-transcription-cost-calculator.md"
-  },
-  "1hzh": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-professional-follow-up-email-creator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/professional-follow-up-email-creator.md"
-  },
-  "1q12": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-project-requirements-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/project-requirements-extractor.md"
-  },
-  "15jx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-qualitative-research-thematic-analysis",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/qualitative-research-thematic-analysis.md"
-  },
-  "1qxb": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-research-project-transcription-budget",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/research-project-transcription-budget.md"
-  },
-  "11l8": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-revai-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/revai-cost-calculator.md"
-  },
-  "4xv8": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-sales-team-transcription-roi-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/sales-team-transcription-roi-calculator.md"
-  },
-  "168v": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-scope-change-identifier",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/scope-change-identifier.md"
-  },
-  "chcs": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-seo-article-series",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/seo-article-series.md"
-  },
-  "q5im": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-social-media-suite",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/social-media-suite.md"
-  },
-  "1cj9": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-sonix-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/sonix-cost-calculator.md"
-  },
-  "btfi": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-speaker-attribution-error-corrector",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-attribution-error-corrector.md"
-  },
-  "157p": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-speaker-labeler",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-labeler.md"
-  },
-  "4vix": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-speaker-name-assignment-helper",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/speaker-name-assignment-helper.md"
-  },
-  "1wld": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-subscription-vs-payperuse-decision",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/subscription-vs-payperuse-decision.md"
-  },
-  "80ka": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-subtitle-timing-optimizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/subtitle-timing-optimizer.md"
-  },
-  "99i0": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-technical-terminology-consistency-checker",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/technical-terminology-consistency-checker.md"
-  },
-  "1elc": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-timestamp-formatter",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/timestamp-formatter.md"
-  },
-  "ptrq": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-training-material-developer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/training-material-developer.md"
-  },
-  "19e1": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-cleaner",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-cleaner.md"
-  },
-  "xgny": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-content-repurposer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-content-repurposer.md"
-  },
-  "1kx9": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-format-converter",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-format-converter.md"
-  },
-  "194t": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-formatting-style-standardizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-formatting-style-standardizer.md"
-  },
-  "cn4o": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-quality-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-quality-analyzer.md"
-  },
-  "1vdx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-section-finder-timestamp-locator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-section-finder-timestamp-locator.md"
-  },
-  "9x4w": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcript-section-organizer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-section-organizer.md"
-  },
-  "uzfy": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcription-cost-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcription-cost-analyzer.md"
-  },
-  "u2c5": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-transcription-service-comparison-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcription-service-comparison-analyzer.md"
-  },
-  "et99": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-trint-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/trint-cost-calculator.md"
-  },
-  "z39i": {
-    "project": "brasstranscripts",
-    "slug": "prompt-general-content-universal-transcription-cost-calculator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/universal-transcription-cost-calculator.md"
-  },
-  "a9e7": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-client-intake-summary-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/client-intake-summary-generator.md"
-  },
-  "3bpx": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-contradiction-analyzer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/contradiction-analyzer.md"
-  },
-  "1dxs": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-cross-examination-prep",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/cross-examination-prep.md"
-  },
-  "1eg4": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-deposition-analysis-case-strategy",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/deposition-analysis-case-strategy.md"
-  },
-  "1fco": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-key-facts-extractor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/key-facts-extractor.md"
-  },
-  "qffc": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-legal-strategy-developer",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/legal-strategy-developer.md"
-  },
-  "uc9r": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-medical-terminology-accuracy-checker",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/medical-terminology-accuracy-checker.md"
-  },
-  "1nhl": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-patient-encounter-clinical-note-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/patient-encounter-clinical-note-generator.md"
-  },
-  "ykvg": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-session-progress-note-generator",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/session-progress-note-generator.md"
-  },
-  "1ljp": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-supervision-case-summary",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/supervision-case-summary.md"
-  },
-  "sbmo": {
-    "project": "brasstranscripts",
-    "slug": "prompt-legal-professional-timeline-constructor",
-    "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/legal-professional/timeline-constructor.md"
-  },
-  "1l54": {
-    "project": "brasstranscripts",
-    "slug": "tool-transcript-format-converter",
-    "url": "https://coppersundev.github.io/transcript-format-converter/"
   }
 }
