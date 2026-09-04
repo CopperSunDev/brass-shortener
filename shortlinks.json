@@ -7139,6 +7139,11 @@
     "slug": "keto-lettuce-wrap-burgers",
     "url": "https://coppersuncompanion.com/blog/keto-lettuce-wrap-burgers"
   },
+  "we62": {
+    "project": "nordic",
+    "slug": "nordic-diet-alcohol",
+    "url": "https://coppersuncompanion.com/blog/nordic-diet-alcohol"
+  },
   "weyf": {
     "project": "brass-seo",
     "slug": "page-ai-prompts-guide-for-seo",
@@ -7568,5 +7573,45 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "5egt": {
+    "project": "brass-seo",
+    "slug": "half-of-all-redirects-are-broken",
+    "url": "https://brass-seo.com/blog/half-of-all-redirects-are-broken"
+  },
+  "1ojr": {
+    "project": "brass-seo",
+    "slug": "image-mistake-tanking-core-web-vitals",
+    "url": "https://brass-seo.com/blog/image-mistake-tanking-core-web-vitals"
+  },
+  "1tz5": {
+    "project": "brass-seo",
+    "slug": "research-behind-blocking-ai-crawlers",
+    "url": "https://brass-seo.com/blog/research-behind-blocking-ai-crawlers"
+  },
+  "pjme": {
+    "project": "brass-seo",
+    "slug": "why-hreflang-tags-arent-working",
+    "url": "https://brass-seo.com/blog/why-hreflang-tags-arent-working"
+  },
+  "exju": {
+    "project": "brass-seo",
+    "slug": "research-ai-training-data-memorization",
+    "url": "https://brass-seo.com/research/ai-training-data-memorization"
+  },
+  "9x8z": {
+    "project": "brass-seo",
+    "slug": "research-hreflang-multilingual-seo",
+    "url": "https://brass-seo.com/research/hreflang-multilingual-seo"
+  },
+  "s3zv": {
+    "project": "brass-seo",
+    "slug": "research-image-seo-visual-search",
+    "url": "https://brass-seo.com/research/image-seo-visual-search"
+  },
+  "1lqg": {
+    "project": "brass-seo",
+    "slug": "research-redirects-site-migration",
+    "url": "https://brass-seo.com/research/redirects-site-migration"
   }
 }
