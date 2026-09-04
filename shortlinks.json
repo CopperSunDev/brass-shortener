@@ -7628,5 +7628,25 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "185n": {
+    "project": "coppersun-brass",
+    "slug": "research-access-control-idor",
+    "url": "https://coppersun.dev/research/access-control-idor"
+  },
+  "1sbv": {
+    "project": "coppersun-brass",
+    "slug": "research-code-provenance-license-risk",
+    "url": "https://coppersun.dev/research/code-provenance-license-risk"
+  },
+  "zjtn": {
+    "project": "coppersun-brass",
+    "slug": "research-insecure-deserialization",
+    "url": "https://coppersun.dev/research/insecure-deserialization"
+  },
+  "1vgb": {
+    "project": "coppersun-brass",
+    "slug": "research-redos-resource-exhaustion",
+    "url": "https://coppersun.dev/research/redos-resource-exhaustion"
   }
 }
