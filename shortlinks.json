@@ -7648,5 +7648,15 @@
     "project": "coppersun-brass",
     "slug": "research-redos-resource-exhaustion",
     "url": "https://coppersun.dev/research/redos-resource-exhaustion"
+  },
+  "mw7e": {
+    "project": "brasstranscripts",
+    "slug": "page-about",
+    "url": "https://brasstranscripts.com/about"
+  },
+  "dex1": {
+    "project": "brasstranscripts",
+    "slug": "page-contact",
+    "url": "https://brasstranscripts.com/contact"
   }
 }
