@@ -839,6 +839,11 @@
     "slug": "content-structure-for-ai-citation",
     "url": "https://coppersun.io/blog/content-structure-for-ai-citation"
   },
+  "16di": {
+    "project": "coppersun-brass",
+    "slug": "brasscoders-catches-in-pygoat",
+    "url": "https://coppersun.dev/blog/brasscoders-catches-in-pygoat"
+  },
   "16ef": {
     "project": "coppersun",
     "slug": "search-data-ai-content-brief",
@@ -993,6 +998,11 @@
     "project": "brass-seo",
     "slug": "prompt-technical-seo-diy-seo-audit-checklist",
     "url": "https://github.com/CopperSunDev/brass-seo-ai-prompts/blob/main/prompts/markdown/technical-seo/diy-seo-audit-checklist.md"
+  },
+  "185n": {
+    "project": "coppersun-brass",
+    "slug": "research-access-control-idor",
+    "url": "https://coppersun.dev/research/access-control-idor"
   },
   "186d": {
     "project": "nordic",
@@ -3054,6 +3064,11 @@
     "slug": "page-audio-quality-tips",
     "url": "https://brasstranscripts.com/audio-quality-tips"
   },
+  "1sbv": {
+    "project": "coppersun-brass",
+    "slug": "research-code-provenance-license-risk",
+    "url": "https://coppersun.dev/research/code-provenance-license-risk"
+  },
   "1sc2": {
     "project": "brasstranscripts",
     "slug": "ai-transcription-accuracy-claims-investigation",
@@ -3423,6 +3438,11 @@
     "project": "brasstranscripts",
     "slug": "prompt-general-content-transcript-section-finder-timestamp-locator",
     "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/general-content/transcript-section-finder-timestamp-locator.md"
+  },
+  "1vgb": {
+    "project": "coppersun-brass",
+    "slug": "research-redos-resource-exhaustion",
+    "url": "https://coppersun.dev/research/redos-resource-exhaustion"
   },
   "1vho": {
     "project": "mind",
@@ -4979,6 +4999,11 @@
     "slug": "best-keto-flour",
     "url": "https://coppersuncompanion.com/blog/best-keto-flour"
   },
+  "dex1": {
+    "project": "brasstranscripts",
+    "slug": "page-contact",
+    "url": "https://brasstranscripts.com/contact"
+  },
   "dfb0": {
     "project": "brass-seo",
     "slug": "local-citations-directories-worth-your-time",
@@ -6068,6 +6093,11 @@
     "project": "brasstranscripts",
     "slug": "interview-transcription-qualitative-research-guide",
     "url": "https://brasstranscripts.com/blog/interview-transcription-qualitative-research-guide"
+  },
+  "mw7e": {
+    "project": "brasstranscripts",
+    "slug": "page-about",
+    "url": "https://brasstranscripts.com/about"
   },
   "mx4d": {
     "project": "copper-keto",
@@ -7584,6 +7614,11 @@
     "slug": "page-context-engineering-ai-coding-assistants",
     "url": "https://coppersun.dev/context-engineering-ai-coding-assistants"
   },
+  "zjtn": {
+    "project": "coppersun-brass",
+    "slug": "research-insecure-deserialization",
+    "url": "https://coppersun.dev/research/insecure-deserialization"
+  },
   "zkp5": {
     "project": "nordic",
     "slug": "nordic-fermented-foods",
@@ -7628,35 +7663,5 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
-  },
-  "185n": {
-    "project": "coppersun-brass",
-    "slug": "research-access-control-idor",
-    "url": "https://coppersun.dev/research/access-control-idor"
-  },
-  "1sbv": {
-    "project": "coppersun-brass",
-    "slug": "research-code-provenance-license-risk",
-    "url": "https://coppersun.dev/research/code-provenance-license-risk"
-  },
-  "zjtn": {
-    "project": "coppersun-brass",
-    "slug": "research-insecure-deserialization",
-    "url": "https://coppersun.dev/research/insecure-deserialization"
-  },
-  "1vgb": {
-    "project": "coppersun-brass",
-    "slug": "research-redos-resource-exhaustion",
-    "url": "https://coppersun.dev/research/redos-resource-exhaustion"
-  },
-  "mw7e": {
-    "project": "brasstranscripts",
-    "slug": "page-about",
-    "url": "https://brasstranscripts.com/about"
-  },
-  "dex1": {
-    "project": "brasstranscripts",
-    "slug": "page-contact",
-    "url": "https://brasstranscripts.com/contact"
   }
 }
