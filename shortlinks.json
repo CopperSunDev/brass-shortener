@@ -2789,6 +2789,11 @@
     "slug": "page-legal-prompt-key-facts-extractor",
     "url": "https://legal.brasstranscripts.com/ai-prompts/key-facts-extractor"
   },
+  "1p0o": {
+    "project": "coppersun-brass",
+    "slug": "do-ai-generated-tests-catch-bugs",
+    "url": "https://coppersun.dev/blog/do-ai-generated-tests-catch-bugs"
+  },
   "1p15": {
     "project": "brasstranscripts",
     "slug": "page-video-transcription-service",
