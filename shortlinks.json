@@ -7738,5 +7738,15 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "1t0o": {
+    "project": "coppersun-brass",
+    "slug": "research-ai-test-quality",
+    "url": "https://coppersun.dev/research/ai-test-quality"
+  },
+  "123c": {
+    "project": "coppersun-brass",
+    "slug": "research-sql-injection",
+    "url": "https://coppersun.dev/research/sql-injection"
   }
 }
