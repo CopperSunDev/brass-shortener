@@ -399,6 +399,11 @@
     "slug": "page-seo-opportunities",
     "url": "https://brass-seo.com/seo-opportunities"
   },
+  "123c": {
+    "project": "coppersun-brass",
+    "slug": "research-sql-injection",
+    "url": "https://coppersun.dev/research/sql-injection"
+  },
   "124q": {
     "project": "brasstranscripts",
     "slug": "why-ai-transcription-is-affordable-self-supervised-learning",
@@ -3204,6 +3209,11 @@
     "slug": "prompt-executive-business-action-items-responsibility-tracker",
     "url": "https://github.com/CopperSunDev/brasstranscripts-ai-prompts/blob/main/prompts/markdown/executive-business/action-items-responsibility-tracker.md"
   },
+  "1t0o": {
+    "project": "coppersun-brass",
+    "slug": "research-ai-test-quality",
+    "url": "https://coppersun.dev/research/ai-test-quality"
+  },
   "1t12": {
     "project": "nordic",
     "slug": "nordic-diet-vs-keto",
@@ -5188,6 +5198,11 @@
     "project": "brass-seo",
     "slug": "brass-seo-vs-search-console-ai",
     "url": "https://brass-seo.com/blog/brass-seo-vs-search-console-ai"
+  },
+  "e5j4": {
+    "project": "coppersun",
+    "slug": "social-proof-specific-numbers",
+    "url": "https://coppersun.io/blog/social-proof-specific-numbers"
   },
   "e5l5": {
     "project": "brasstranscripts",
@@ -7738,15 +7753,5 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
-  },
-  "1t0o": {
-    "project": "coppersun-brass",
-    "slug": "research-ai-test-quality",
-    "url": "https://coppersun.dev/research/ai-test-quality"
-  },
-  "123c": {
-    "project": "coppersun-brass",
-    "slug": "research-sql-injection",
-    "url": "https://coppersun.dev/research/sql-injection"
   }
 }
