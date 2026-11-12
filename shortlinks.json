@@ -2844,6 +2844,11 @@
     "slug": "research-prompt-injection",
     "url": "https://coppersun.dev/research/prompt-injection"
   },
+  "1p46": {
+    "project": "mind",
+    "slug": "mind-diet-olive-oil",
+    "url": "https://coppersuncompanion.com/blog/mind-diet-olive-oil"
+  },
   "1p5c": {
     "project": "brasstranscripts",
     "slug": "powerful-llm-prompts-transcript-optimization",
