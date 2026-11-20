@@ -7883,5 +7883,10 @@
     "project": "coppersun-brass",
     "slug": "owasp-agentic-top-10-python-developers",
     "url": "https://coppersun.dev/blog/owasp-agentic-top-10-python-developers"
+  },
+  "ziqj": {
+    "project": "coppersun-brass",
+    "slug": "page-affiliates",
+    "url": "https://coppersun.dev/affiliates"
   }
 }
