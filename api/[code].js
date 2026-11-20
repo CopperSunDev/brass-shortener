@@ -46,9 +46,24 @@ const shortlinks = (() => {
 // Twitterbot, LinkedInBot, Slackbot, …) fetch the short link EVERY time a card
 // renders, so without this flag the counts would be almost entirely automated.
 // Default no-UA → bot (scripted hits rarely send one; humans' browsers always do).
+//
+// 2026-11-20: a reply→click time-correlation found the ATProto/Bluesky ecosystem
+// fetches our links at POST TIME with UAs that don't self-identify as bots — named
+// crawlers (PubkyWebIndex, Bridgy Fed, piiksi, Anthill) and generic HTTP clients —
+// so they slipped through as `bot:false` and inflated the human counts. Added the
+// named ecosystem fetchers + common non-browser client libraries below. None of
+// these tokens appears in a real browser UA, so no human is reclassified. (The
+// harder leak — ecosystem services fetching with a SPOOFED plain-browser UA — can't
+// be caught by UA at all; that is what the `nav` Sec-Fetch signal in logHit is for.)
 function isBotUA(ua) {
   if (!ua) return true;
-  return /bot|crawl|spider|slurp|preview|fetch|embed|cardyb|facebookexternalhit|twitterbot|linkedinbot|slackbot|discordbot|telegrambot|whatsapp|redditbot|pinterest|applebot|bingbot|googlebot|google-inspectiontool|iframely|curl|wget|python-requests|node-fetch|axios|headless|monitor|uptime/i.test(ua);
+  return /bot|crawl|spider|slurp|preview|fetch|embed|cardyb|facebookexternalhit|twitterbot|linkedinbot|slackbot|discordbot|telegrambot|whatsapp|redditbot|pinterest|applebot|bingbot|googlebot|google-inspectiontool|iframely|curl|wget|python-requests|node-fetch|axios|headless|monitor|uptime|pubky|brid\.gy|bridgy|piiksi|anthill|mastodon|pleroma|akkoma|misskey|friendica|gotosocial|activitypub|webfinger|fediverse|feedly|feedbin|webindex|okhttp|go-http|golang|java\/|jakarta|httpclient|libwww|scrapy|guzzle|postman|insomnia|undici|deno|dart\//i.test(ua);
+}
+
+// A hit whose referrer is the shortener's own origin is never an organic human
+// reaching a short link — it's a service walking the domain. Flag it bot.
+function isSelfReferer(referer) {
+  return !!referer && /^https?:\/\/(www\.)?brss\.fyi(\/|$|\?)/i.test(referer);
 }
 
 // Axiom ingest config (set on the Vercel project). AXIOM_API_URL defaults to
@@ -76,6 +91,13 @@ function ingestHit(record) {
 function logHit(code, entry, request) {
   try {
     const ua = request.headers.get('user-agent') || '';
+    const referer = request.headers.get('referer') || null;
+    // Sec-Fetch metadata: real top-level browser navigations (a human opening the
+    // link, in-app webviews included) send Sec-Fetch-Dest: document / Mode: navigate.
+    // Server-side fetchers (card unfurlers, relays, indexers) send none of these.
+    const secFetchDest = request.headers.get('sec-fetch-dest') || null;
+    const secFetchMode = request.headers.get('sec-fetch-mode') || null;
+    const secFetchSite = request.headers.get('sec-fetch-site') || null;
     const record = {
       _time: new Date().toISOString(),
       event: 'shortlink_hit',
@@ -83,10 +105,20 @@ function logHit(code, entry, request) {
       project: entry.project ?? null,
       slug: entry.slug ?? null,
       dest: entry.url,
-      bot: isBotUA(ua),
+      bot: isBotUA(ua) || isSelfReferer(referer),
       ua: ua.slice(0, 200) || null,
-      referer: request.headers.get('referer') || null,
+      referer,
       country: request.headers.get('x-vercel-ip-country') || null,
+      secFetchDest,
+      secFetchMode,
+      secFetchSite,
+      // nav = looks like a genuine top-level navigation (a person clicking/visiting).
+      // Captured but deliberately NOT folded into `bot` yet: once live data confirms
+      // the post-time machine fetches are nav:false, a one-line follow-up can treat
+      // `bot:false && nav:false` as non-human. Until then, analysis can already use
+      // `bot==false and nav==true` for a strict human count, and `bot` keeps its old
+      // meaning so historical queries stay comparable.
+      nav: secFetchDest === 'document' || secFetchMode === 'navigate',
     };
     console.log(JSON.stringify(record));
     ingestHit(record);
